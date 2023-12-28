@@ -5,5 +5,10 @@ body {
    ***/
     .navbar {
         justify-content: space-around !important;
+
+        h1 {
+            font-oblique: italic;
+            opacity: .9;
+        }
     }
 }
