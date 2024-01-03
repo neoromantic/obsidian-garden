@@ -16,14 +16,14 @@ body {
         
         /* Medium screens: two columns */
     }
-        @media (min-width: 1200px) {
+        @media (min-width: 1050px) {
     .columns.content {
             column-count: 2;
             }
         }
         
         /* Wide screens: three columns */
-        @media (min-width: 1800px) {
+        @media (min-width: 1600px) {
     .columns.content {
             column-count: 3;
             }
