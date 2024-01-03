@@ -4,11 +4,9 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
 
-    .columns {
+    .columns.content {
         /* Default style: single column */
-        .content {
-          column-count: 1;
-        }
+      column-count: 1;
         
         /* Prevent list items from breaking across columns */
         li {
@@ -16,19 +14,19 @@ body {
         }
         
         /* Medium screens: two columns */
+    }
         @media (min-width: 1200px) {
-          .content {
+    .columns.content {
             column-count: 2;
-          }
+            }
         }
         
         /* Wide screens: three columns */
         @media (min-width: 1800px) {
-          .content {
+    .columns.content {
             column-count: 3;
-          }
+            }
         }
-    }
     
     .navbar {
         justify-content: space-around !important;
