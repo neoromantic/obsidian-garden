@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/5-media/filmy/summer-1993/","tags":["to-watch","фильм","#Drama","#Family"]}
+---
+
+# Summer 1993 (2017)
+ 
+After her mother's death, six-year-old Frida is sent to her uncle's family to live with them in the countryside. But Frida finds it hard to forget her mother and adapt to her new life.
+
