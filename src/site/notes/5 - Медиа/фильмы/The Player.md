@@ -3,6 +3,6 @@
 ---
 
 # The Player (1992)
- 
-A Hollywood studio executive is being sent death threats by a writer whose script he rejected, but which one?
+​​A Hollywood studio executive is being sent death threats by a writer whose script he rejected, but which one?
 
+**7.5** on [object Object]
