@@ -3,6 +3,6 @@
 ---
 
 # Moonlight (2016)
- 
-A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.
+​​A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.
 
+**7.4** on [object Object]
