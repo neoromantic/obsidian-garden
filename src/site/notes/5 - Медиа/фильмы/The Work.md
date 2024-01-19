@@ -3,6 +3,6 @@
 ---
 
 # The Work (2017)
- 
-Set inside a single room in Folsom Prison, three men from the outside participate in a four-day group-therapy retreat with a group of incarcerated men for a real look at the challenges of rehabilitation.
+​​Set inside a single room in Folsom Prison, three men from the outside participate in a four-day group-therapy retreat with a group of incarcerated men for a real look at the challenges of rehabilitation.
 
+**7.8** on [object Object]
