@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/5-media/filmy/no-bears/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Romance"]}
 ---
 
-# No Bears.md (2022)
+# No Bears (2022)
 ![](https://m.media-amazon.com/images/M/MV5BYmY5MWM4OWItZDRhNy00NmFjLWFkNGQtMjQyMmU4YzkwNDIxXkEyXkFqcGdeQXVyNjQyMTI3MTM@._V1_SX300.jpg)
 Two parallel love stories in which the partners are thwarted by hidden, inevitable obstacles, the force of superstition, and the mechanics of power.
 
