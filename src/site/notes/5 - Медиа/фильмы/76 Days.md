@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/5-media/filmy/76-days/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Drama"]}
 ---
 
-# 76 Days.md (2020)
+# 76 Days (2020)
 ![](https://m.media-amazon.com/images/M/MV5BYWJmMGMyNWUtYThiYi00ZjNjLWEzZjAtYjJhNmU2ZTUwNzc4XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg)
 Raw and intimate, this documentary captures the struggles of patients and frontline medical professionals battling the COVID-19 pandemic in Wuhan.
 
