@@ -3,6 +3,6 @@
 ---
 
 # Pulp Fiction (1994)
- 
-The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+​​The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
 
+**8.9** on [object Object]
