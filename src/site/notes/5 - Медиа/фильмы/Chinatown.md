@@ -3,6 +3,6 @@
 ---
 
 # Chinatown (1974)
- 
-A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.
+​​A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.
 
+**8.2** on [object Object]
