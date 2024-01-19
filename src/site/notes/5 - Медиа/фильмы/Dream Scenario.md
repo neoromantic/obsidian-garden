@@ -3,6 +3,6 @@
 ---
 
 # Dream Scenario (2023)
- 
-A hapless family man finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. When his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.
+​​A hapless family man finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. When his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.
 
+**7.4** on [object Object]
