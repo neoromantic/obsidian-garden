@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/dream-scenario/","tags":["to-watch","фильм","#Comedy","#Horror"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/dream-scenario/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy","#Horror"]}
 ---
 
 # Dream Scenario (2023)
