@@ -3,6 +3,6 @@
 ---
 
 # The Last Picture Show (1971)
- 
-In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically.
+​​In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically.
 
+**8.0** on [object Object]
