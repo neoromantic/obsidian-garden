@@ -3,6 +3,6 @@
 ---
 
 # Sound City (2013)
- 
-A documentary on the fabled recording studio that was located in Van Nuys, California.
+​​A documentary on the fabled recording studio that was located in Van Nuys, California.
 
+**7.8** on [object Object]
