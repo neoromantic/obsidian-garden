@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/prizzis-honor/","tags":["to-watch","фильм","#Comedy","#Crime","#Drama"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/prizzis-honor/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy","#Crime","#Drama"]}
 ---
 
 # Prizzis Honor (1985)
