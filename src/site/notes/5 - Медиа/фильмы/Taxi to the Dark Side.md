@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/taxi-to-the-dark-side/","tags":["to-watch","фильм","#Documentary","#Crime","#History"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/taxi-to-the-dark-side/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Crime","#History"]}
 ---
 
 # Taxi to the Dark Side (2007)
