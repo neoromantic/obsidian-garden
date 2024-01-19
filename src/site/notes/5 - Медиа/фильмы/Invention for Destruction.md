@@ -3,6 +3,6 @@
 ---
 
 # Invention for Destruction (1958)
- 
-An evil millionaire named Artigas plans to use a super-explosive device to conquer the world from his headquarters inside an enormous volcano.
+​​An evil millionaire named Artigas plans to use a super-explosive device to conquer the world from his headquarters inside an enormous volcano.
 
+**7.5** on [object Object]
