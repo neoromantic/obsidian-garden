@@ -3,6 +3,6 @@
 ---
 
 # Tampopo (1985)
- 
-A truck driver stops at a small family-run noodle shop and decides to help its fledgling business. The story is intertwined with various vignettes about the relationship of love and food.
+​​A truck driver stops at a small family-run noodle shop and decides to help its fledgling business. The story is intertwined with various vignettes about the relationship of love and food.
 
+**7.9** on [object Object]
