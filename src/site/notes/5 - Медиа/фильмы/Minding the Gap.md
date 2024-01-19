@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/minding-the-gap/","tags":["to-watch","фильм","#Documentary","#Sport"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/minding-the-gap/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Sport"]}
 ---
 
 # Minding the Gap (2018)
