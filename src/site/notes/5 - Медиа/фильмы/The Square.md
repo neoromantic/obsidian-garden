@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/the-square/","tags":["to-watch","фильм","#Documentary","#Drama","#History"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/the-square/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Drama","#History"]}
 ---
 
 # The Square (2013)
