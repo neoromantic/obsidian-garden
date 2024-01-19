@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/one-cut-of-the-dead/","tags":["to-watch","фильм","#Comedy","#Drama","#Horror"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/one-cut-of-the-dead/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy","#Drama","#Horror"]}
 ---
 
 # One Cut of the Dead (2017)
