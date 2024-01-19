@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/5-media/filmy/white-riot/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Music"]}
 ---
 
-# White Riot (2019)
-​​Rock Against Racism was formed in 1976, prompted by Eric Clapton. It blends fresh interviews with archive footage to recreate a hostile environment of anti-immigrant hysteria and National Front marches.
+# White Riot.md (2019)
+![](https://m.media-amazon.com/images/M/MV5BMTFjNzI5NzUtNTgxNS00MzIyLWI0MjEtMDYzYzEwZjJmZjg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg)
+Rock Against Racism was formed in 1976, prompted by Eric Clapton. It blends fresh interviews with archive footage to recreate a hostile environment of anti-immigrant hysteria and National Front marches.
 
-**7.2** on [object Object]
+**7.2** on [IMDB](https://www.imdb.com/title/tt8351520)
