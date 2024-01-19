@@ -3,6 +3,6 @@
 ---
 
 # Prizzis Honor (1985)
- 
-Two professional assassins fall in love.
+​​Two professional assassins fall in love.
 
+**6.7** on [object Object]
