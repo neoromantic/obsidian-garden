@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/76-days/","tags":["to-watch","фильм","#Documentary","#Drama"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/76-days/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Drama"]}
 ---
 
 # 76 Days (2020)
