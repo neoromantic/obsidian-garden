@@ -3,6 +3,6 @@
 ---
 
 # Cool Hand Luke (1967)
- 
-A laid-back Southern man is sentenced to two years in a rural prison, but refuses to conform.
+​​A laid-back Southern man is sentenced to two years in a rural prison, but refuses to conform.
 
+**8.1** on [object Object]
