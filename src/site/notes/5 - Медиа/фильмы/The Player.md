@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/the-player/","tags":["to-watch","фильм","#Comedy","#Crime","#Drama"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/the-player/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy","#Crime","#Drama"]}
 ---
 
 # The Player (1992)
