@@ -3,6 +3,6 @@
 ---
 
 # The Lost Weekend (1945)
- 
-The desperate life of a chronic alcoholic is followed through a four-day drinking bout.
+​​The desperate life of a chronic alcoholic is followed through a four-day drinking bout.
 
+**7.9** on [object Object]
