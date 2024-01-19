@@ -3,6 +3,6 @@
 ---
 
 # Minding the Gap (2018)
- 
-Filmmaker Bing Liu searches for correlations between his skateboarder friends' turbulent upbringings and the complexities of modern masculinity.
+​​Filmmaker Bing Liu searches for correlations between his skateboarder friends' turbulent upbringings and the complexities of modern masculinity.
 
+**8.0** on [object Object]
