@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/ben-hur/","tags":["to-watch","фильм","#Adventure","#Drama"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/ben-hur/","contentClasses":"movie","tags":["to-watch","фильм","#Adventure","#Drama"]}
 ---
 
 # Ben-Hur (1959)
