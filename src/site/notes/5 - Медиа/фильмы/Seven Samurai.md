@@ -3,6 +3,6 @@
 ---
 
 # Seven Samurai (1954)
- 
-Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.
+​​Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.
 
+**8.6** on [object Object]
