@@ -3,6 +3,6 @@
 ---
 
 # Im Thinking of Ending Things (2020)
- 
-Full of misgivings, a young woman travels with her new boyfriend to his parents' secluded farm. Upon arriving, she comes to question everything she thought she knew about him, and herself.
+​​Full of misgivings, a young woman travels with her new boyfriend to his parents' secluded farm. Upon arriving, she comes to question everything she thought she knew about him, and herself.
 
+**6.6** on [object Object]
