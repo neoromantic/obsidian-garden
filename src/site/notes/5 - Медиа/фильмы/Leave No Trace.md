@@ -3,6 +3,6 @@
 ---
 
 # Leave No Trace (2018)
- 
-A father and his seventeen-year-old daughter are living an ideal existence in a vast urban park in Portland, Oregon when a small mistake derails their lives forever.
+​​A father and his seventeen-year-old daughter are living an ideal existence in a vast urban park in Portland, Oregon when a small mistake derails their lives forever.
 
+**7.1** on [object Object]
