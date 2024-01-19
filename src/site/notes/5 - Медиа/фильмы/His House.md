@@ -3,6 +3,6 @@
 ---
 
 # His House (2020)
- 
-A refugee couple makes a harrowing escape from war-torn South Sudan, but then they struggle to adjust to their new life in an English town that has an evil lurking beneath the surface.
+​​A refugee couple makes a harrowing escape from war-torn South Sudan, but then they struggle to adjust to their new life in an English town that has an evil lurking beneath the surface.
 
+**6.5** on [object Object]
