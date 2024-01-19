@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/the-lost-weekend/","tags":["to-watch","фильм","#Drama","#Film-Noir"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/the-lost-weekend/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Film-Noir"]}
 ---
 
 # The Lost Weekend (1945)
