@@ -3,6 +3,6 @@
 ---
 
 # Grave of the Fireflies (1988)
- 
-A young boy and his little sister struggle to survive in Japan during World War II.
+​​A young boy and his little sister struggle to survive in Japan during World War II.
 
+**8.5** on [object Object]
