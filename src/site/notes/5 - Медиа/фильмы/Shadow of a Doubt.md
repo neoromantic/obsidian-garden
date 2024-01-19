@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/5-media/filmy/shadow-of-a-doubt/","contentClasses":"movie","tags":["to-watch","фильм","#Film-Noir","#Thriller"]}
 ---
 
-# Shadow of a Doubt.md (1943)
+# Shadow of a Doubt (1943)
 ![](https://m.media-amazon.com/images/M/MV5BYzUyOGE2Y2EtYzI2My00MDcxLWFmNzYtYjMzN2NiMmMzMzAzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)
 A teenage girl, overjoyed when her favorite uncle comes to visit the family in their quiet California town, slowly begins to suspect that he is in fact the Merry Widow killer sought by the authorities.
 
