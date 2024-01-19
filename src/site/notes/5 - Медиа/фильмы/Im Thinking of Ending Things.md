@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/im-thinking-of-ending-things/","tags":["to-watch","фильм","#Drama","#Thriller"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/im-thinking-of-ending-things/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Thriller"]}
 ---
 
 # Im Thinking of Ending Things (2020)
