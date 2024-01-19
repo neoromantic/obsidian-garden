@@ -3,6 +3,6 @@
 ---
 
 # Free Solo (2018)
- 
-Alex Honnold faces the biggest challenge of his career, climbing El Capitan in Yosemite National Park. He pursues it Free Solo which means climbing without a rope and alone.
+​​Alex Honnold faces the biggest challenge of his career, climbing El Capitan in Yosemite National Park. He pursues it Free Solo which means climbing without a rope and alone.
 
+**8.1** on [object Object]
