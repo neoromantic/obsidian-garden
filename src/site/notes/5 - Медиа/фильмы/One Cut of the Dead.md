@@ -3,6 +3,6 @@
 ---
 
 # One Cut of the Dead (2017)
- 
-Things go badly for a hack director and film crew shooting a low budget zombie movie in an abandoned WWII Japanese facility, when they are attacked by real zombies.
+​​Things go badly for a hack director and film crew shooting a low budget zombie movie in an abandoned WWII Japanese facility, when they are attacked by real zombies.
 
+**7.6** on [object Object]
