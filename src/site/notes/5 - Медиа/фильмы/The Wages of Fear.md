@@ -3,6 +3,6 @@
 ---
 
 # The Wages of Fear (1953)
- 
-In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.
+​​In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.
 
+**8.2** on [object Object]
