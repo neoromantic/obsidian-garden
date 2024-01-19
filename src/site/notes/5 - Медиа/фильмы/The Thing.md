@@ -3,6 +3,6 @@
 ---
 
 # The Thing (1982)
- 
-A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
+​​A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
 
+**8.2** on [object Object]
