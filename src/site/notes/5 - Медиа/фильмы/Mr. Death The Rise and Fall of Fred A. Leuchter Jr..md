@@ -3,6 +3,6 @@
 ---
 
 # Mr. Death The Rise and Fall of Fred A. Leuchter Jr. (1999)
- 
-A cinematic portrait of the life and career of the infamous American execution device designer and holocaust denier.
+​​A cinematic portrait of the life and career of the infamous American execution device designer and holocaust denier.
 
+**7.5** on [object Object]
