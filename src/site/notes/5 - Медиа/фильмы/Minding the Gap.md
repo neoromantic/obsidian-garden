@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/5-media/filmy/minding-the-gap/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Sport"]}
 ---
 
-# Minding the Gap.md (2018)
+# Minding the Gap (2018)
 ![](https://m.media-amazon.com/images/M/MV5BMDBmMTE5M2MtMjAyNS00NTExLThmYjMtNDkyYTE3YjMyNjhiXkEyXkFqcGdeQXVyMTU4NjM5MDk0._V1_SX300.jpg)
 Filmmaker Bing Liu searches for correlations between his skateboarder friends' turbulent upbringings and the complexities of modern masculinity.
 
