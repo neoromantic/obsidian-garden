@@ -3,6 +3,6 @@
 ---
 
 # Taxi to the Dark Side (2007)
- 
-Alex Gibney exposes the haunting details of the USA's torture and interrogation practices during the War in Afghanistan.
+​​Alex Gibney exposes the haunting details of the USA's torture and interrogation practices during the War in Afghanistan.
 
+**7.5** on [object Object]
