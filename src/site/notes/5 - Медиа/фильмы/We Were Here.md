@@ -3,6 +3,6 @@
 ---
 
 # We Were Here (2011)
- 
-A deep and reflective look at the arrival and impact of AIDS in San Francisco and how individuals rose to the occasion during the first years of this unimaginable crisis.
+​​A deep and reflective look at the arrival and impact of AIDS in San Francisco and how individuals rose to the occasion during the first years of this unimaginable crisis.
 
+**7.9** on [object Object]
