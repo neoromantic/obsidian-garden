@@ -4,8 +4,11 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
 
-    .columns.content {
+    .maxwidth.content {
         max-width: 95%;
+    }
+
+    .columns.content {
         /* Default style: single column */
       column-count: 1;
         
