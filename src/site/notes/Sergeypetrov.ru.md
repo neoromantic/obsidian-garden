@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/sergeypetrov-ru/","tags":["gardenEntry"]}
 ---
 
-# Сергей Петров
 **Я ИТ-консультант и разработчик из Москвы.** Этой зимой-весной живу и работаю в Таиланде, преимущественно на [острове Панган](https://maps.app.goo.gl/EqPoDE6aLEPnmyEL6).
 
 > [!important] Сотрудничество и работа
