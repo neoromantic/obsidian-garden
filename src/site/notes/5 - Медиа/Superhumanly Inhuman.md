@@ -4,12 +4,12 @@
 
 This is a transcript of a podcast [Hardcore History: Addendum](https://www.dancarlin.com/addendum/) by [Dan Carlin](https://x.com/hardcorehistory), episode 28, about Holocaust, evil governments, and about people of various nature.
 
-Episode on Youtube: [EP28 Superhumanly Inhuman - YouTube](https://www.youtube.com/watch?v=paO72-zA650)
+![](https://www.youtube.com/watch?v=paO72-zA650)
+
 Audio link: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum podcast](https://player.fm/series/dan-carlins-hardcore-history-addendum-1843517/ep28-superhumanly-inhuman)
 
 List of all books mentioned in the episode can be found in Footnotes [^1]
 
----
 # Introduction and a warning
 Attention.
 
