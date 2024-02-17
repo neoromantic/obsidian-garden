@@ -7,7 +7,7 @@ This is a transcript of a podcast [Hardcore History: Addendum](https://www.danca
 Episode on Youtube: [EP28 Superhumanly Inhuman - YouTube](https://www.youtube.com/watch?v=paO72-zA650)
 Audio link: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum podcast](https://player.fm/series/dan-carlins-hardcore-history-addendum-1843517/ep28-superhumanly-inhuman)
 
-List of all books mentioned can be found in [[5 - Медиа/Superhumanly Inhuman#^booklist\|#^booklist]]
+List of all books mentioned can be found in [[5 - Медиа/Superhumanly Inhuman#Footnotes\|#Footnotes]]
 
 ---
 # Introduction and a warning
@@ -2777,8 +2777,6 @@ My thanks to Professor Dan Stone for coming on the program.
 His latest work is out in paperback now, The Holocaust and Unfinished History[^1].
 
 # Footnotes
-{ #booklist}
-
 
 [^1]: [The Holocaust: An Unfinished History by Dan Stone | Goodreads](https://www.goodreads.com/book/show/139506512-the-holocaust)
 [^2]: [The Gathering Storm by Winston S. Churchill | Goodreads](https://www.goodreads.com/book/show/360253.The_Gathering_Storm)
