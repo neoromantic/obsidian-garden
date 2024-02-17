@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/superhumanly-inhuman/"}
+{"dg-publish":true,"permalink":"/5-media/superhumanly-inhuman/","dgShowToc":true}
 ---
 
 This is a transcript of a podcast [Hardcore History: Addendum](https://www.dancarlin.com/addendum/), episode 28, about Holocaust, evil governments, and about people of various nature.
@@ -8,7 +8,7 @@ Episode on Youtube: [EP28 Superhumanly Inhuman - YouTube](https://www.youtube.co
 Audio link: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum podcast](https://player.fm/series/dan-carlins-hardcore-history-addendum-1843517/ep28-superhumanly-inhuman)
 
 ---
-
+# Introduction and a warning
 Attention.
 
 We're going to issue one of our rare pre-show warnings before the conversation we're about to have here concerning the nature of the material that's going to be discussed.
@@ -62,6 +62,8 @@ But we write books today about this subject and talk about the upsides of the Mo
 So things change, right?
 
 So injecting a little bit of the original horror that comes with a subject like this before we talk about a subject like this seemed to be a good way to set the conversation up before we talk to Professor Stone about his new book.
+
+# A genocide and a persecution
 
 The Holocaust is an endlessly fascinating subject.
 
@@ -153,11 +155,7 @@ It is one of the ultimate examples of the literary theme of man's inhumanity to 
 
 And just when you think it can't get any worse, there's a story or a remembrance or a document or something else, maybe even sometimes film footage that comes into play where you just shake your head and can't believe that humanity ever went there in Winston Churchill's history of the Second World War.
 
-And if you really are interested in that series, by the way, don't buy one of the abridged versions.
-
-Go get your hands on one of the original works because they include all the appendices.
-
-Churchill throws in a lot of letters that he wrote during the war itself and communications that he had with other people.
+And if you really are interested in that series, by the way, don't buy one of the abridged versions. Go get your hands on one of the original works because they include all the appendices. Churchill throws in a lot of letters that he wrote during the war itself and communications that he had with other people.
 
 For example, in 1944, Churchill wrote a letter or a communique, and in it he talked about what was happening to the Jews in Hungary.
 
@@ -170,20 +168,22 @@ It's in the appendix of volume six of his history of the Second World War, the v
 It is a communique from him to the foreign secretary in Britain dated July 11th, 1944.
 
 And he writes:
+
 > "There is no doubt that this persecution of the Jews in Hungary and their expulsion from enemy territory is probably the greatest and most horrible crime ever committed in the whole history of the world.
 > 
 > And it has been done by scientific machinery, by nominally civilized men in the name of a great state and one of the leading races of Europe.
 > 
 > It is quite clear that all concerned in this crime who may fall into our hands, including the people who only obeyed orders by carrying out the butcheries, should be put to death after their association with the murders has been proved.
 > 
-> I cannot therefore," he writes, "feel that this is the kind of ordinary case which is put through the protecting power as, for instance, the lack of feeding or sanitary conditions in some particular prisoner's camp.
+> I cannot therefore, feel that this is the kind of ordinary case which is put through the protecting power as, for instance, the lack of feeding or sanitary conditions in some particular prisoner's camp.
 > 
 > There should therefore be, in my opinion, no negotiations of any kind on this subject.
 > 
 > Declaration should be made in public so that everyone connected with it will be hunted down and put to death."
-> 
 
 Let's recall that this is before the finding of the concentration camps, the death camps, the camps that the Nazis themselves refer to as annihilation camps.
+
+# What are the nazis?
 
 I should probably address something right now that's already going to get me some feedback so that we make the distinction between Nazis and Germans.
 
@@ -548,9 +548,7 @@ He did quote Hitler as saying, "The state has nothing at all to do with any defi
 
 So perhaps this is where our problems develop as we try to understand a system using our modern lenses for how we evaluate things, trying to get our mind around a system that's rooted in late 19th century ideas of eugenics and social Darwinism and blood and soil and Volksgemeinschaft and a whole bunch of concepts that people don't talk about very much anymore because, well, in part they're pretty discredited because in part, well, we had things like the Second World War and the Holocaust.
 
-In a book written about genocide called Why Not Kill Them All?
-
-The Logic and Prevention of Mass Political Murder, the authors Daniel Chirat and Clark McCauley run down the reasons for some of this idea connected to what the Nazis believed in about, well, what would make up the Volksgemeinschaft, the idea of a racial community?
+In a book written about genocide called [Why Not Kill Them All?: The Logic and Prevention of Mass Political Murder](https://www.amazon.com/Why-Not-Kill-Them-All/dp/0691145946), the authors Daniel Chirat and Clark McCauley run down the reasons for some of this idea connected to what the Nazis believed in about, well, what would make up the Volksgemeinschaft, the idea of a racial community?
 
 Because in the Volksgemeinschaft, you could be in it if you were part of the people that met the criteria and if you didn't, you weren't a part of it.
 
@@ -568,21 +566,24 @@ In Why Not Kill Them All, the authors point out that if you believe everything a
 
 The Nazis were worried about blood pollution and what they sometimes referred to as the Jewish disease and in Why Not Kill Them All, they point out that that can be a trigger for things like genocide.
 
-The authors write, "The most powerful fear is fear of extinction, the fear that our," in quotation marks, "people, our cause, our culture, our history, may not survive.
+The authors write, 
+> "The most powerful fear is fear of extinction, the fear that our," in quotation marks, "people, our cause, our culture, our history, may not survive.
+> 
+> This fear will elicit the most violent and extreme reactions.
+> 
+> "Group identification, caring about what happens to our group, is what makes intergroup conflict possible.
+> 
+> Without such identification, individuals would be loathe to risk their own lives for the collective.
+> 
+> Yet we know that people commonly do take risks and sometimes invite almost certain death on behalf of their families, close friends, clans, tribes, religions, and nations.
+> 
+> Those groups developing the most powerful common identification are those that promise some kind of immortality.
+> 
+> Few are willing to die for their tennis club, but many are willing to die for a cause, religion, ethnic group or nation in which the individual can continue after death through the survival and success of the group."
+ 
+They then point out this particular attitude that the Nazis had, which is rooted in things like the Folske-Meinzcheft, this racial community, and the fear that it might be "polluted" by inferior blood, and they write,
 
-This fear will elicit the most violent and extreme reactions.
-
-"Group identification, caring about what happens to our group, is what makes intergroup conflict possible.
-
-Without such identification, individuals would be loathe to risk their own lives for the collective.
-
-Yet we know that people commonly do take risks and sometimes invite almost certain death on behalf of their families, close friends, clans, tribes, religions, and nations.
-
-Those groups developing the most powerful common identification are those that promise some kind of immortality.
-
-Few are willing to die for their tennis club, but many are willing to die for a cause, religion, ethnic group or nation in which the individual can continue after death through the survival and success of the group."
-
-> They then point out this particular attitude that the Nazis had, which is rooted in things like the Folske-Meinzcheft, this racial community, and the fear that it might be "polluted" by inferior blood, and they write, "Fear of pollution or contamination is a particular kind of survival fear, the fear that the group, as we know it, will not survive, even if many of its members do.
+> "Fear of pollution or contamination is a particular kind of survival fear, the fear that the group, as we know it, will not survive, even if many of its members do.
 > 
 > The group will exist in the future only by losing what is most important and distinctive about it, and being amalgamated with some other group.
 > 
@@ -626,6 +627,8 @@ The big island off the eastern coast of the African continent at one point as a 
 One can't help but think that if that had actually happened, we would be talking about some of the same sorts of problems in Madagascar today that they're talking about in the Levant right now.
 
 And then eventually it moves from the idea of exiling all the Jews to a faraway place to simply killing them where they are.
+
+# Where did Jews came from, jewish peril through the centuries
 
 Now we should point out that the idea of exiling the Jews was not about sending them away from their homes.
 
@@ -747,6 +750,8 @@ Although if you're a Jewish person whose family's been in a place like Russia or
 
 Well, if that doesn't sound like a good idea to you now, maybe after the Holocaust it might.
 
+# Witness accounts of superhumanly inhumane
+
 At the start of this show, I felt the need to give a warning about what was to come.
 
 And the warning was because there's a need when discussing something as horrific, as genocide to step back and take emotional stock in the subject matter.
@@ -827,7 +832,7 @@ I call it 23 and you'll understand why when you hear it.
 
 I actually read it when I was a kid.
 
-It was in a book called The Holocaust by Nora Levin written in the late 1960s, but it's an eyewitness account of one of these mass killings.
+It was in a book called [The Holocaust by Nora Levin](https://www.amazon.com/Holocaust-Destruction-European-Jewry-1933-1945/dp/0690398638) written in the late 1960s, but it's an eyewitness account of one of these mass killings.
 
 The eyewitness account came out in the Nuremberg trials where a German civilian construction engineer had watched the annihilation of a Jewish ghetto in Ukraine.
 
@@ -923,7 +928,7 @@ If you try to imagine being a victim in this case and living through it, there a
 
 For example, there's an account by a German general who went to one of these mass killing sites, and he talked about all these people having to wait in long lines, like up to a mile long as they inched their way towards the killing pits, as the people in front of them slowly but surely were wiped out, and that there were stops along the way, and at this stop you take off your clothes, at this stop you drop off your valuables, and the people knew what was going on.
 
-In the book "Soldaten" by Sanka Nitzel and Harald Weltzer, they quote German Major General Walter Brunn's description, his eyewitness account of one of these, as he says, "lining up for death" sort of incidences, and the general says: 
+In the book ["Soldaten" by Sanka Nitzel and Harald Weltzer](https://www.amazon.com/Soldaten-Fighting-Killing-Sonke-Neitzel/dp/0771051050), they quote German Major General Walter Brunn's description, his eyewitness account of one of these, as he says, "lining up for death" sort of incidences, and the general says: 
 
 > Six men with Tommy guns were posted at each pit.
 > 
@@ -1012,6 +1017,7 @@ And in this exhibition, all kinds of reports and photographs that had been kept 
 Several books came out of these museum exhibitions, by the way.
 
 One was called War of Extermination, the German Military in World War II, 1941 to 1944, with every chapter written by a different expert on the chapter of the killings that went on, especially of Jews in occupied Yugoslavia, University of Vienna Professor Walter Manaschek writes, 
+
 > "The execution squads were comprised mainly of soldiers from units that had suffered losses in skirmishes with partisans.
 > 
 > The soldiers regarded the mass executions of Jews and gypsies as a legitimate tactic.
@@ -1022,33 +1028,33 @@ One was called War of Extermination, the German Military in World War II, 1941 t
 > 
 > Two reports of the shootings of Jews and gypsies yield insight into the soldiers' mentality."
 
-When we arrived at a spot some 1.5 to 2 kilometers from the chosen place, the prisoners got out of the trucks and marched to the place.
-
-While the trucks were being sent back at once, in order to give the civilian drivers the least possible grounds for suspicion, then I ordered the street blocked for reasons of security and secrecy.
-
-The place of execution, the report states, was secured by one light machine gun and 12 woman, one, to prevent escape attempts by the prisoners, two, to guard against the possible attacks of Serbian gangs.
-
-"Digging the graves," the report says, "takes most of the time.
-
-The shooting itself goes quickly, 100 men in 40 minutes."
-
-"Luggage and valuables," the report says, "were collected earlier and transported in my truck for turning over to the NSV.
-
-Shooting Jews is simpler than shooting gypsies.
-
-One has to admit that the Jews die stoically, standing quietly, while the gypsies howl, scream and are in constant motion even when they're already standing in place to be shot.
-
-Some even jumped into the grave before the salvo and played dead.
-
-Initially," he writes, "my soldiers were not impressed.
-
-On the second day it was becoming apparent that some did not have the nerves required for carrying out extended shootings.
-
-My personal impression is that one does not experience inhibitions during the shootings.
-
-These first manifest themselves after several days, when one thinks about things quietly in the evening."
-
-Signed, Walter Oberleutnant.
+> When we arrived at a spot some 1.5 to 2 kilometers from the chosen place, the prisoners got out of the trucks and marched to the place.
+> 
+> While the trucks were being sent back at once, in order to give the civilian drivers the least possible grounds for suspicion, then I ordered the street blocked for reasons of security and secrecy.
+> 
+> The place of execution, the report states, was secured by one light machine gun and 12 woman, one, to prevent escape attempts by the prisoners, two, to guard against the possible attacks of Serbian gangs.
+> 
+> Digging the graves, takes most of the time.
+> 
+> The shooting itself goes quickly, 100 men in 40 minutes.
+> 
+> Luggage and valuables, were collected earlier and transported in my truck for turning over to the NSV.
+> 
+> Shooting Jews is simpler than shooting gypsies.
+> 
+> One has to admit that the Jews die stoically, standing quietly, while the gypsies howl, scream and are in constant motion even when they're already standing in place to be shot.
+> 
+> Some even jumped into the grave before the salvo and played dead.
+> 
+> Initially, my soldiers were not impressed.
+> 
+> On the second day it was becoming apparent that some did not have the nerves required for carrying out extended shootings.
+> 
+> My personal impression is that one does not experience inhibitions during the shootings.
+> 
+> These first manifest themselves after several days, when one thinks about things quietly in the evening."
+> 
+> Signed, Walter Oberleutnant.
 
 This is actually a part that I find super interesting and I think I think about it more than even the position that the victims found themselves in.
 
@@ -1074,38 +1080,43 @@ And it is a sign that you did not have to be a Nazi to be anti-Semitic.
 
 And he talks about an incident that was recounted, it's famous and there are photos I believe, that happened in Conus in Lithuania.
 
-Dan Stone writes, "Across the occupied areas of the Western Soviet Union, local collaborators willingly took part.
+Dan Stone writes, 
 
-Some did so out of hatred for the Jews, wrapped up in the anti-communist belief in so-called Judeo-Bolshevism.
-
-Though again, it should be stressed that this was a form of anti-Semitism first and foremost, since one did not need to hate Jews to be anti-communist.
-
-But the combination of these two hatreds made a ferocious synthesis.
-
-One of the most famous examples, he writes, is the so-called death-dealer of Conus, who beat Jews with an iron rod in Conus as onlookers stood and watched the rivers of blood run higher.
-
-The report of an astonished German soldier who photographed the scene is instructive."
-
+> "Across the occupied areas of the Western Soviet Union, local collaborators willingly took part.
+> 
+> Some did so out of hatred for the Jews, wrapped up in the anti-communist belief in so-called Judeo-Bolshevism.
+> 
+> Though again, it should be stressed that this was a form of anti-Semitism first and foremost, since one did not need to hate Jews to be anti-communist.
+> 
+> But the combination of these two hatreds made a ferocious synthesis.
+> 
+> One of the most famous examples, he writes, is the so-called death-dealer of Conus, who beat Jews with an iron rod in Conus as onlookers stood and watched the rivers of blood run higher.
+> 
+> The report of an astonished German soldier who photographed the scene is instructive."
+ 
 Now the account from the German soldier, and as I think I said, photographs do exist.
 
-"A young man, he must have been a Lithuanian, with rolled up sleeves, was armed with an iron crowbar.
-
-He dragged out one man at a time from a group and struck him with the crowbar with one or more blows on the back of his head.
-
-Within three-quarters of an hour, he had beaten to death the entire group of 45 to 50 people in this way.
-
-The behavior of the civilians present, women and children, was unbelievable.
-
-After each man had been killed, they began to clap, and when the national anthem started, they joined in singing and clapping."
+> "A young man, he must have been a Lithuanian, with rolled up sleeves, was armed with an iron crowbar.
+> 
+> He dragged out one man at a time from a group and struck him with the crowbar with one or more blows on the back of his head.
+> 
+> Within three-quarters of an hour, he had beaten to death the entire group of 45 to 50 people in this way.
+> 
+> The behavior of the civilians present, women and children, was unbelievable.
+> 
+> After each man had been killed, they began to clap, and when the national anthem started, they joined in singing and clapping."
 
 John Stone points out that sometimes this isn't even anti-Semitism, sometimes it's just complete self-enrichment, and he quotes a Polish journalist who says, 
+
 > "For the Germans, three-hundred Jews are three-hundred enemies of humanity.
 > 
 > For the Lithuanians, they are three-hundred pairs of shoes, trousers and the like."
-> 
+
 There are some weird psychological things going on in all this too, and I don't attempt to speculate on what they were.
 
 But when I was growing up, there was this feeling, because this was the sort of thing that was used as a defense at the Nuremberg war crime trials, that a lot of these people found themselves in positions where they just had to follow orders and do distasteful things.
+
+# On two types of people: who screamed at night and who enjoyed killing
 
 But there's enough evidence out there to show that a lot of people enjoyed this.
 
@@ -1121,30 +1132,34 @@ There's one incident recounted in the book "Soldaten" by Sanka Nitzil and Harold
 
 So you think of like entertainers who asked if they could take part in the execution, you know, just for the experience.
 
-And in the book the authors write, "Daniel Goldhagen, writing about one of the few known cases of this sort, concluded that Germans in general were motivated by a kind of exterminatory anti-Semitism.
+And in the book the authors write, 
 
-Goldhagen focused on a Berlin police unit consisting of musicians and performers that was sent to the front to entertain troops in mid-November 1942.
-
-They asked the commander of a reserve police battalion in the German town of Lukau if they could take a turn shooting Jews at an upcoming execution.
-
-Their request was granted and the entertainers spent the following day amusing themselves by murdering people.
-
-Holocaust historian Christopher Browning also mentions this incident, but the question remains, did the Germans in question need anti-Semitic motivation to find killing fellow human beings in entertaining pastime?"
+> "Daniel Goldhagen, writing about one of the few known cases of this sort, concluded that Germans in general were motivated by a kind of exterminatory anti-Semitism.
+> 
+> Goldhagen focused on a Berlin police unit consisting of musicians and performers that was sent to the front to entertain troops in mid-November 1942.
+> 
+> They asked the commander of a reserve police battalion in the German town of Lukau if they could take a turn shooting Jews at an upcoming execution.
+> 
+> Their request was granted and the entertainers spent the following day amusing themselves by murdering people.
+> 
+> Holocaust historian Christopher Browning also mentions this incident, but the question remains, did the Germans in question need anti-Semitic motivation to find killing fellow human beings in entertaining pastime?"
 
 And then one of the authors who's trained in social psychology goes into all the reasons a human being might find this an interesting option.
 
-He says, "The police officers in question enjoyed doing things they would never have been allowed to do under normal circumstances.
+He says, 
 
-They wanted to experience what it felt like to kill without fear of consequences, to exercise total power and do something extraordinary and monstrous, free from the possibility of any negative consequences.
-
-This is what sociologist Gunther Anders has called the "chance for an unpunished inhumanity."
-
-For some people senseless murder was apparently a temptation that could hardly be resisted.
-
-Violence of this nature needs neither a motive nor a reason.
-
-It is its own motivation."
-
+> "The police officers in question enjoyed doing things they would never have been allowed to do under normal circumstances.
+> 
+> They wanted to experience what it felt like to kill without fear of consequences, to exercise total power and do something extraordinary and monstrous, free from the possibility of any negative consequences.
+> 
+> This is what sociologist Gunther Anders has called the "chance for an unpunished inhumanity."
+>  
+> For some people senseless murder was apparently a temptation that could hardly be resisted.
+> 
+> Violence of this nature needs neither a motive nor a reason.
+> 
+> It is its own motivation."
+ 
 Well it's clear that there was enormous amounts of anti-Semitism in the German army.
 
 It's also clear by the accounts that a lot of people enjoyed killing Jews, thought it was just right and proper to kill Jews.
@@ -1157,15 +1172,13 @@ And while it is almost sacrilegious to have sympathy for the murderers of Jews a
 
 Obviously the victims in the Holocaust are fatally caught in the gears of history, but there are people that had to, for the rest of their lives, live with what they did in the Holocaust, and I'm fascinated by that too.
 
-And remember these are not armies where a person could have said, "You know, if you make me do these terrible things, I'm out.
-
-I'm just not going to do them."
+And remember these are not armies where a person could have said, "You know, if you make me do these terrible things, I'm out. I'm just not going to do them."
 
 Well you can do that, but that may be a one-way ticket to a concentration camp for you.
 
 So that's what I mean about being caught in the gears of history.
 
-There's a fascinating list of remembrances at the back of the book called The German Army and Genocide, which is edited by the Hamburg Institute for Social Research.
+There's a fascinating list of remembrances at the back of the book called [The German Army and Genocide](https://www.amazon.com/German-Army-Genocide-Prisoners-Civilians/dp/1565845250), which is edited by the Hamburg Institute for Social Research.
 
 It's one of the books that came out of that groundbreaking exhibition in the 1990s that shattered the myth of the Klinvermacht.
 
@@ -1184,6 +1197,7 @@ One of the accounts in the back of the book when they recorded the reactions of 
 And she's recorded as telling the researchers her reaction to this exhibition and having to come to grips with what her father did.
 
 And she says, 
+
 > I want to say that my father was not young when he went to war.
 > 
 > He was born in 1908 and died in 1991.
@@ -1200,8 +1214,7 @@ And she says,
 > 
 > He never told how it was when one shoots another person for the first time.
 > 
-> Today that surprises me.
-> 
+> Today that surprises me. 
 
 She then mentions a famous, if you were alive, you remember in the 1980s, a famous meeting where Ronald Reagan met the German Chancellor at a German cemetery in Bitburg, and it became controversial because the press releases had said that they were just going to have sort of a reconciliation meeting.
 
@@ -1210,6 +1223,7 @@ But then it was discovered that at the cemetery in Bitburg, some of the SS peopl
 So in other words, the people that at the time were thought to be the only people really guilty for the Holocaust.
 
 And Miss Nichols says, 
+
 > back then I noticed for the first time that my father, and the only photo of him that we have from that time is wearing a uniform that is black and has skulls on it.
 > 
 > At the time, I was already a representative of the greens in the Bundestag and didn't dare to ask my father.
@@ -1223,6 +1237,7 @@ She says that during the travel to the death camp, she simply broke down because
 But then she started to think, as any of us might do about a loved one that found themselves caught in the gears of history, as sacrilegious as it might be to think about them.
 
 She says, 
+
 > I was terribly shocked at what happened at the concentration camp, but just as much about what they did to the men, one of whom was my father.
 > 
 > They were for the most part men who loved life and children.
@@ -1303,32 +1318,36 @@ Restores your faith in humanity a little to think that a cultured, educated, rel
 
 At least some of them, you would hope so, right?
 
+# Annihilation camps
+
 The annihilation camps, though, brought their own sorts of horrificness, of course, to the scene.
 
 I mean, first of all, there was a big difference, as pointed out in many sources, between killing Jews where you found them, right outside the towns or the cities or nearby where they lived, and having to get them from one place to a centralized killing area where you could dispose of them, because sometimes they started off a long way away from where they were supposed to end up, and the trip itself could be a vision of hell.
 
 In his book, Dan Stone talks about and recounts the story of a bunch of Jews that were packed into railway cars in Greece, where they were from, to be taken to the place where they would be annihilated, turned out they weren't destined to die in the gas chambers, they died on the way.
 
-And he writes an account, a first-hand account, by a Viennese Jew named Simon Umshuev whose job it was to work for the Nazis and unload these railway cars transporting Jews to their death, and he's the one that in the case of the Jews coming from Greece found them already deceased when they got there, and he said, "The wagons," meaning on the train, "were sealed and nailed shut.
+And he writes an account, a first-hand account, by a Viennese Jew named Simon Umshuev whose job it was to work for the Nazis and unload these railway cars transporting Jews to their death, and he's the one that in the case of the Jews coming from Greece found them already deceased when they got there, and he said, 
 
-As we opened them, we were presented with a terrible image.
-
-Crammed in by the hundreds, the people squatted on their possessions.
-
-Since they were unable to get out, their excrement remained in the wagon.
-
-Everything was a stinking heap.
-
-There was no one alive.
-
-The air was so poisoned that comrades in our commando fainted.
-
-We had to throw everything, the corpses, the possessions, and the filth, into huge pits which burned day and night.
-
-The pits were eight meters deep and four meters square.
-
-Children up to the age of four who had arrived on other transports were also thrown alive into these pits."
-
+> "The wagons, were sealed and nailed shut.
+> 
+> As we opened them, we were presented with a terrible image.
+> 
+> Crammed in by the hundreds, the people squatted on their possessions.
+> 
+> Since they were unable to get out, their excrement remained in the wagon.
+> 
+> Everything was a stinking heap.
+> 
+> There was no one alive.
+> 
+> The air was so poisoned that comrades in our commando fainted.
+> 
+> We had to throw everything, the corpses, the possessions, and the filth, into huge pits which burned day and night.
+> 
+> The pits were eight meters deep and four meters square.
+> 
+> Children up to the age of four who had arrived on other transports were also thrown alive into these pits."
+ 
 If you look at the infrastructure and the logistics of killing and wiping out and causing a genocide amongst an entire people, it's larger than we think it is.
 
 We should recall that even though people like to argue about how many Jews died in the Holocaust, because six million was an estimate, we should note that the Germans were planning for far more, and had they won the war, they were planning on having some 11 million Jews available for them to kill, and the amount of infrastructure that goes into those kinds of genocidal-type logistics is a lot larger than most people think.
@@ -1451,6 +1470,7 @@ He says that everyone undressed, and then he continues by saying,
 > They come onward, hesitate, enter the death chambers.'
 
 At the corner a strong SS man stands, who with a voice like a pastor says to the poor people, now quoting him, 
+
 > 'There is not the least chance that something will happen to you.
 > 
 > You must only take a deep breath in the chamber that widens the lungs.
@@ -1458,9 +1478,11 @@ At the corner a strong SS man stands, who with a voice like a pastor says to the
 > This inhalation is necessary because of the illnesses and epidemics.'
  
 He says on the question of what would happen to them, he answered, 
+
 > 'Yes, of course the men will have to work, building houses and roads, but the women don't need to work, only if they wish they can help in housekeeping or in the kitchen.'
 
 He says, 
+
 > 'For some of these poor people, this gave a little glimmer of hope, enough to go the first few steps to the chambers without resistance.
 > 
 > The majority, are aware.
@@ -1641,6 +1663,8 @@ I mean, the numbers again are not known, but they killed men, women, priests, ha
 
 I mean, you can't get your mind around numbers like that.
 
+# Never again?
+
 And there was a phrase that popped up in the 1960s, I think it was, from a Jewish group that said, "Never again."
 
 Never again.
@@ -1811,7 +1835,7 @@ I think it's still viable, although the numbers are a little wrong, by a profess
 
 Rummel.
 
-It's called "Death by Government."
+It's called "[Death by Government](https://www.amazon.com/Death-Government-Genocide-Murder-Since/dp/1560009276)."
 
 The shorthand explanation of what the book is about is the dangers of extreme governments, governments that do not have enough checks and balances, governments with too much executive power and authority on the right or the left, whatever political label you want to use.
 
