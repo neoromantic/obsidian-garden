@@ -1291,9 +1291,9 @@ He ran Auschwitz for a couple of years, especially during the period where it re
 
 Haas made statements that he was relieved that they were finally going to figure out a way to save the Germans who had to execute all these people from the fate of waking up at night for years screaming about children and fires afterwards.
 
-Not so worried about the victims, but more the victimizers, although sometimes they talked about it as somehow sparing the victims, some of the psychological torment before they met their ends in the book German Voices, Memories of Life During Hitler's Third Reich.
+Not so worried about the victims, but more the victimizers, although sometimes they talked about it as somehow sparing the victims, some of the psychological torment before they met their ends in the book "German Voices, Memories of Life During Hitler's Third Reich"[^14].
 
-Frederick C. Tubach quotes Hess talking about this.
+Frederic C. Tubach quotes Hess talking about this.
 
 And just so you know, it's not a direct quote because there's three dots between some of the statements, which means some of the intervening stuff, maybe cross talk with an interviewer has been excised, but I'm going to read it as though it's a single quote because it gives you an idea of how these people might somehow tell themselves that gassing large numbers of people was more merciful than shooting them at the sides of ditches.
 
@@ -2790,3 +2790,4 @@ His latest work is out in paperback now, The Holocaust and Unfinished History[^1
 [^11]: [The German Army and Genocide: Crimes Against War Prisoners, Jews, and Other Civilians in the East, 1939-1944 by Hamburg Institute for Social Research | Goodreads](https://www.goodreads.com/book/show/162748.The_German_Army_and_Genocide)
 [^12]: [Death by Government: Genocide and Mass Murder Since 1900 by R.J. Rummel | Goodreads](https://www.goodreads.com/book/show/998056.Death_by_Government)
 [^13]: [The Ravine: A Family, a Photograph, a Holocaust Massacre Revealed by Wendy Lower | Goodreads](https://www.goodreads.com/book/show/48931090-the-ravine)
+[^14]: [German Voices: Memories of Life During Hitler's Third Reich by Frederic C. Tubach | Goodreads](https://www.goodreads.com/book/show/10567499-german-voices)
