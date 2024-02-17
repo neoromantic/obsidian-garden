@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/5-media/superhumanly-inhuman/"}
 ---
 
-Транскрипт подкаста [Hardcore History: Addendum](https://www.dancarlin.com/addendum/), выпуск 28, о Холокосте.
+This is a transcript of a podcast [Hardcore History: Addendum](https://www.dancarlin.com/addendum/), episode 28, about Holocaust, evil governments, and about people of various nature.
 
-Выпуск на Youtube: [EP28 Superhumanly Inhuman - YouTube](https://www.youtube.com/watch?v=paO72-zA650)
-Подскаст: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum podcast](https://player.fm/series/dan-carlins-hardcore-history-addendum-1843517/ep28-superhumanly-inhuman)
+Episode on Youtube: [EP28 Superhumanly Inhuman - YouTube](https://www.youtube.com/watch?v=paO72-zA650)
+Audio link: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum podcast](https://player.fm/series/dan-carlins-hardcore-history-addendum-1843517/ep28-superhumanly-inhuman)
+
+---
 
 Attention.
 
@@ -167,19 +169,19 @@ It's in the appendix of volume six of his history of the Second World War, the v
 
 It is a communique from him to the foreign secretary in Britain dated July 11th, 1944.
 
-And he writes, "There is no doubt that this persecution of the Jews in Hungary and their expulsion from enemy territory is probably the greatest and most horrible crime ever committed in the whole history of the world.
-
-And it has been done by scientific machinery, by nominally civilized men in the name of a great state and one of the leading races of Europe.
-
-It is quite clear that all concerned in this crime who may fall into our hands, including the people who only obeyed orders by carrying out the butcheries, should be put to death after their association with the murders has been proved.
-
-I cannot therefore," he writes, "feel that this is the kind of ordinary case which is put through the protecting power as, for instance, the lack of feeding or sanitary conditions in some particular prisoner's camp.
-
-There should therefore be, in my opinion, no negotiations of any kind on this subject.
-
-Declaration should be made in public so that everyone connected with it will be hunted down and put to death."
-
-End quote.
+And he writes:
+> "There is no doubt that this persecution of the Jews in Hungary and their expulsion from enemy territory is probably the greatest and most horrible crime ever committed in the whole history of the world.
+> 
+> And it has been done by scientific machinery, by nominally civilized men in the name of a great state and one of the leading races of Europe.
+> 
+> It is quite clear that all concerned in this crime who may fall into our hands, including the people who only obeyed orders by carrying out the butcheries, should be put to death after their association with the murders has been proved.
+> 
+> I cannot therefore," he writes, "feel that this is the kind of ordinary case which is put through the protecting power as, for instance, the lack of feeding or sanitary conditions in some particular prisoner's camp.
+> 
+> There should therefore be, in my opinion, no negotiations of any kind on this subject.
+> 
+> Declaration should be made in public so that everyone connected with it will be hunted down and put to death."
+> 
 
 Let's recall that this is before the finding of the concentration camps, the death camps, the camps that the Nazis themselves refer to as annihilation camps.
 
@@ -337,25 +339,25 @@ It's propaganda, but it does tell you quite a bit about his thinking.
 
 And in it, he talks about choosing symbols that are normally associated with the far left, but doing it deliberately.
 
-And in Mein Kampf, Hitler writes, quote, The red color of our posters in itself drew them, meaning the communists and socialists, to our meeting halls.
-
-The run of the mill bourgeoisie were horrified that we had seized upon the red of the Bolsheviks and they regarded this as all very ambiguous.
-
-The German national souls kept privately whispering to each other the suspicion that basically we were nothing but a species of Marxism, perhaps Marxists or rather socialists in disguise.
-
-For to this very day, these scatterbrains have not understood the difference between socialism and Marxism, especially when they discovered that as a matter of principle, we greeted in our meetings, no ladies and gentlemen, but only national comrades and among ourselves spoke only of party comrades.
-
-Let me stop for a minute and just say what he's basically saying is they were using even the terminology that communists use when they greeted each other, comrades.
-
-And they found this even more confusing.
-
-He continues, quote, the Marxist spook seemed demonstrated for many of our enemies.
-
-How often we shook with laughter at these simple bourgeois scare cats at the sight of their ingenious witty guessing games about our origin, our intentions and our goal.
-
-We chose the red color of our posters, he writes, after careful and thorough reflection in order to provoke the left to drive them to indignation and lead them to attend our meetings, if only to break them up in order to have some chance to speak to the people.
-
-End quote.
+And in Mein Kampf, Hitler writes,
+> The red color of our posters in itself drew them, meaning the communists and socialists, to our meeting halls.
+> 
+> The run of the mill bourgeoisie were horrified that we had seized upon the red of the Bolsheviks and they regarded this as all very ambiguous.
+> 
+> The German national souls kept privately whispering to each other the suspicion that basically we were nothing but a species of Marxism, perhaps Marxists or rather socialists in disguise.
+> 
+> For to this very day, these scatterbrains have not understood the difference between socialism and Marxism, especially when they discovered that as a matter of principle, we greeted in our meetings, no ladies and gentlemen, but only national comrades and among ourselves spoke only of party comrades.
+> 
+> Let me stop for a minute and just say what he's basically saying is they were using even the terminology that communists use when they greeted each other, comrades.
+> 
+> And they found this even more confusing.
+> 
+> the Marxist spook seemed demonstrated for many of our enemies.
+> 
+> How often we shook with laughter at these simple bourgeois scare cats at the sight of their ingenious witty guessing games about our origin, our intentions and our goal.
+> 
+> We chose the red color of our posters, he writes, after careful and thorough reflection in order to provoke the left to drive them to indignation and lead them to attend our meetings, if only to break them up in order to have some chance to speak to the people.
+> 
 
 When Hitler talks about reds, by the way, he's talking about the communists.
 
@@ -381,35 +383,36 @@ It's a strange sort of bipolar way of seeing these individuals.
 
 The Nazis saw them as polluters of the blood and the blood was part of the Nazi philosophy that also goes into the late 19th century, mid 20th century ideas of things like social Darwinism and eugenics.
 
-In his history of the Second World War, in the first edition of the series of books, The Gathering Storm, Winston Churchill tried his hand at describing the philosophy of the Nazis as outlined in Mein Kampf and Churchill wrote, quote, "The main thesis of Mein Kampf is simple.
-
-Man is a fighting animal.
-
-Therefore the nation, being a community of fighters, is a fighting unit.
-
-Any living organism which ceases to fight for its existence is doomed to extinction.
-
-A country or race which ceases to fight is equally doomed.
-
-The fighting capacity of a race," Churchill writes about Mein Kampf, "depends upon its purity, hence the need for ridding it of foreign defilements.
-
-The Jewish race, owing to its universality, is of necessity pacifist and internationalist.
-
-Pacifism is the deadliest sin, for it means the surrender of the race in the fight for existence.
-
-The first duty of every country is therefore to nationalize the masses.
-
-Intelligence, in the case of individuals, is not of first importance.
-
-Will and determination are the prime qualities.
-
-The individual who is born to command is more valuable than countless thousands of subordinate natures.
-
-Only brute force can ensure the survival of the race, hence the necessity for military forms.
-
-The race must fight.
-
-A race that rests must rust and perish," end quote.
+In his history of the Second World War, in the first edition of the series of books, The Gathering Storm, Winston Churchill tried his hand at describing the philosophy of the Nazis as outlined in Mein Kampf and Churchill wrote, 
+> "The main thesis of Mein Kampf is simple.
+> 
+> Man is a fighting animal.
+> 
+> Therefore the nation, being a community of fighters, is a fighting unit.
+> 
+> Any living organism which ceases to fight for its existence is doomed to extinction.
+> 
+> A country or race which ceases to fight is equally doomed.
+> 
+> The fighting capacity of a race, depends upon its purity, hence the need for ridding it of foreign defilements.
+> 
+> The Jewish race, owing to its universality, is of necessity pacifist and internationalist.
+> 
+> Pacifism is the deadliest sin, for it means the surrender of the race in the fight for existence.
+> 
+> The first duty of every country is therefore to nationalize the masses.
+> 
+> Intelligence, in the case of individuals, is not of first importance.
+> 
+> Will and determination are the prime qualities.
+> 
+> The individual who is born to command is more valuable than countless thousands of subordinate natures.
+> 
+> Only brute force can ensure the survival of the race, hence the necessity for military forms.
+> 
+> The race must fight.
+> 
+> A race that rests must rust and perish,"
 
 He then points out that the aristocratic principle, meaning the rule of a single individual like a king, is fundamentally sound and intellectualism is undesirable.
 
@@ -481,31 +484,33 @@ In his fantastic book, economic historian Adam Toos in the wages of destruction 
 
 He talks about the amount of money that these giant firms gave and what the promises of the Nazis to these groups were.
 
-And Toos writes, quote, the meeting of 20th February and its aftermath are the most notorious instances of the willingness of German big business to assist Hitler in establishing his dictatorial regime.
-
-The evidence cannot be dodged.
-
-Nothing suggests that the leaders of German big business were filled with ideological ardor for national socialism before or after February, 1933.
+And Toos writes, 
+> the meeting of 20th February and its aftermath are the most notorious instances of the willingness of German big business to assist Hitler in establishing his dictatorial regime.
+> 
+> The evidence cannot be dodged.
+> 
+> Nothing suggests that the leaders of German big business were filled with ideological ardor for national socialism before or after February, 1933.
+> 
 
 He quoted Hitler as cruppin company to sign up to an agenda of violent anti-Semitism or a war of conquest.
 
-He continues, but what Hitler and his government did promise was an end to parliamentary democracy and the destruction of the German left.
-
-And for this, most of German big business was willing to make a substantial down payment.
-
-End quote.
+He continues, 
+> but what Hitler and his government did promise was an end to parliamentary democracy and the destruction of the German left.
+> 
+> And for this, most of German big business was willing to make a substantial down payment.
+> 
 
 How substantial are we talking about?
 
 General Adam Toos runs down some of the big contributions from the big industrial giants of Germany to the Nazi Party to give them the crucial early support that allowed them to solidify their position.
 
-And he writes, quote, the largest individual donations came from IG Farben, 400,000 Reichsmarks and the Deutsche Bank, 200,000 Reichsmarks.
-
-The association of the mining industry also made a generous deposit of 400,000 Reichsmarks.
-
-Other large donors included the organizers of the Berlin Automobile Exhibition, 100,000 Reichsmarks, and a cluster of electrical engineering corporations, including Telefunken, AEG, and the Accumulatory and Fabrique.
-
-End quote.
+And he writes,
+> the largest individual donations came from IG Farben, 400,000 Reichsmarks and the Deutsche Bank, 200,000 Reichsmarks.
+> 
+> The association of the mining industry also made a generous deposit of 400,000 Reichsmarks.
+> 
+> Other large donors included the organizers of the Berlin Automobile Exhibition, 100,000 Reichsmarks, and a cluster of electrical engineering corporations, including Telefunken, AEG, and the Accumulatory and Fabrique.
+> 
 
 Again, if we are judging a movement by the company, it keeps the German Nazi Party as aligned with groups of military, paramilitary by this time, veteran soldiers like the Stahlhelm and the Freikorps who go after socialists and communists in the streets with their fists or worse.
 
@@ -577,17 +582,16 @@ Those groups developing the most powerful common identification are those that p
 
 Few are willing to die for their tennis club, but many are willing to die for a cause, religion, ethnic group or nation in which the individual can continue after death through the survival and success of the group."
 
-They then point out this particular attitude that the Nazis had, which is rooted in things like the Folske-Meinzcheft, this racial community, and the fear that it might be "polluted" by inferior blood, and they write, "Fear of pollution or contamination is a particular kind of survival fear, the fear that the group, as we know it, will not survive, even if many of its members do.
-
-The group will exist in the future only by losing what is most important and distinctive about it, and being amalgamated with some other group.
-
-The relevant emotion for this kind of survival concern combines fear with disgust.
-
-Fear of pollution is not so much a threat to the physical continuation of the group as to the essence or nature of the group.
-
-Hitler's obsession, they write, with the Jewish disease and race mixing, fantastic as it may seem to those who do not take such pseudoscience seriously, was a deep fear that his idealized Germanic race would not survive, combined with disgust for what he perceived to be the increasing Judaization of the world."
-
-End quote.
+> They then point out this particular attitude that the Nazis had, which is rooted in things like the Folske-Meinzcheft, this racial community, and the fear that it might be "polluted" by inferior blood, and they write, "Fear of pollution or contamination is a particular kind of survival fear, the fear that the group, as we know it, will not survive, even if many of its members do.
+> 
+> The group will exist in the future only by losing what is most important and distinctive about it, and being amalgamated with some other group.
+> 
+> The relevant emotion for this kind of survival concern combines fear with disgust.
+> 
+> Fear of pollution is not so much a threat to the physical continuation of the group as to the essence or nature of the group.
+> 
+> Hitler's obsession, with the Jewish disease and race mixing, fantastic as it may seem to those who do not take such pseudoscience seriously, was a deep fear that his idealized Germanic race would not survive, combined with disgust for what he perceived to be the increasing Judaization of the world."
+> 
 
 So if this is your number one fear, and if you think Jews control the world, and if you're giving speeches saying that if the Jews, because they control the world, plunge the world into another world war, they're sort of going to reap the whirlwind, what do you do?
 
@@ -837,83 +841,81 @@ It is an extensive one.
 
 And I hope you'll pardon some of the long quotes in this, but I feel like breaking them up is to lose some of the impact.
 
-Herman Friedrich Grebe's eyewitness account of what he saw goes like this quote on fifth October 1942 when I visited the building office at Dunbow, Monaikis and I went directly to the pits.
+Herman Friedrich Grebe's eyewitness account of what he saw goes like this:
 
-Nobody bothered us.
-
-Now I heard rifle shots in quick succession from behind one of the earth mounds.
-
-The people who had got off the trucks, men, women and children of all ages had to undress upon the order of an SS man who carried a riding or dog whip.
-
-They had to put down their clothes in fixed places, sorted according to shoes, top clothing and under clothing.
-
-I saw a heap of shoes of about 800 to a thousand pairs, great piles of under linen and clothing.
-
-Without screaming or weeping, these people undressed, stood around in family groups, kissed each other, said farewells and waited for a sign from another SS man who stood near the pit with a whip in his hand.
-
-He continues.
-
-During the 15 minutes that I stood near the pit, I heard no complaint or plea for mercy.
-
-I watched a family of about eight persons, a man and a woman, both about 50 with their children of about one, eight and ten, and two grown-up daughters of about twenty to twenty-four.
-
-An old woman with snow-white hair was holding the one-year-old child in her arms and singing to it and tickling it.
-
-The child was cooing with delight.
-
-The couple were looking on with tears in their eyes.
-
-The father was holding the hand of a boy of about ten years old and speaking to him softly.
-
-The boy was fighting his tears.
-
-The father pointed toward the sky, stroked his head, and seemed to explain something to him.
-
-At that moment the SS man at the pit shouted something to his comrade.
-
-The latter counted off about twenty persons and instructed them to go behind the earth mound.
-
-Among them was the family which I have mentioned.
-
-I well remember a girl, slim and with black hair, who as she passed close to me, pointed to herself and said, "Twenty-three."
-
-I walked around the mound and found myself confronted by a tremendous grave.
-
-People were closely wedged together and lying on top of each other so that only their heads were visible.
-
-Nearly all had blood running over their shoulders from their heads.
-
-Some of the people shot were still moving.
-
-Some were lifting their arms and turning their heads to show that they were still alive.
-
-The pit was already two-thirds full.
-
-I estimated that it already contained about a thousand people.
-
-I looked for the man who did the shooting, he testified.
-
-He was an SS man who sat at the edge of the narrow end of the pit, his feet dangling into the pit.
-
-He had a tommy gun on his knees, and he was smoking a cigarette.
-
-The people, completely naked, went down some steps which were cut in the clay wall of the pit and clamored over the heads of the people lying there, to the place where the SS man directed them.
-
-They lay down in front of the dead or injured people, some caressed those who were still alive and spoke to them in a low voice.
-
-Then I heard a series of shots.
-
-I looked into the pit and saw that the bodies were twitching, or the heads lying already motionless on top of the bodies that lay before them.
-
-Blood was running from their necks.
-
-I was surprised that I was not ordered away, but I saw that there were two or three postmen in uniform nearby.
-
-The next batch was approaching already.
-
-They went down into the pit, lined themselves up against the previous victims, and were shot."
-
-End quote.
+> on fifth October 1942 when I visited the building office at Dunbow, Monaikis and I went directly to the pits.
+> 
+> Nobody bothered us.
+> 
+> Now I heard rifle shots in quick succession from behind one of the earth mounds.
+> 
+> The people who had got off the trucks, men, women and children of all ages had to undress upon the order of an SS man who carried a riding or dog whip.
+> 
+> They had to put down their clothes in fixed places, sorted according to shoes, top clothing and under clothing.
+> 
+> I saw a heap of shoes of about 800 to a thousand pairs, great piles of under linen and clothing.
+> 
+> Without screaming or weeping, these people undressed, stood around in family groups, kissed each other, said farewells and waited for a sign from another SS man who stood near the pit with a whip in his hand.
+ 
+> During the 15 minutes that I stood near the pit, I heard no complaint or plea for mercy.
+> 
+> I watched a family of about eight persons, a man and a woman, both about 50 with their children of about one, eight and ten, and two grown-up daughters of about twenty to twenty-four.
+> 
+> An old woman with snow-white hair was holding the one-year-old child in her arms and singing to it and tickling it.
+> 
+> The child was cooing with delight.
+> 
+> The couple were looking on with tears in their eyes.
+> 
+> The father was holding the hand of a boy of about ten years old and speaking to him softly.
+> 
+> The boy was fighting his tears.
+> 
+> The father pointed toward the sky, stroked his head, and seemed to explain something to him.
+> 
+> At that moment the SS man at the pit shouted something to his comrade.
+> 
+> The latter counted off about twenty persons and instructed them to go behind the earth mound.
+> 
+> Among them was the family which I have mentioned.
+> 
+> I well remember a girl, slim and with black hair, who as she passed close to me, pointed to herself and said, "Twenty-three."
+> 
+> I walked around the mound and found myself confronted by a tremendous grave.
+> 
+> People were closely wedged together and lying on top of each other so that only their heads were visible.
+> 
+> Nearly all had blood running over their shoulders from their heads.
+> 
+> Some of the people shot were still moving.
+> 
+> Some were lifting their arms and turning their heads to show that they were still alive.
+> 
+> The pit was already two-thirds full.
+> 
+> I estimated that it already contained about a thousand people.
+> 
+> I looked for the man who did the shooting, he testified.
+> 
+> He was an SS man who sat at the edge of the narrow end of the pit, his feet dangling into the pit.
+> 
+> He had a tommy gun on his knees, and he was smoking a cigarette.
+> 
+> The people, completely naked, went down some steps which were cut in the clay wall of the pit and clamored over the heads of the people lying there, to the place where the SS man directed them.
+> 
+> They lay down in front of the dead or injured people, some caressed those who were still alive and spoke to them in a low voice.
+> 
+> Then I heard a series of shots.
+> 
+> I looked into the pit and saw that the bodies were twitching, or the heads lying already motionless on top of the bodies that lay before them.
+> 
+> Blood was running from their necks.
+> 
+> I was surprised that I was not ordered away, but I saw that there were two or three postmen in uniform nearby.
+> 
+> The next batch was approaching already.
+> 
+> They went down into the pit, lined themselves up against the previous victims, and were shot."
 
 When you read account after account of these incidents, part of what was called the Holocaust by Bullets before the Holocaust by Gas really got going, it's just as organized sometimes, and just as mechanized and institutionalized, but there are crazy aspects to it.
 
@@ -921,47 +923,49 @@ If you try to imagine being a victim in this case and living through it, there a
 
 For example, there's an account by a German general who went to one of these mass killing sites, and he talked about all these people having to wait in long lines, like up to a mile long as they inched their way towards the killing pits, as the people in front of them slowly but surely were wiped out, and that there were stops along the way, and at this stop you take off your clothes, at this stop you drop off your valuables, and the people knew what was going on.
 
-In the book "Soldaten" by Sanka Nitzel and Harald Weltzer, they quote German Major General Walter Brunn's description, his eyewitness account of one of these, as he says, "lining up for death" sort of incidences, and the general says, quote, "Six men with Tommy guns were posted at each pit.
+In the book "Soldaten" by Sanka Nitzel and Harald Weltzer, they quote German Major General Walter Brunn's description, his eyewitness account of one of these, as he says, "lining up for death" sort of incidences, and the general says: 
 
-The pits were 24 meters in length and three meters in breadth.
-
-They had to lie down like sardines in a tin, with their heads in the center.
-
-Above them were six men with Tommy guns who gave them the coup de gras.
-
-When I arrived, those pits were so full that the living had to lie down on top of the dead.
-
-Then they were shot, and in order to save room, they had to lie down neatly in layers.
-
-Before this, however, they were stripped of everything at one of the stations.
-
-Here at the edge of the wood were the three pits they used that Sunday, and here they stood in a queue," he says, one and a half kilometers long, that's about a mile long, "which approached step by step, a queueing up for death," he says.
-
-As they drew nearer, they saw what was going on.
-
-For here they had to hand over their jewelry and suitcases.
-
-All good stuff was put into the suitcases, and the remainder thrown on a heap.
-
-This was to serve as clothing for our suffering population.
-
-And then, a little further on, they had to undress, and 500 meters in front of the wood stripped completely.
-
-They were only permitted to keep on a chamois or knickers.
-
-They were all women and small two-year-old children.
-
-Then all those cynical remarks.
-
-If only I had seen those Tommy Gunners who were relieved every hour because of overexertion carry out their task with distaste.
-
-But no, nasty remarks like, "Here comes a Jewish beauty.
-
-I can still see it in all my memory.
-
-A pretty woman in a flame-covered chamois talk about keeping the race pure.
-
-At Riga, they first slept with them, and then they shot them to prevent them from talking."
+> Six men with Tommy guns were posted at each pit.
+> 
+> The pits were 24 meters in length and three meters in breadth.
+> 
+> They had to lie down like sardines in a tin, with their heads in the center.
+> 
+> Above them were six men with Tommy guns who gave them the coup de gras.
+> 
+> When I arrived, those pits were so full that the living had to lie down on top of the dead.
+> 
+> Then they were shot, and in order to save room, they had to lie down neatly in layers.
+> 
+> Before this, however, they were stripped of everything at one of the stations.
+> 
+> Here at the edge of the wood were the three pits they used that Sunday, and here they stood in a queue," he says, one and a half kilometers long, that's about a mile long, "which approached step by step, a queueing up for death," he says.
+> 
+> As they drew nearer, they saw what was going on.
+> 
+> For here they had to hand over their jewelry and suitcases.
+> 
+> All good stuff was put into the suitcases, and the remainder thrown on a heap.
+> 
+> This was to serve as clothing for our suffering population.
+> 
+> And then, a little further on, they had to undress, and 500 meters in front of the wood stripped completely.
+> 
+> They were only permitted to keep on a chamois or knickers.
+> 
+> They were all women and small two-year-old children.
+> 
+> Then all those cynical remarks.
+> 
+> If only I had seen those Tommy Gunners who were relieved every hour because of overexertion carry out their task with distaste.
+> 
+> But no, nasty remarks like, "Here comes a Jewish beauty.
+> 
+> I can still see it in all my memory.
+> 
+> A pretty woman in a flame-covered chamois talk about keeping the race pure.
+> 
+> At Riga, they first slept with them, and then they shot them to prevent them from talking."
 
 So he says, even at the end, as these people are about to be shot, as they've been waiting and lining up to be shot, as they're approaching the gunman, the gunman make comments like, "Here comes a pretty beauty."
 
@@ -1007,17 +1011,16 @@ And in this exhibition, all kinds of reports and photographs that had been kept 
 
 Several books came out of these museum exhibitions, by the way.
 
-One was called War of Extermination, the German Military in World War II, 1941 to 1944, with every chapter written by a different expert on the chapter of the killings that went on, especially of Jews in occupied Yugoslavia, University of Vienna Professor Walter Manaschek writes quote, "The execution squads were comprised mainly of soldiers from units that had suffered losses in skirmishes with partisans.
-
-The soldiers regarded the mass executions of Jews and gypsies as a legitimate tactic.
-
-The eyewitnesses confirm that the execution squads consisted of volunteers.
-
-When a native of Vienna, who belonged to the 521st Army Intelligence Regiment, returned from leave to Belgrade, he was greeted by his comrades with the Jovial Challenge, 'Coming along to shoot some Jews?'
-
-Two reports of the shootings of Jews and gypsies yield insight into the soldiers' mentality."
-
-End quote.
+One was called War of Extermination, the German Military in World War II, 1941 to 1944, with every chapter written by a different expert on the chapter of the killings that went on, especially of Jews in occupied Yugoslavia, University of Vienna Professor Walter Manaschek writes, 
+> "The execution squads were comprised mainly of soldiers from units that had suffered losses in skirmishes with partisans.
+> 
+> The soldiers regarded the mass executions of Jews and gypsies as a legitimate tactic.
+> 
+> The eyewitnesses confirm that the execution squads consisted of volunteers.
+> 
+> When a native of Vienna, who belonged to the 521st Army Intelligence Regiment, returned from leave to Belgrade, he was greeted by his comrades with the Jovial Challenge, 'Coming along to shoot some Jews?'
+> 
+> Two reports of the shootings of Jews and gypsies yield insight into the soldiers' mentality."
 
 When we arrived at a spot some 1.5 to 2 kilometers from the chosen place, the prisoners got out of the trucks and marched to the place.
 
@@ -1095,10 +1098,11 @@ The behavior of the civilians present, women and children, was unbelievable.
 
 After each man had been killed, they began to clap, and when the national anthem started, they joined in singing and clapping."
 
-John Stone points out that sometimes this isn't even anti-Semitism, sometimes it's just complete self-enrichment, and he quotes a Polish journalist who says, "For the Germans, three-hundred Jews are three-hundred enemies of humanity.
-
-For the Lithuanians, they are three-hundred pairs of shoes, trousers and the like."
-
+John Stone points out that sometimes this isn't even anti-Semitism, sometimes it's just complete self-enrichment, and he quotes a Polish journalist who says, 
+> "For the Germans, three-hundred Jews are three-hundred enemies of humanity.
+> 
+> For the Lithuanians, they are three-hundred pairs of shoes, trousers and the like."
+> 
 There are some weird psychological things going on in all this too, and I don't attempt to speculate on what they were.
 
 But when I was growing up, there was this feeling, because this was the sort of thing that was used as a defense at the Nuremberg war crime trials, that a lot of these people found themselves in positions where they just had to follow orders and do distasteful things.
@@ -1179,27 +1183,25 @@ One of the accounts in the back of the book when they recorded the reactions of 
 
 And she's recorded as telling the researchers her reaction to this exhibition and having to come to grips with what her father did.
 
-And she says, quote, I want to say that my father was not young when he went to war.
-
-He was born in 1908 and died in 1991.
-
-He was not a party member.
-
-She continues.
-
-Later he was drafted.
-
-My mother told me that in the 1950s, my father never slept with the window open and screamed terribly in his sleep every night about fire and children.
-
-She said it was simply horrible.
-
-Naturally, she says, I love my father very much.
-
-He never told how it was when one shoots another person for the first time.
-
-Today that surprises me.
-
-End quote.
+And she says, 
+> I want to say that my father was not young when he went to war.
+> 
+> He was born in 1908 and died in 1991.
+> 
+> He was not a party member.
+> 
+> Later he was drafted.
+> 
+> My mother told me that in the 1950s, my father never slept with the window open and screamed terribly in his sleep every night about fire and children.
+> 
+> She said it was simply horrible.
+> 
+> Naturally, she says, I love my father very much.
+> 
+> He never told how it was when one shoots another person for the first time.
+> 
+> Today that surprises me.
+> 
 
 She then mentions a famous, if you were alive, you remember in the 1980s, a famous meeting where Ronald Reagan met the German Chancellor at a German cemetery in Bitburg, and it became controversial because the press releases had said that they were just going to have sort of a reconciliation meeting.
 
@@ -1207,13 +1209,12 @@ But then it was discovered that at the cemetery in Bitburg, some of the SS peopl
 
 So in other words, the people that at the time were thought to be the only people really guilty for the Holocaust.
 
-And Miss Nichols says, quote, back then I noticed for the first time that my father, and the only photo of him that we have from that time is wearing a uniform that is black and has skulls on it.
-
-At the time, I was already a representative of the greens in the Bundestag and didn't dare to ask my father.
-
-It was incredibly difficult for me.
-
-End quote.
+And Miss Nichols says, 
+> back then I noticed for the first time that my father, and the only photo of him that we have from that time is wearing a uniform that is black and has skulls on it.
+> 
+> At the time, I was already a representative of the greens in the Bundestag and didn't dare to ask my father.
+> 
+> It was incredibly difficult for me.
 
 She then says that in 1989, she traveled to Warsaw and went to one of the death camps.
 
@@ -1221,19 +1222,18 @@ She says that during the travel to the death camp, she simply broke down because
 
 But then she started to think, as any of us might do about a loved one that found themselves caught in the gears of history, as sacrilegious as it might be to think about them.
 
-She says, I was terribly shocked at what happened at the concentration camp, quote, but just as much about what they did to the men, one of whom was my father.
-
-They were for the most part men who loved life and children.
-
-It is horrible what they made out of men in this criminal war.
-
-Most of them didn't have the strength to extricate themselves from it.
-
-All of them made themselves guilty of infinite atrocious wrongs.
-
-The men, women and children, I am the daughter of such a German soldier, are still marked by that today.
-
-End quote.
+She says, 
+> I was terribly shocked at what happened at the concentration camp, but just as much about what they did to the men, one of whom was my father.
+> 
+> They were for the most part men who loved life and children.
+> 
+> It is horrible what they made out of men in this criminal war.
+> 
+> Most of them didn't have the strength to extricate themselves from it.
+> 
+> All of them made themselves guilty of infinite atrocious wrongs.
+> 
+> The men, women and children, I am the daughter of such a German soldier, are still marked by that today.
 
 What if you had found yourself in a position where you thought you were just a soldier and then one day you're standing on the edge of a pit where men, women and children are stripped naked, forced to lie down in the pit, head to toe, head to toe while you shoot them.
 
@@ -1279,23 +1279,23 @@ And just so you know, it's not a direct quote because there's three dots between
 
 And if not for the victims, then for the people that had to do the shooting in the book, Hess describes his promotion to commander at Auschwitz this way.
 
-"There was no turning back.
-
-With strange feelings I entered my new range of activities, a new world to which I was bound and chained.
-
-I knew all about the life of prisoners, but the concentration camp was something new to me."
-
-The author then says that with the impending arrival of the mass transports of Jews, Hess felt relieved that the efficient gas ovens were to be used rather than the traditional method of mass shootings.
-
-Now quoting Haas again, "I was always appalled by shootings, particularly when I thought of the women and children.
-
-Now I was relieved that we were going to be spared these blood baths.
-
-Gruesome scenes are said to have taken place.
-
-The running away of the wounded, the killing of the wounded, above all women and children, the frequent suicides in the ranks of the execution squads, because they couldn't stand wading through blood.
-
-Some became insane."
+> "There was no turning back.
+> 
+> With strange feelings I entered my new range of activities, a new world to which I was bound and chained.
+> 
+> I knew all about the life of prisoners, but the concentration camp was something new to me."
+> 
+> The author then says that with the impending arrival of the mass transports of Jews, Hess felt relieved that the efficient gas ovens were to be used rather than the traditional method of mass shootings.
+> 
+> Now quoting Haas again, "I was always appalled by shootings, particularly when I thought of the women and children.
+> 
+> Now I was relieved that we were going to be spared these blood baths.
+> 
+> Gruesome scenes are said to have taken place.
+> 
+> The running away of the wounded, the killing of the wounded, above all women and children, the frequent suicides in the ranks of the execution squads, because they couldn't stand wading through blood.
+> 
+> Some became insane."
 
 Well, you kinda hope so, don't you?
 
@@ -1439,125 +1439,131 @@ Behind the barred hatches, children, as well as men and women, looked out, terri
 
 The train comes in, 200 Ukrainians fling open the doors and whip the people out of the wagons with their leather whips.
 
-He says a large loudspeaker then gave further orders, and he quoted the loudspeakers, saying, 'Undress completely.
+He says a large loudspeaker then gave further orders, and he quoted the loudspeakers, saying, 'Undress completely. Also, remove artificial limbs, spectacles, etc.'
 
-Also, remove artificial limbs, spectacles, etc.'
+He says that everyone undressed, and then he continues by saying, 
+> 'Then the procession starts moving, in front a very lovely young girl.
+> 
+> So all of them go along the alley, all naked, men, women and children, without artificial limbs.
+> 
+> I myself stand together with Helptman Virth, which is the commander, on top of the ramp between the gas chambers, mothers with babies at their breasts.
+> 
+> They come onward, hesitate, enter the death chambers.'
 
-He says that everyone undressed, and then he continues by saying, 'Then the procession starts moving, in front a very lovely young girl.
+At the corner a strong SS man stands, who with a voice like a pastor says to the poor people, now quoting him, 
+> 'There is not the least chance that something will happen to you.
+> 
+> You must only take a deep breath in the chamber that widens the lungs.
+> 
+> This inhalation is necessary because of the illnesses and epidemics.'
+ 
+He says on the question of what would happen to them, he answered, 
+> 'Yes, of course the men will have to work, building houses and roads, but the women don't need to work, only if they wish they can help in housekeeping or in the kitchen.'
 
-So all of them go along the alley, all naked, men, women and children, without artificial limbs.
+He says, 
+> 'For some of these poor people, this gave a little glimmer of hope, enough to go the first few steps to the chambers without resistance.
+> 
+> The majority, are aware.
+> 
+> The smell tells them of their fate.
+> 
+> So they climb the small staircase and then they see everything.
+> 
+> Mothers with little children at the breast, little naked children, adults, men, women, all naked, they hesitate, but they enter the death chambers, pushed forward by those behind them or driven by the leather whips of the SS.
+>  
+> The majority, without saying a word, a Jewess of about forty years of age, with flaming eyes, calls down vengeance on the head of the murderers for the blood which is shed here.
+> 
+> She gets five or six slashes with the riding crop into her face from Hauptman Virth personally, and then she also disappears into the chamber.'
+> 
+> the commander says to the people filling the chamber that they should pack well, and he says people stand on each other's feet, seven to eight hundred people in forty-five cubic meters.
+> 
+> the SS physically squeezes them together as far as possible,
+> 
+> Remember this man's watching seven to eight hundred people being killed in front of him through a small window with an electric light.
+> 
+> The doors close.
+> 
+> At the same time, the others, meaning the next batch of people, are waiting outside in the open air, naked.
+> 
+> The people are brought to death with the diesel exhaust fumes, but the diesel doesn't work.
+> 
+> Hauptman Virth comes.
+> 
+> One can see that he feels embarrassed that this happens just today, when I am here.
+> 
+> That's right.
+> 
+> I see everything.
+> 
+> And I wait.
+> 
+> My stopwatch has honestly registered everything.
+> 
+> Fifty minutes.
+> 
+> Seventy minutes.
+> 
+> The diesel doesn't start.
+> 
+> The people are waiting in their gas chambers, in vain.
+> 
+> One can hear them crying, sobbing.'
+> 
+> He then continues, 'After two hours and forty-nine minutes, the stopwatch has registered everything well.
+> 
+> The diesel starts.
+> 
+> Until this moment, the people live in these four chambers, four times seven hundred and fifty people in four times forty-five cubic meters.
+> 
+> Again, twenty-five minutes pass.
+> 
+> Right.
+> 
+> Many are dead now.
+> 
+> One can see that through the small window in which the electric light illuminates the chambers for a moment.
+> 
+> After twenty-eight minutes, only a few are still alive.
+> 
+> Finally, after thirty-two minutes, everyone is dead.'
 
-I myself stand together with Helptman Virth, which is the commander, on top of the ramp between the gas chambers, mothers with babies at their breasts.
+He then says, 
 
-They come onward, hesitate, enter the death chambers.'
-
-At the corner a strong SS man stands, who with a voice like a pastor says to the poor people, now quoting him, 'There is not the least chance that something will happen to you.
-
-You must only take a deep breath in the chamber that widens the lungs.
-
-This inhalation is necessary because of the illnesses and epidemics.'
-
-He says on the question of what would happen to them, he answered, 'Yes, of course the men will have to work, building houses and roads, but the women don't need to work, only if they wish they can help in housekeeping or in the kitchen.'
-
-He says, 'For some of these poor people, this gave a little glimmer of hope, enough to go the first few steps to the chambers without resistance.
-
-The majority,' he says though, 'are aware.
-
-The smell tells them of their fate.
-
-So they climb the small staircase and then they see everything.
-
-Mothers with little children at the breast, little naked children, adults, men, women, all naked, they hesitate, but they enter the death chambers, pushed forward by those behind them or driven by the leather whips of the SS.'
-
-The majority, he says, without saying a word, a Jewess of about forty years of age, with flaming eyes, calls down vengeance on the head of the murderers for the blood which is shed here.
-
-She gets five or six slashes with the riding crop into her face from Hauptman Virth personally, and then she also disappears into the chamber.'
-
-He then says that the commander says to the people filling the chamber that they should pack well, and he says people stand on each other's feet, seven to eight hundred people in forty-five cubic meters.
-
-He says the SS physically squeezes them together as far as possible, and then he continues.
-
-Remember this man's watching seven to eight hundred people being killed in front of him through a small window with an electric light.
-
-He continues, 'The doors close.
-
-At the same time, the others, meaning the next batch of people, are waiting outside in the open air, naked.
-
-The people are brought to death with the diesel exhaust fumes, but the diesel doesn't work.
-
-Hauptman Virth comes.
-
-One can see that he feels embarrassed that this happens just today, when I am here.
-
-That's right.
-
-I see everything.
-
-And I wait.
-
-My stopwatch has honestly registered everything.
-
-Fifty minutes.
-
-Seventy minutes.
-
-The diesel doesn't start.
-
-The people are waiting in their gas chambers, in vain.
-
-One can hear them crying, sobbing.'
-
-He then continues, 'After two hours and forty-nine minutes, the stopwatch has registered everything well.
-
-The diesel starts.
-
-Until this moment, the people live in these four chambers, four times seven hundred and fifty people in four times forty-five cubic meters.
-
-Again, twenty-five minutes pass.
-
-Right.
-
-Many are dead now.
-
-One can see that through the small window in which the electric light illuminates the chambers for a moment.
-
-After twenty-eight minutes, only a few are still alive.
-
-Finally, after thirty-two minutes, everyone is dead.'
-
-He then says, 'The people from the work command open the doors.
-
-These are the Sonder Commandos, some of them Jews, who have been promised their freedom, but instead every three or four months they are killed too.
-
-It helps keep everybody quiet.'
-
+> 'The people from the work command open the doors.
+> 
+> These are the Sonder Commandos, some of them Jews, who have been promised their freedom, but instead every three or four months they are killed too.
+> 
+> It helps keep everybody quiet.'
+ 
 And he describes the way the dead are situated in the gas chambers, which are so crammed with people nobody can even bend over.
 
-And he writes, 'Like basalt pillars, the dead stand inside, pressed together in the chambers.
-
-In any event there was no space to fall down, or even bend forward.
-
-Even in death one can still tell the families.
-
-They still hold hands.
-
-Tenced in death, so that one can barely tear them apart in order to empty the chamber for the next batch.
-
-The corpses are thrown out, wet from sweat and urine, soiled by excrement, menstrual blood on their legs.
-
-When these humans' corpses fly through the air, there is no time.
-
-The riding crops of the Ukrainians lash down on the work commands.
-
-Two dozen dentists open mouths with hooks and look for gold.
-
-Gold to the left.
-
-Without gold to the right, other dentists break gold teeth and crowns out of jaws, with pliers and hammers.'
-
+> 'Like basalt pillars, the dead stand inside, pressed together in the chambers.
+> 
+> In any event there was no space to fall down, or even bend forward.
+> 
+> Even in death one can still tell the families.
+> 
+> They still hold hands.
+> 
+> Tenced in death, so that one can barely tear them apart in order to empty the chamber for the next batch.
+> 
+> The corpses are thrown out, wet from sweat and urine, soiled by excrement, menstrual blood on their legs.
+> 
+> When these humans' corpses fly through the air, there is no time.
+> 
+> The riding crops of the Ukrainians lash down on the work commands.
+> 
+> Two dozen dentists open mouths with hooks and look for gold.
+> 
+> Gold to the left.
+> 
+> Without gold to the right, other dentists break gold teeth and crowns out of jaws, with pliers and hammers.'
+ 
 He then points out something that should remind us of why it is so hard to figure out exactly how many people died in the Holocaust.
 
-He says, 'Neither at Belchitz or Treblinka was any trouble taken over registering or counting the dead.'
+He says, 
+
+> 'Neither at Belchitz or Treblinka was any trouble taken over registering or counting the dead.'
 
 He said the numbers were only estimates of a wagon's content.
 
@@ -1597,29 +1603,29 @@ And Stone writes quote, In Baruch Milke's account of his time in hiding with his
 
 The description is matter of fact.
 
-Now the description quote, We all sat down again, withdrawn into ourselves, and Lunik went wild again.
+Now the description, 
 
-Unable to calm him, we thought we would go mad.
-
-Suddenly as though struck by lightning, my brother-in-law bolted from his seat and wrapped a hand around his son's tender neck as if to stifle his cries.
-
-Instead, the boy's eyes rolled in their sockets, his tongue protruded, and he fell silent.
-
-His father knew exactly where to squeeze.
-
-He, like me, was a doctor.
-
-When he finally let go of his son's throat, the boy was lifeless.
-
-I took his hand and felt no pulse.
-
-His father left him, covered his son's face with a blanket, seated himself in a corner, and began to tear his hair.
-
-"I am forever recursed as the murderer of my son," he mumbled, "but I spared him much more suffering.
-
-At least I didn't let him die at the hands of the murderers."
-
-End quote.
+> We all sat down again, withdrawn into ourselves, and Lunik went wild again.
+> 
+> Unable to calm him, we thought we would go mad.
+> 
+> Suddenly as though struck by lightning, my brother-in-law bolted from his seat and wrapped a hand around his son's tender neck as if to stifle his cries.
+> 
+> Instead, the boy's eyes rolled in their sockets, his tongue protruded, and he fell silent.
+> 
+> His father knew exactly where to squeeze.
+> 
+> He, like me, was a doctor.
+> 
+> When he finally let go of his son's throat, the boy was lifeless.
+> 
+> I took his hand and felt no pulse.
+> 
+> His father left him, covered his son's face with a blanket, seated himself in a corner, and began to tear his hair.
+> 
+> "I am forever recursed as the murderer of my son," he mumbled, "but I spared him much more suffering.
+> 
+> At least I didn't let him die at the hands of the murderers."
 
 It's a situation where if one can't get their mind around the enormity of the Holocaust in the macro sense, we can all sort of sit there and just shake our heads and try to imagine what the individual story of simply one group of people in a micro sense found themselves confronted with, and then for the rest of their lives, living with.
 
@@ -1871,6 +1877,11 @@ You dove into the archives, you read the original stories, you catalog the numbe
 
 Think about how much fortitude one would have to have to do that.
 
+
+# Conversation with Dan Stone
+> [!NOTE] Note on transcption
+> The following is a conversation between Dan Carlin and Dan Stone. Sadly, I didn't have (yet) enough time to separate the speakers properly, so as of right now it is a big blob of text. Soon enough, I hope to improve this.
+ 
 Well, our guest on the show today is Dan Stone, who's a professor of modern history and the director of the Holocaust Research Institute at Royal Holloway University of London.
 
 This is what he does.
@@ -2740,19 +2751,3 @@ Bye-bye.
 My thanks to Professor Dan Stone for coming on the program.
 
 His latest work is out in paperback now, The Holocaust and Unfinished History.
-
-And as usual, we will put a link to the book in the show notes for this latest show.
-
-A reminder, by the way, I'm going to be on a speaking tour in March and April 2024.
-
-If you'd like to join me, we're going to be in Los Angeles, Salt Lake City, Portland, Oregon, and New York City.
-
-Go to the front page of dancarlin.com for more info on that.
-
-However, feel free to sign up to our free sub-stack page at dancarlin.substack.com.
-
-Dan, Ben, and the existence of these podcasts rely on your support and donations.
-
-Please go to dancarlin.com for classic episodes only available for sale and information on how to donate.
-
-[BLANK_AUDIO]
