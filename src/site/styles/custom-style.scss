@@ -4,6 +4,10 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
 
+    .toc-container {
+        max-height: auto !important;
+    }
+    
     .maxwidth.content {
         max-width: 95%;
     }
@@ -34,6 +38,7 @@ body {
     
     .navbar {
         justify-content: space-around !important;
+        position: relative !important;
 
         h1 {
             font-style: italic;
