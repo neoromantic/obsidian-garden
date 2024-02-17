@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/5-media/superhumanly-inhuman/","dgShowToc":true}
 ---
 
-This is a transcript of a podcast [Hardcore History: Addendum](https://www.dancarlin.com/addendum/), episode 28, about Holocaust, evil governments, and about people of various nature.
+This is a transcript of a podcast [Hardcore History: Addendum](https://www.dancarlin.com/addendum/) by [Dan Carlin](https://x.com/hardcorehistory), episode 28, about Holocaust, evil governments, and about people of various nature.
 
 Episode on Youtube: [EP28 Superhumanly Inhuman - YouTube](https://www.youtube.com/watch?v=paO72-zA650)
 Audio link: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum podcast](https://player.fm/series/dan-carlins-hardcore-history-addendum-1843517/ep28-superhumanly-inhuman)
+
+List of all books mentioned can be found in [[5 - Медиа/Superhumanly Inhuman#Footnotes\|#Footnotes]].
 
 ---
 # Introduction and a warning
@@ -27,7 +29,7 @@ You'll have to decide.
 
 The show today came about as the result of a communication between the people who publish a book that's just about to come out in the United States and yours truly.
 
-The publishers of Dan Stone's, historian Dan Stone's new book on the Holocaust, got in touch with me and said, "We'd like to talk to the professor about the book."
+The publishers of Dan Stone's, historian Dan Stone's new book[^1] on the Holocaust, got in touch with me and said, "We'd like to talk to the professor about the book."
 
 Now, Stone, for those who don't know, is one of the foremost historians of the Holocaust in the Second World War.
 
@@ -83,7 +85,7 @@ The term itself essentially means, I mean, there's a very legalized, formalized 
 
 Wipe them out, exterminate them.
 
-It was an attempt to come up with a term for what Winston Churchill in 1941, when the Soviet Union was invaded by the Germans, called a crime which has no name.
+It was an attempt to come up with a term for what Winston Churchill in 1941, when the Soviet Union was invaded by the Germans, called a `crime which has no name`.
 
 Now he didn't know that this was a crime against Jews specifically.
 
@@ -153,7 +155,7 @@ It's one of those modern sorts of occurrences that's hard to ignore.
 
 It is one of the ultimate examples of the literary theme of man's inhumanity to man.
 
-And just when you think it can't get any worse, there's a story or a remembrance or a document or something else, maybe even sometimes film footage that comes into play where you just shake your head and can't believe that humanity ever went there in Winston Churchill's history of the Second World War.
+And just when you think it can't get any worse, there's a story or a remembrance or a document or something else, maybe even sometimes film footage that comes into play where you just shake your head and can't believe that humanity ever went there in Winston Churchill's history of the Second World War[^2].
 
 And if you really are interested in that series, by the way, don't buy one of the abridged versions. Go get your hands on one of the original works because they include all the appendices. Churchill throws in a lot of letters that he wrote during the war itself and communications that he had with other people.
 
@@ -203,7 +205,7 @@ But making a distinction between that and putting people in concentration camps 
 
 That is the Nazi era specifically.
 
-What Dan Stone's book talks about, and we'll get into it with Professor Stone himself, is that you just can't write it off to Germans in any case because there were a lot of other Europeans whose anti-Semitic ideas were tapped into and who became willing accomplices in all this.
+What Dan Stone's book[^1] talks about, and we'll get into it with Professor Stone himself, is that you just can't write it off to Germans in any case because there were a lot of other Europeans whose anti-Semitic ideas were tapped into and who became willing accomplices in all this.
 
 But maybe we should talk for a second about who the Nazis were because the Holocaust becomes something difficult to imagine without them.
 
@@ -327,9 +329,9 @@ The communist Chinese are the People's Republic of China.
 
 The Islamic dictatorship of Iran is the Islamic Republic of Iran officially.
 
-So these are all marketing terms and Hitler made it very clear in Mein Kampf that they would often laugh at the fact that they would choose these phrases that would confuse the German public about what they were all about.
+So these are all marketing terms and Hitler made it very clear in Mein Kampf[^3] that they would often laugh at the fact that they would choose these phrases that would confuse the German public about what they were all about.
 
-So if you go read Mein Kampf, by the way, which is Hitler's, let's call it a manifesto written when he was in prison and he was sentenced to prison because he was part of a failed coup.
+So if you go read Mein Kampf[^3], by the way, which is Hitler's, let's call it a manifesto written when he was in prison and he was sentenced to prison because he was part of a failed coup.
 
 And when he was in prison, he dictated this book to his followers.
 
@@ -339,7 +341,8 @@ It's propaganda, but it does tell you quite a bit about his thinking.
 
 And in it, he talks about choosing symbols that are normally associated with the far left, but doing it deliberately.
 
-And in Mein Kampf, Hitler writes,
+And in Mein Kampf[^3], Hitler writes,
+
 > The red color of our posters in itself drew them, meaning the communists and socialists, to our meeting halls.
 > 
 > The run of the mill bourgeoisie were horrified that we had seized upon the red of the Bolsheviks and they regarded this as all very ambiguous.
@@ -383,7 +386,8 @@ It's a strange sort of bipolar way of seeing these individuals.
 
 The Nazis saw them as polluters of the blood and the blood was part of the Nazi philosophy that also goes into the late 19th century, mid 20th century ideas of things like social Darwinism and eugenics.
 
-In his history of the Second World War, in the first edition of the series of books, The Gathering Storm, Winston Churchill tried his hand at describing the philosophy of the Nazis as outlined in Mein Kampf and Churchill wrote, 
+In his history of the Second World War, in the first edition of the series of books, The Gathering Storm[^2], Winston Churchill tried his hand at describing the philosophy of the Nazis as outlined in Mein Kampf and Churchill wrote, 
+
 > "The main thesis of Mein Kampf is simple.
 > 
 > Man is a fighting animal.
@@ -446,7 +450,7 @@ There is a religious or pseudo-religious belief in the almost God-chosen role of
 
 This is the mystical side of Nazism, and it's discussed in historian Stefan Melonowski, who was born in Berlin, by the way, he's at the University of Edinburgh now, historian.
 
-He described it in his book Nazis and Nobles.
+He described it in his book "Nazis and Nobles"[^4].
 
 This is an important thing to pay attention to because, as one of my history professors said once, when you're trying to nail down the political allies, the place you would put someone on the political spectrum, right?
 
@@ -480,11 +484,12 @@ They worked with management.
 
 They worked with the giant corporate firms that made Germany the industrial powerhouse that it was, and there was a partnership between the two.
 
-In his fantastic book, economic historian Adam Toos in the wages of destruction talks about a very famous meeting between the Nazis when they first come to power and the great industrial firms in Germany on February 20th, 1933.
+In his fantastic book, economic historian Adam Tooze in "The wages of destruction"[^5] talks about a very famous meeting between the Nazis when they first come to power and the great industrial firms in Germany on February 20th, 1933.
 
 He talks about the amount of money that these giant firms gave and what the promises of the Nazis to these groups were.
 
 And Toos writes, 
+
 > the meeting of 20th February and its aftermath are the most notorious instances of the willingness of German big business to assist Hitler in establishing his dictatorial regime.
 > 
 > The evidence cannot be dodged.
@@ -528,7 +533,7 @@ They worship a divine emperor, for goodness sakes, along with the persecution, j
 
 Trying to get your mind around what Hitler and the Nazis did believe, though, is really difficult because it is wrapped up in the mystical.
 
-As we said, I had a professor, my favorite professor in college, Robert Poise, wrote a whole book on what he called the "religion of nature," which is how he described the Nazi belief system.
+As we said, I had a professor, my favorite professor in college, Robert Pois, wrote a whole book on what he called the "religion of nature"[^6], which is how he described the Nazi belief system.
 
 The main thing to focus on, perhaps, though, is that it is not economic at all, which is what's so weird about the way we think now, because we tend to think of political systems as rooted in economic questions.
 
@@ -540,7 +545,7 @@ What do you believe?
 
 Hitler's belief system focused on blood and soil.
 
-William Shirer, in his book The Rise and Fall of the Third Reich, says that Hitler said on many occasions that his whole philosophy was rooted in something called the Volksgemeinschaft, which is a certain kind of racial community rooted in blood and soil.
+William Shirer, in his book The Rise and Fall of the Third Reich[^7], says that Hitler said on many occasions that his whole philosophy was rooted in something called the Volksgemeinschaft, which is a certain kind of racial community rooted in blood and soil.
 
 But Shirer says he heard multiple Hitler speeches where Hitler said, "This is the whole key to understanding Nazism, and it never once sounded the same, and Shirer never understood it."
 
@@ -548,7 +553,7 @@ He did quote Hitler as saying, "The state has nothing at all to do with any defi
 
 So perhaps this is where our problems develop as we try to understand a system using our modern lenses for how we evaluate things, trying to get our mind around a system that's rooted in late 19th century ideas of eugenics and social Darwinism and blood and soil and Volksgemeinschaft and a whole bunch of concepts that people don't talk about very much anymore because, well, in part they're pretty discredited because in part, well, we had things like the Second World War and the Holocaust.
 
-In a book written about genocide called [Why Not Kill Them All?: The Logic and Prevention of Mass Political Murder](https://www.amazon.com/Why-Not-Kill-Them-All/dp/0691145946), the authors Daniel Chirat and Clark McCauley run down the reasons for some of this idea connected to what the Nazis believed in about, well, what would make up the Volksgemeinschaft, the idea of a racial community?
+In a book written about genocide called "Why Not Kill Them All?"[^8], the authors Daniel Chirat and Clark McCauley run down the reasons for some of this idea connected to what the Nazis believed in about, well, what would make up the Volksgemeinschaft, the idea of a racial community?
 
 Because in the Volksgemeinschaft, you could be in it if you were part of the people that met the criteria and if you didn't, you weren't a part of it.
 
@@ -764,7 +769,7 @@ But if you do that without re-injecting the psychological trauma into the conver
 
 In other words, one needs to fuse the intellectual with the emotional in order to be in the right frame of mind.
 
-I mean when Heinrich Himmler, as recounted in Nora Levin's book The Holocaust, tells his underlings who are setting up these annihilation camps that he expects them to act in a super humanly, inhuman way, well that's easy to say in the conference room.
+I mean when Heinrich Himmler, as recounted in Nora Levin's book "The Holocaust"[^9], tells his underlings who are setting up these annihilation camps that he expects them to act in a super humanly, inhuman way, well that's easy to say in the conference room.
 
 It's a whole different situation when you're actually on the ground acting in a super humanly inhuman way.
 
@@ -800,13 +805,15 @@ And look, I'm not a historian, as I say all the time, but this is a classic prob
 
 How do you organize it and use it in a way to accomplish the goal of helping to illuminate the past even a little bit?
 
-So the way I did it, and I hope I did it well, I mean, or usefully anyway, I tried to bear in mind what Dan Stone said in his book, talking about this a little bit.
+So the way I did it, and I hope I did it well, I mean, or usefully anyway, I tried to bear in mind what Dan Stone said in his book[^1], talking about this a little bit.
 
-And he wrote, quote, no doubt it is right to say that there is something numbing about recounting a seemingly endless sequence of atrocities.
+And he wrote, 
 
-It is also a reflection of what happened, leaving the victims numb.
-
-And sometimes he writes, it is important to Terry with a tiny atrocity, tiny in the grand scale of the murders, but the whole world to those who were affected.
+> no doubt it is right to say that there is something numbing about recounting a seemingly endless sequence of atrocities.
+> 
+> It is also a reflection of what happened, leaving the victims numb.
+> 
+> And sometimes, it is important to Terry with a tiny atrocity, tiny in the grand scale of the murders, but the whole world to those who were affected.
 
 That's sort of the Anne Frank approach to looking at the Holocaust, right?
 
@@ -832,7 +839,7 @@ I call it 23 and you'll understand why when you hear it.
 
 I actually read it when I was a kid.
 
-It was in a book called [The Holocaust by Nora Levin](https://www.amazon.com/Holocaust-Destruction-European-Jewry-1933-1945/dp/0690398638) written in the late 1960s, but it's an eyewitness account of one of these mass killings.
+It was in a book called "The Holocaust" by Nora Levin[^9] written in the late 1960s, but it's an eyewitness account of one of these mass killings.
 
 The eyewitness account came out in the Nuremberg trials where a German civilian construction engineer had watched the annihilation of a Jewish ghetto in Ukraine.
 
@@ -928,7 +935,7 @@ If you try to imagine being a victim in this case and living through it, there a
 
 For example, there's an account by a German general who went to one of these mass killing sites, and he talked about all these people having to wait in long lines, like up to a mile long as they inched their way towards the killing pits, as the people in front of them slowly but surely were wiped out, and that there were stops along the way, and at this stop you take off your clothes, at this stop you drop off your valuables, and the people knew what was going on.
 
-In the book ["Soldaten" by Sanka Nitzel and Harald Weltzer](https://www.amazon.com/Soldaten-Fighting-Killing-Sonke-Neitzel/dp/0771051050), they quote German Major General Walter Brunn's description, his eyewitness account of one of these, as he says, "lining up for death" sort of incidences, and the general says: 
+In the book "Soldaten"[^10] by Sanka Nitzel and Harald Weltzer, they quote German Major General Walter Brunn's description, his eyewitness account of one of these, as he says, "lining up for death" sort of incidences, and the general says: 
 
 > Six men with Tommy guns were posted at each pit.
 > 
@@ -982,7 +989,7 @@ The ravine, by the way, continued to be used to kill people for the entire time 
 
 And there may be as many as 100,000 bodies buried there, or they were cremated eventually and pounded into dust, but the entire area is a giant charnel house.
 
-There was a horrible story Nora Levin told in her book, The Holocaust, where the guy who was in charge of the killings was giving a tour in the spring right after Babi Yar's occurrence.
+There was a horrible story Nora Levin told in her book, "The Holocaust"[^9], where the guy who was in charge of the killings was giving a tour in the spring right after Babi Yar's occurrence.
 
 And the person who was with the architect of the killings said that he was shown the ravine itself, and he said during the spring thaw, small explosions were exploding the dirt up into the air, and that was a result of the spring thaw bringing the gases in all of the bodies buried underground to the surface.
 
@@ -1074,7 +1081,7 @@ You have the people that are really bothered by it and the people that actively 
 
 Let's start with the people who seem to enjoy it.
 
-In his book The Holocaust and Unfinished History, Dan Stone talks about the willing collaborators, as he calls them.
+In his book "The Holocaust and Unfinished History"[^1], Dan Stone talks about the willing collaborators, as he calls them.
 
 And it is a sign that you did not have to be a Nazi to be anti-Semitic.
 
@@ -1128,7 +1135,7 @@ But it did.
 
 People would show up in their bathing suits, women would show up.
 
-There's one incident recounted in the book "Soldaten" by Sanka Nitzil and Harold Weltzer, where they talk about a group of Berlin police officers who were musicians and performers.
+There's one incident recounted in the book "Soldaten"[^10] by Sanka Nitzil and Harold Weltzer, where they talk about a group of Berlin police officers who were musicians and performers.
 
 So you think of like entertainers who asked if they could take part in the execution, you know, just for the experience.
 
@@ -1178,7 +1185,7 @@ Well you can do that, but that may be a one-way ticket to a concentration camp f
 
 So that's what I mean about being caught in the gears of history.
 
-There's a fascinating list of remembrances at the back of the book called [The German Army and Genocide](https://www.amazon.com/German-Army-Genocide-Prisoners-Civilians/dp/1565845250), which is edited by the Hamburg Institute for Social Research.
+There's a fascinating list of remembrances at the back of the book called "The German Army and Genocide"[^11], which is edited by the Hamburg Institute for Social Research.
 
 It's one of the books that came out of that groundbreaking exhibition in the 1990s that shattered the myth of the Klinvermacht.
 
@@ -1286,9 +1293,7 @@ Haas made statements that he was relieved that they were finally going to figure
 
 Not so worried about the victims, but more the victimizers, although sometimes they talked about it as somehow sparing the victims, some of the psychological torment before they met their ends in the book German Voices, Memories of Life During Hitler's Third Reich.
 
-Frederick C.
-
-Tubach quotes Hess talking about this.
+Frederick C. Tubach quotes Hess talking about this.
 
 And just so you know, it's not a direct quote because there's three dots between some of the statements, which means some of the intervening stuff, maybe cross talk with an interviewer has been excised, but I'm going to read it as though it's a single quote because it gives you an idea of how these people might somehow tell themselves that gassing large numbers of people was more merciful than shooting them at the sides of ditches.
 
@@ -1324,7 +1329,7 @@ The annihilation camps, though, brought their own sorts of horrificness, of cour
 
 I mean, first of all, there was a big difference, as pointed out in many sources, between killing Jews where you found them, right outside the towns or the cities or nearby where they lived, and having to get them from one place to a centralized killing area where you could dispose of them, because sometimes they started off a long way away from where they were supposed to end up, and the trip itself could be a vision of hell.
 
-In his book, Dan Stone talks about and recounts the story of a bunch of Jews that were packed into railway cars in Greece, where they were from, to be taken to the place where they would be annihilated, turned out they weren't destined to die in the gas chambers, they died on the way.
+In his book[^1], Dan Stone talks about and recounts the story of a bunch of Jews that were packed into railway cars in Greece, where they were from, to be taken to the place where they would be annihilated, turned out they weren't destined to die in the gas chambers, they died on the way.
 
 And he writes an account, a first-hand account, by a Viennese Jew named Simon Umshuev whose job it was to work for the Nazis and unload these railway cars transporting Jews to their death, and he's the one that in the case of the Jews coming from Greece found them already deceased when they got there, and he said, 
 
@@ -1352,7 +1357,7 @@ If you look at the infrastructure and the logistics of killing and wiping out an
 
 We should recall that even though people like to argue about how many Jews died in the Holocaust, because six million was an estimate, we should note that the Germans were planning for far more, and had they won the war, they were planning on having some 11 million Jews available for them to kill, and the amount of infrastructure that goes into those kinds of genocidal-type logistics is a lot larger than most people think.
 
-And Dan Stone points out in his book that at the start of the war, there were six main concentration camps in existence.
+And Dan Stone points out in his book[^1] that at the start of the war, there were six main concentration camps in existence.
 
 He says by the end of 1943, that had become 260 main and satellite camps.
 
@@ -1597,7 +1602,7 @@ Even trying to get your mind around what smartphone high-definition video with a
 
 And you can try to put yourself in the shoes of anyone looking at these sorts of events through their eyes, hearing the sounds, smelling the smells.
 
-One of the things Dan Stone says in his book is that you sometimes have to shrink this down to a level where we're talking about an individual experience of just one of the people in the story.
+One of the things Dan Stone says in his book[^1] is that you sometimes have to shrink this down to a level where we're talking about an individual experience of just one of the people in the story.
 
 I often look at the pictures of the people who were killed by the communist Khmer Rouge government in Cambodia, and those people, the Khmer Rouge took photographs of their victims before they killed them.
 
@@ -1613,7 +1618,7 @@ Did anybody miss them?
 
 You know, the stories of not five or six million people in the Holocaust, but five or six million individuals who all had their own horrific tale that brought them to where they were.
 
-And Stone has a story in his book that's a perfect example.
+And Stone has a story in his book[^1] that's a perfect example.
 
 It's kind of the Anne Frank zooming in moment of the Holocaust where he talks about some Jews who are hiding out and a homeowner is hiding them, but they're having a problem with a child in the group who can't control the fact that he's making noise because he's terrified.
 
@@ -1831,17 +1836,13 @@ You saw that in the Second World War.
 
 There's a book that I bought in the 1980s.
 
-I think it's still viable, although the numbers are a little wrong, by a professor named R.J.
+I think it's still viable, although the numbers are a little wrong, by a professor named R.J. Rummel.
 
-Rummel.
-
-It's called "[Death by Government](https://www.amazon.com/Death-Government-Genocide-Murder-Since/dp/1560009276)."
+It's called "Death by Government"[^12].
 
 The shorthand explanation of what the book is about is the dangers of extreme governments, governments that do not have enough checks and balances, governments with too much executive power and authority on the right or the left, whatever political label you want to use.
 
-And Professor Rummel says over and over in the book, "Power kills.
-
-An absolute power kills absolutely."
+And Professor Rummel says over and over in the book, "Power kills. An absolute power kills absolutely."
 
 Now, he has some interesting statistics about the different governments in the 20th century that killed large numbers of people, genocidal numbers.
 
@@ -1901,7 +1902,6 @@ You dove into the archives, you read the original stories, you catalog the numbe
 
 Think about how much fortitude one would have to have to do that.
 
-
 # Conversation with Dan Stone
 > [!NOTE] Note on transcption
 > The following is a conversation between Dan Carlin and Dan Stone. Sadly, I didn't have (yet) enough time to separate the speakers properly, so as of right now it is a big blob of text. Soon enough, I hope to improve this.
@@ -1920,7 +1920,7 @@ And to talk about his new book in paperback, The Holocaust and Unfinished Histor
 
 The Germans get the lion's share of the blame for the Holocaust traditionally, but they couldn't have done what they did without a lot of other help.
 
-And in this book, The Holocaust and Unfinished History, Dan Stone helps us to understand the motivations, the roots and the extent of that help.
+And in this book, The Holocaust and Unfinished History[^1], Dan Stone helps us to understand the motivations, the roots and the extent of that help.
 
 So without further ado, Professor Dan Stone.
 
@@ -1996,7 +1996,7 @@ I mean, how do you sort of see the Holocaust as it was carried out by Nazi Germa
 
 There is, of course, a throughput, and that's, I think, the notion of the Jews as the other of Europe, the people that it made sense for Nazism to focus on the Jews because this had a resonance and it has a very ancient resonance in European history.
 
-But what's interesting, I think, about Nazism, and you see this in the Nazi ideologues and particularly of course in Mein Kampf, is that there's this kind of mishmash of elements taken from most of the modern, illiberal reservoir of ideas, including racism, anti-Semitism, eugenics, anti-feminism, etc., etc.
+But what's interesting, I think, about Nazism, and you see this in the Nazi ideologues and particularly of course in Mein Kampf[^3], is that there's this kind of mishmash of elements taken from most of the modern, illiberal reservoir of ideas, including racism, anti-Semitism, eugenics, anti-feminism, etc., etc.
 
 But what Hitler does, I think, and what's different from what's gone before is to make this not just one part, let's say, of the state's functioning.
 
@@ -2012,7 +2012,7 @@ And so whether you look at school textbooks or debates in Nazi technology societ
 
 That, I think, is what distinguishes Nazism from what's gone before in the history of anti-Semitism and what distinguishes it from most of the countries and institutions that are allied to the Nazis during World War II.
 
-When you read Mein Kampf, or when you read some of the Julius Streicher type stuff, it seems like these are crazy conspiracy theorists, right?
+When you read Mein Kampf[^3], or when you read some of the Julius Streicher type stuff, it seems like these are crazy conspiracy theorists, right?
 
 It's as though crazy conspiracy theorists got a hold of a country and then built an ideology around their crazy conspiracy.
 
@@ -2210,7 +2210,7 @@ And yet we know from the Wehrmacht exhibition from the 1990s that German soldier
 
 But in the millions, actually, I mean, at least hundreds of thousands of photographs taken of these massacres.
 
-And if you think of Wendy Lauer's book, The Ravine, and her detailed reconstruction of trying to show what happened in the lead up to the one photograph that she has on the cover of the book and to find out who is in the photograph, where it was and so on.
+And if you think of Wendy Lauer's book, The Ravine[^13], and her detailed reconstruction of trying to show what happened in the lead up to the one photograph that she has on the cover of the book and to find out who is in the photograph, where it was and so on.
 
 It's just one example of a photograph that shouldn't exist because those photos were forbidden, but in reality did exist and were shown around.
 
@@ -2584,7 +2584,7 @@ You brought up, and I hadn't been exposed to this thought in the books from the 
 
 And your book does this quite a bit, equating what the Nazis were doing to something that's very interesting to a lot of people today, the question of colonialism.
 
-And then I went back and started rereading things like Mein Kampf and some of those earlier books with Hitler's interest in, for example, how Native Americans were treated by the Americans or the colonial European powers in places like Africa.
+And then I went back and started rereading things like Mein Kampf[^3] and some of those earlier books with Hitler's interest in, for example, how Native Americans were treated by the Americans or the colonial European powers in places like Africa.
 
 Can you talk to me a little bit, I mean, seeing the Jews as being treated the same as the Belgians treated Africans in the Congo or the Americans treated the Cherokees at the Trail of Tears, it's a very fascinating new way to approach this subject.
 
@@ -2774,4 +2774,20 @@ Bye-bye.
 
 My thanks to Professor Dan Stone for coming on the program.
 
-His latest work is out in paperback now, The Holocaust and Unfinished History.
+His latest work is out in paperback now, The Holocaust and Unfinished History[^1].
+
+# Footnotes
+
+[^1]: [The Holocaust: An Unfinished History by Dan Stone | Goodreads](https://www.goodreads.com/book/show/139506512-the-holocaust)
+[^2]: [The Gathering Storm by Winston S. Churchill | Goodreads](https://www.goodreads.com/book/show/360253.The_Gathering_Storm)
+[^3]: [Mein Kampf by Adolf Hitler | Goodreads](https://www.goodreads.com/book/show/54270.Mein_Kampf)
+[^4]: [Nazis & Nobles: The History of a Misalliance by Stephan Malinowski | Goodreads](https://www.goodreads.com/book/show/54324651-nazis-nobles)
+[^5]: [The Wages of Destruction: The Making and Breaking of the Nazi Economy by Adam Tooze | Goodreads](https://www.goodreads.com/book/show/711592.The_Wages_of_Destruction)
+[^6]: [National Socialism and the Religion of Nature by Robert A. Pois | Goodreads](https://www.goodreads.com/book/show/2803586-national-socialism-and-the-religion-of-nature)
+[^7]: [The Rise and Fall of the Third Reich: A History of Nazi Germany by William L. Shirer | Goodreads](https://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich)
+[^8]: [Why Not Kill Them All?: The Logic and Prevention of Mass Political Murder by Daniel Chirot | Goodreads](https://www.goodreads.com/book/show/645517.Why_Not_Kill_Them_All_)
+[^9]: [The Holocaust: The Destruction of European Jewry 1933-1945 by Nora Levin | Goodreads](https://www.goodreads.com/book/show/1800058.The_Holocaust)
+[^10]: [Soldaten: On Fighting, Killing, and Dying, The Secret WWII Transcripts of German POWS by Sönke Neitzel | Goodreads](https://www.goodreads.com/book/show/13414576-soldaten)
+[^11]: [The German Army and Genocide: Crimes Against War Prisoners, Jews, and Other Civilians in the East, 1939-1944 by Hamburg Institute for Social Research | Goodreads](https://www.goodreads.com/book/show/162748.The_German_Army_and_Genocide)
+[^12]: [Death by Government: Genocide and Mass Murder Since 1900 by R.J. Rummel | Goodreads](https://www.goodreads.com/book/show/998056.Death_by_Government)
+[^13]: [The Ravine: A Family, a Photograph, a Holocaust Massacre Revealed by Wendy Lower | Goodreads](https://www.goodreads.com/book/show/48931090-the-ravine)
