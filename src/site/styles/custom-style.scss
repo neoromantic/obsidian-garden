@@ -4,8 +4,20 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
 
+    @media (max-width: 1400px) {
+        .toc {
+            display: inherit;
+        }
+    }
+
     .toc-container {
-        max-height: auto !important;
+        max-height: 95% !important;
+    }
+
+    .content {
+        max-width: 850px !important;
+        margin-left: 10%;
+        margin-right: auto;
     }
     
     .maxwidth.content {
