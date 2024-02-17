@@ -10,6 +10,19 @@ body {
         }
     }
 
+    .footnote-item p {
+        margin-top: 0;
+        margin-bottom: 0;
+
+        .footnote-backref {
+            opacity: 0.4;
+
+            &:hover {
+                opacity: 1;
+            }
+        }
+    }
+    
     .toc-container {
         max-height: 95% !important;
     }
