@@ -7,7 +7,7 @@ This is a transcript of a podcast [Hardcore History: Addendum](https://www.danca
 Episode on Youtube: [EP28 Superhumanly Inhuman - YouTube](https://www.youtube.com/watch?v=paO72-zA650)
 Audio link: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum podcast](https://player.fm/series/dan-carlins-hardcore-history-addendum-1843517/ep28-superhumanly-inhuman)
 
-List of all books mentioned can be found in [[5 - Медиа/Superhumanly Inhuman#Footnotes\|#Footnotes]]
+List of all books mentioned can be found in [[5 - Медиа/Superhumanly Inhuman#Footnotes\|Superhumanly Inhuman#Footnotes]]
 
 ---
 # Introduction and a warning
