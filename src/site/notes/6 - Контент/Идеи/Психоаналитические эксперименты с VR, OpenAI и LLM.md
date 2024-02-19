@@ -18,4 +18,4 @@
 Мой основной интерес: научиться программированию на Unity и созданию VR-приложений. Но это может быть интересно и само по себе.
 
 Пример чем-то схожего решения:
-![Схожее, но другое решение](https://www.youtube.com/watch?v=_3lGQ_MZ8o4)
+<iframe src="https://www.youtube.com/embed/_3lGQ_MZ8o4" title="Схожее, но другое решение" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
