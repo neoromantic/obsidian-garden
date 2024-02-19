@@ -2776,6 +2776,8 @@ My thanks to Professor Dan Stone for coming on the program.
 
 His latest work is out in paperback now, The Holocaust and Unfinished History[^1].
 
+<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1758900570176487455?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [^1]: [The Holocaust: An Unfinished History by Dan Stone](https://www.goodreads.com/book/show/139506512-the-holocaust)
 [^2]: [The Gathering Storm by Winston S. Churchill](https://www.goodreads.com/book/show/360253.The_Gathering_Storm)
 [^3]: [Mein Kampf by Adolf Hitler](https://www.goodreads.com/book/show/54270.Mein_Kampf)
@@ -2790,3 +2792,4 @@ His latest work is out in paperback now, The Holocaust and Unfinished History[^1
 [^12]: [Death by Government: Genocide and Mass Murder Since 1900 by R.J. Rummel](https://www.goodreads.com/book/show/998056.Death_by_Government)
 [^13]: [The Ravine: A Family, a Photograph, a Holocaust Massacre Revealed by Wendy Lower](https://www.goodreads.com/book/show/48931090-the-ravine)
 [^14]: [German Voices: Memories of Life During Hitler's Third Reich by Frederic C. Tubach](https://www.goodreads.com/book/show/10567499-german-voices)
+
