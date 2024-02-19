@@ -10,6 +10,11 @@ Audio link: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum p
 
 List of all books mentioned in the episode can be found in Footnotes [^1]
 
+Disucss it on Twitter:
+<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1758900570176487455?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 # Introduction and a warning
 Attention.
 
@@ -2776,7 +2781,6 @@ My thanks to Professor Dan Stone for coming on the program.
 
 His latest work is out in paperback now, The Holocaust and Unfinished History[^1].
 
-<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1758900570176487455?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [^1]: [The Holocaust: An Unfinished History by Dan Stone](https://www.goodreads.com/book/show/139506512-the-holocaust)
 [^2]: [The Gathering Storm by Winston S. Churchill](https://www.goodreads.com/book/show/360253.The_Gathering_Storm)
