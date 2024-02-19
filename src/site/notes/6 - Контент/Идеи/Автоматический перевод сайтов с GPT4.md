@@ -28,3 +28,6 @@
 - [GitHub - tcapelle/gpt\_translate: Translate a docodile website using GPT4](https://github.com/tcapelle/gpt_translate)
 - [Site Unreachable](https://www.smartcat.com/news/gpt-4-release/)
 - [Matecat with GPT-4: Translate Faster and More Accurately](https://translated.com/matecat-gpt-4)
+
+# Обсуждение
+<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1759545318784598472?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
