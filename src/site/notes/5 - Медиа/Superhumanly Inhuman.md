@@ -10,7 +10,7 @@ Audio link: [EP28 Superhumanly Inhuman Dan Carlin's Hardcore History: Addendum p
 
 List of all books mentioned in the episode can be found in Footnotes [^1]
 
-Disucss it on Twitter:
+### Discuss it on Twitter
 <blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1758900570176487455?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
