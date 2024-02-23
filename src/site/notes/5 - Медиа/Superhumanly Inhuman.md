@@ -2781,7 +2781,6 @@ My thanks to Professor Dan Stone for coming on the program.
 
 His latest work is out in paperback now, The Holocaust and Unfinished History[^1].
 
-
 [^1]: [The Holocaust: An Unfinished History by Dan Stone](https://www.goodreads.com/book/show/139506512-the-holocaust)
 [^2]: [The Gathering Storm by Winston S. Churchill](https://www.goodreads.com/book/show/360253.The_Gathering_Storm)
 [^3]: [Mein Kampf by Adolf Hitler](https://www.goodreads.com/book/show/54270.Mein_Kampf)
