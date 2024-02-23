@@ -1908,63 +1908,65 @@ You dove into the archives, you read the original stories, you catalog the numbe
 Think about how much fortitude one would have to have to do that.
 
 # Conversation with Dan Stone
-> [!NOTE] Note on transcption
-> The following is a conversation between Dan Carlin and Dan Stone. Sadly, I didn't have (yet) enough time to separate the speakers properly, so as of right now it is a big blob of text. Soon enough, I hope to improve this.
- 
-Well, our guest on the show today is Dan Stone, who's a professor of modern history and the director of the Holocaust Research Institute at Royal Holloway University of London.
 
-This is what he does.
+Carlin:
+> Well, our guest on the show today is Dan Stone, who's a professor of modern history and the director of the Holocaust Research Institute at Royal Holloway University of London.
 
-He's the author and editor of numerous articles and books.
+> This is what he does.
+> 
+> He's the author and editor of numerous articles and books.
+> 
+> He wrote histories of the Holocaust, the liberation of the camps, the end of the Holocaust and its aftermath and concentration camps, a very short history.
+> 
+> He is an expert on this subject and we brought him on to add some context and some depth.
+> 
+> And to talk about his new book in paperback, The Holocaust and Unfinished History, where he points out something that has not been paid enough attention to the fact that this is not just a German thing.
+> 
+> The Germans get the lion's share of the blame for the Holocaust traditionally, but they couldn't have done what they did without a lot of other help.
+> 
+> And in this book, The Holocaust and Unfinished History[^1], Dan Stone helps us to understand the motivations, the roots and the extent of that help.
+> 
+> So without further ado, Professor Dan Stone.
+> 
+> All right, so why don't we start with the most obvious question, which is you've spent a lot of time writing about this subject already.
+> 
+> How does one decide that there is a need for a new book and how does one find enough material that wasn't covered in the old books to make something like this seem important to you and important for the reading audience?
 
-He wrote histories of the Holocaust, the liberation of the camps, the end of the Holocaust and its aftermath and concentration camps, a very short history.
+Stone:
+> That's a very valid question.
+> 
+> I mean, there's a lot of books, right?
+> 
+> I mean, that's perfectly clear and you're right, I think, to emphasize that.
+> 
+> But it seems to me, and it seemed to me before I wrote this book, that there was a need for a mid-length study that did more than simply narrate the sequence of events.
+> 
+> In other words, there's a lot of academic studies.
+> 
+> There are a number of very large histories of the Holocaust, most of which are event-based history, one thing after another.
+> 
+> They're very good books, but they're hard, I think, often to retain the information that you're reading.
+> 
+> As you turn the page, you kind of forget much of what you've read on the previous page.
+> 
+> And then there are some very short introductions, but they tend to treat the reader as ill-informed, knowing nothing.
+> 
+> And I think there's enough literature out there now for there to be a readership that is already quite well-informed about the history of the Holocaust, but wants more than simply a narrative of events, but wants also something that is more analytical at the same time.
+> 
+> And so I set out to write a book that took into account the very rapidly changing and developing body of scholarship on the literature, on the topic, but to then weave that into a narrative that didn't lay on the academic stuff in a kind of heavy way, but is there in the architecture of the book so that readers can follow the footnotes if they want, and they can see that what I've written is based on the most recent scholarship.
+> 
+> But it tries to combine a narrative of the events insofar as I've been able to choose what I wanted to emphasize with also a kind of explanatory framework at the same time.
 
-He is an expert on this subject and we brought him on to add some context and some depth.
+Carlin: 
+> As I was going over some of the books that I had that date back all the way to the early '60s about this, it occurred to me that you and people writing about the Holocaust like you in the modern world have sort of a different and certainly more complex task because those ones in the early '60s and late '60s are not writing for an audience, for example, in Eastern Europe or places like that.
+> 
+> You've got to deal with people whose countries sometimes prohibit even talking about this in the way that your book discusses some of this, right?
+> 
+> It's sort of a shared responsibility for some of these crimes against humanity.
+> 
+> How does that change what you have to do, and how did you address something like that knowing that this is going to be read by people who are in countries that maybe deny that they had anything involved in this?
 
-And to talk about his new book in paperback, The Holocaust and Unfinished History, where he points out something that has not been paid enough attention to the fact that this is not just a German thing.
-
-The Germans get the lion's share of the blame for the Holocaust traditionally, but they couldn't have done what they did without a lot of other help.
-
-And in this book, The Holocaust and Unfinished History[^1], Dan Stone helps us to understand the motivations, the roots and the extent of that help.
-
-So without further ado, Professor Dan Stone.
-
-All right, so why don't we start with the most obvious question, which is you've spent a lot of time writing about this subject already.
-
-How does one decide that there is a need for a new book and how does one find enough material that wasn't covered in the old books to make something like this seem important to you and important for the reading audience?
-
-That's a very valid question.
-
-I mean, there's a lot of books, right?
-
-I mean, that's perfectly clear and you're right, I think, to emphasize that.
-
-But it seems to me, and it seemed to me before I wrote this book, that there was a need for a mid-length study that did more than simply narrate the sequence of events.
-
-In other words, there's a lot of academic studies.
-
-There are a number of very large histories of the Holocaust, most of which are event-based history, one thing after another.
-
-They're very good books, but they're hard, I think, often to retain the information that you're reading.
-
-As you turn the page, you kind of forget much of what you've read on the previous page.
-
-And then there are some very short introductions, but they tend to treat the reader as ill-informed, knowing nothing.
-
-And I think there's enough literature out there now for there to be a readership that is already quite well-informed about the history of the Holocaust, but wants more than simply a narrative of events, but wants also something that is more analytical at the same time.
-
-And so I set out to write a book that took into account the very rapidly changing and developing body of scholarship on the literature, on the topic, but to then weave that into a narrative that didn't lay on the academic stuff in a kind of heavy way, but is there in the architecture of the book so that readers can follow the footnotes if they want, and they can see that what I've written is based on the most recent scholarship.
-
-But it tries to combine a narrative of the events insofar as I've been able to choose what I wanted to emphasize with also a kind of explanatory framework at the same time.
-
-As I was going over some of the books that I had that date back all the way to the early '60s about this, it occurred to me that you and people writing about the Holocaust like you in the modern world have sort of a different and certainly more complex task because those ones in the early '60s and late '60s are not writing for an audience, for example, in Eastern Europe or places like that.
-
-You've got to deal with people whose countries sometimes prohibit even talking about this in the way that your book discusses some of this, right?
-
-It's sort of a shared responsibility for some of these crimes against humanity.
-
-How does that change what you have to do, and how did you address something like that knowing that this is going to be read by people who are in countries that maybe deny that they had anything involved in this?
-
+Stone:
 Correct.
 
 It's a very interesting observation because before I even address the question that you directly asked me, it's also the case that now the scholarship on this topic is written by people from across Europe.
