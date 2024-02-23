@@ -1909,879 +1909,1055 @@ Think about how much fortitude one would have to have to do that.
 
 # Conversation with Dan Stone
 
-Carlin:
-> Well, our guest on the show today is Dan Stone, who's a professor of modern history and the director of the Holocaust Research Institute at Royal Holloway University of London.
+Dan Carlin:
+> Today is Dan Stone, who's a professor of modern history and the director of the Holocaust Research Institute at Royal Holloway, University of London.
 
 > This is what he does.
-> 
+
 > He's the author and editor of numerous articles and books.
-> 
-> He wrote histories of the Holocaust, the liberation of the camps, the end of the Holocaust and its aftermath and concentration camps, a very short history.
-> 
-> He is an expert on this subject and we brought him on to add some context and some depth.
-> 
-> And to talk about his new book in paperback, The Holocaust and Unfinished History, where he points out something that has not been paid enough attention to the fact that this is not just a German thing.
-> 
+
+> He wrote histories of the Holocaust, the liberation of the camps, the end of the Holocaust and its aftermath, and Concentration Camps A Very Short History.
+
+> He is an expert on this subject, and we brought him on to add some context and some depth, and to talk about his new book in paperback, The Holocaust An Unfinished History[^1], where he points out something that has not been.
+
+> Paid enough attention to the fact that this is not just a German thing.
+
 > The Germans get the lion's share of the blame for the Holocaust traditionally, but they couldn't have done what they did without a lot of other help.
-> 
-> And in this book, The Holocaust and Unfinished History[^1], Dan Stone helps us to understand the motivations, the roots and the extent of that help.
-> 
+
+> And in this book, The Holocaust An Unfinished History[^1], Dan Stone helps us to understand, you know, the motivations, the roots and the extent of that help.
+
 > So without further ado, Professor Dan Stone.
-> 
+
 > All right, so why don't we start with the most obvious question, which is you've spent a lot of time writing about this subject already.
-> 
-> How does one decide that there is a need for a new book and how does one find enough material that wasn't covered in the old books to make something like this seem important to you and important for the reading audience?
 
-Stone:
+> How does one decide that there is a need for a new book?
+
+> And how does one find enough material that wasn't covered in the old books to make?
+
+> To make something like this seem important to you and important for the reading audience?
+
+> Hmm.
+
+Dan Stone:
 > That's a very valid question.
-> 
+
 > I mean, there's a lot of books, right?
-> 
-> I mean, that's perfectly clear and you're right, I think, to emphasize that.
-> 
-> But it seems to me, and it seemed to me before I wrote this book, that there was a need for a mid-length study that did more than simply narrate the sequence of events.
-> 
-> In other words, there's a lot of academic studies.
-> 
-> There are a number of very large histories of the Holocaust, most of which are event-based history, one thing after another.
-> 
-> They're very good books, but they're hard, I think, often to retain the information that you're reading.
-> 
-> As you turn the page, you kind of forget much of what you've read on the previous page.
-> 
-> And then there are some very short introductions, but they tend to treat the reader as ill-informed, knowing nothing.
-> 
-> And I think there's enough literature out there now for there to be a readership that is already quite well-informed about the history of the Holocaust, but wants more than simply a narrative of events, but wants also something that is more analytical at the same time.
-> 
-> And so I set out to write a book that took into account the very rapidly changing and developing body of scholarship on the literature, on the topic, but to then weave that into a narrative that didn't lay on the academic stuff in a kind of heavy way, but is there in the architecture of the book so that readers can follow the footnotes if they want, and they can see that what I've written is based on the most recent scholarship.
-> 
-> But it tries to combine a narrative of the events insofar as I've been able to choose what I wanted to emphasize with also a kind of explanatory framework at the same time.
 
-Carlin: 
-> As I was going over some of the books that I had that date back all the way to the early '60s about this, it occurred to me that you and people writing about the Holocaust like you in the modern world have sort of a different and certainly more complex task because those ones in the early '60s and late '60s are not writing for an audience, for example, in Eastern Europe or places like that.
-> 
-> You've got to deal with people whose countries sometimes prohibit even talking about this in the way that your book discusses some of this, right?
-> 
-> It's sort of a shared responsibility for some of these crimes against humanity.
-> 
-> How does that change what you have to do, and how did you address something like that knowing that this is going to be read by people who are in countries that maybe deny that they had anything involved in this?
+> I mean, that's perfectly clear.
 
-Stone:
-Correct.
+> And you're right, I think, to emphasize that.
 
-It's a very interesting observation because before I even address the question that you directly asked me, it's also the case that now the scholarship on this topic is written by people from across Europe.
+> But it seems to me and it seemed to me before I wrote this book, that there was a need for a mid-length study that did more than simply narrate the sequence of events.
 
-So where up until the end of the Cold War, there was only a very small number of internationally regarded historians who came from behind the Iron Curtain.
+> In other words, there's a there's a lot of academic studies.
 
-Now much of the leading scholarship is written by scholars who come from Eastern Europe who often can speak five languages, have access to local archives, and so on.
+> There are a number of very large histories of the Holocaust, most of which are, uh, event based history, one thing after another.
 
-And so there's a very impressive and extremely rapidly growing historiography of the Holocaust in Hungary, for example, or Czechoslovakia, and the rest of Europe, including parts of Europe like Greece that were neglected for similar reasons for many decades.
+> Um, they're very good books, but they're hard, I think, often to retain the information that you're reading as you turn the page, you kind of forget, uh, much of what you've read on the on the previous page.
 
-I think the question of how to approach this knowing that people in those countries will also be reading this is to behave like a historian and simply follow the evidence.
+> Uh, and then there are some very short introductions, but they tend to treat the reader as, um, ill informed, knowing nothing.
 
-And of course that can sometimes be uncomfortable reading, I think, but that's true for places in Western Europe as well.
+> And I think, you know, there's enough literature out there now for there to be a readership that is already quite well informed about the history of the Holocaust, but wants more than simply a narrative of events, but wants also something that is more analytical at the same time.
 
-There are ongoing debates in France and in the Netherlands about collaboration, about who knew what, about who was responsible, etc., etc.
+> And so I set out to write a book that took into account the, uh, the very rapidly changing and developing, uh, body of scholarship on the literature, on the topic.
 
-And the debates that are ongoing in Romania or Hungary or Poland, for example, are in essence no different in a sense.
+> But to then weave that into a narrative that didn't lay on the academic stuff in a kind of heavy way, but is there in the architecture of the book so that readers can follow the the footnotes if they want, and they can see that that what I've written is based on the most recent scholarship, but it tries to combine a narrative of the events insofar as I've been able to choose what I wanted to emphasize with also a kind of explanatory framework at the same time.
 
-No country likes to face up to the darker side of its history.
+Dan Carlin:
+> As I was going over some of the books that I have that date back all the way to the early 60s about this, it occurred to me that you and and people writing about the Holocaust, like you in the modern world, have a sort of a different and certainly more complex task, because those ones in the early 60s and late 60s are not writing for an audience, for example, in Eastern Europe or places like that.
 
-We can say the same about the US and slavery or treatment of Native Americans or Britain and colonialism.
+> You've got to deal with people whose countries sometimes prohibit even talking about this in the way that that your book discusses some of this write a sort of a of a shared responsibility for some of these crimes against humanity.
 
-And so the question of, let's say, Romania's involvement in the Holocaust, maybe something we'll come back to, is something that many Romanians remain quite reluctant to face up to.
+> How does that change what you have to do, and how did you address something like that, knowing that this is going to be read by people who are in countries that maybe deny that they had anything involved in this?
 
-But you have, I think as a historian, simply to present the evidence.
+Dan Stone:
+> Mhm.
 
-It's not about bashing a particular group of people and saying, "Oh, you are somehow uniquely responsible for this," but saying, "This also happened here," and the evidence shows that, and we need to think about what that means.
+> Correct.
 
-Well, and of course, anti-Semitism, pogroms, persecution and discrimination against Jews has been going on basically from time immemorial in Europe.
+> It's a very interesting observation because the before I even address the question of of that, you directly asked me.
 
-How does something like, we were always taught when I was younger that the Nazis were a completely almost different sort of an event or phenomenon altogether, but is there a sort of a throughput, if you will, like maybe we're talking about an amplitude rather than a completely different sort of event?
+> It's also the case that now the scholarship on this topic is written by people from across Europe.
 
-I mean, how do you sort of see the Holocaust as it was carried out by Nazi Germany in connection to earlier pogroms and discrimination and disasters during the First Crusade and all that kind of stuff?
+> So where up until the end of the Cold War, there was only a very small number of internationally regarded historians who came from behind the Iron Curtain.
 
-There is, of course, a throughput, and that's, I think, the notion of the Jews as the other of Europe, the people that it made sense for Nazism to focus on the Jews because this had a resonance and it has a very ancient resonance in European history.
+> Now, much of the leading scholarship is written by scholars who come from Eastern Europe, who, who often can speak five languages, have access to local archives and so on.
 
-But what's interesting, I think, about Nazism, and you see this in the Nazi ideologues and particularly of course in Mein Kampf[^3], is that there's this kind of mishmash of elements taken from most of the modern, illiberal reservoir of ideas, including racism, anti-Semitism, eugenics, anti-feminism, etc., etc.
+> And so there's a very impressive and extremely rapidly growing historiography of the Holocaust in Hungary, for example, or Czechoslovakia, um, and, and the rest of, of, of Europe, including parts of Europe like Greece that were neglected for similar reasons for, for many decades.
 
-But what Hitler does, I think, and what's different from what's gone before is to make this not just one part, let's say, of the state's functioning.
+> I think the question of how to approach this, knowing that people in those countries will also be reading this, is to behave like a historian and simply follow the evidence.
 
-So in Tsarist Russia, allowing pogroms to take place against Jews at Easter, for example.
+> And of course, that, um, can sometimes be uncomfortable reading, I think.
 
-But what Hitler does is to make Jew hatred the very centerpiece of everything that he thinks about the world.
+> But that's true for places in Western Europe as well.
 
-And so it's the lens through which he understands everything and eventually becomes a kind of philosophy of history.
+> There are ongoing debates in France and in the Netherlands about collaboration, about who knew what, about who was responsible, etc., etc., and the debates that are ongoing in Romania or Hungary or Poland, for example, are in, in essence, no different.
 
-That's to say that Hitler and the leading Nazis understand the essence of world history as the struggle between good and evil, which means Aryan versus non-Aryan, which means essentially the Aryan or German people against the Jews.
+> In a sense.
 
-And so whether you look at school textbooks or debates in Nazi technology societies or explicitly racist fields like biology or anthropology, this viewpoint becomes the centerpiece through which the whole world is understood.
+> No.
 
-That, I think, is what distinguishes Nazism from what's gone before in the history of anti-Semitism and what distinguishes it from most of the countries and institutions that are allied to the Nazis during World War II.
+> No country likes to face up to the darker side of its history.
 
-When you read Mein Kampf[^3], or when you read some of the Julius Streicher type stuff, it seems like these are crazy conspiracy theorists, right?
+> We can say the same about the US and slavery, or the treatment of Native Americans or Britain and colonialism.
 
-It's as though crazy conspiracy theorists got a hold of a country and then built an ideology around their crazy conspiracy.
+> And so the question of, let's say, uh, Romania's involvement in the Holocaust, maybe something we'll come back to is, is something that.
 
-If you compare it to the people on the opposite side of the extreme political spectrum, the communists and the Bolsheviks, they had reams and reams of philosophies and papers and arguments over the historical dialectic and the dictatorship of the proletariat and they're bashing it out.
+> Many Romanians remain quite reluctant to face up to.
 
-And the Nazis don't seem to have any of that at all.
+> But you have, I think, as a historian, simply to present the evidence.
 
-Can you explain to me how we have an almost anti-intellectual conspiracy movement going on here that one of the most intellectual, culturally-oriented countries in Europe buys into?
+> It's not about bashing a particular group of people and saying, oh, you are somehow uniquely responsible for this.
 
-It's also very complicated.
+> But saying this also happened here, and the evidence shows that, and we need to think about what that means.
 
-You're right.
+Dan Carlin:
+> Well, and of course, anti-Semitism, pogroms, persecution and discrimination against Jews has been going on basically from time immemorial in Europe.
 
-Obviously, the history of communism is one, from a history of ideas perspective, is one of minute debates about the negation of the negation and dialectical materialism and all of those things that we know about and struggles between different sects of communists.
+> How does something like, you know, we were always taught when I was younger that the Nazis were a completely, almost different sort of an event or phenomenon altogether.
 
-Within the Nazi ideology, the first thing to say, I think, is that the Third Reich existed for 12 years, Nazi ideology for, let's say, another 15 years before 1933 or so, and yet the amount of material, written material, that the Nazis and their ideologues produced was absolutely vast.
+> But is there a sort of a throughput, if you will, like maybe we're talking about an amplitude rather than a completely different sort of event.
 
-And so, in a way, we're still discovering it.
+> I mean, how do you sort of see the the Holocaust as, as it was carried out by Nazi Germany in connection to earlier pogroms and discrimination and disasters during the First Crusade and all that kind of stuff.
 
-So, it's not true to say that there was nothing written, but the difference is that where communism claimed, at least, to be evidence-based, the history of Marxism based on statistics and economics and readings of the working class and its working conditions and so on, and who owned the means of production and all of those things.
+Dan Stone:
+> There is, of course, a throughput.
 
-Nazism was, before any evidence came into the debate, Nazism was based on a belief system, which is, as I've described, this notion that race, first of all, existed, that race was the essence through which world history should be understood, and that the enemy of the German race was the Jews.
+> And that's, I think, the notion of the Jews as the the other of Europe, the people, that it made sense for Nazism to focus on the Jews because this had a resonance and it has a very ancient resonance in, in European history.
 
-And everything else followed from that.
+> Um, but what's interesting, I think about Nazism and you see this in, uh, the Nazi ideologues and particularly, of course, in Mein Kampf[^3], is that there's this kind of mishmash of elements taken from most of the modern, uh, illiberal reservoir of ideas, including racism, anti-Semitism, eugenics, anti-feminism, etc., etc.
 
-So then you have all sorts of anthropological debates, let's say, about the constitution of the German race.
+> but what Hitler does, I think, and what's different from what's gone before, is to make this not just one part, let's say, of the state's functioning.
 
-What percentage of the German race is made up of Nordics, Alpines, Dynarics, Mediterranean, etc., etc.
+> So in Czarist Russia, allowing pogroms to take place against Jews at Easter, for example.
 
-These kinds of arcane intellectual debates, debates about whether it's necessary to go out into the field and measure people through taking physical measurements to determine who is and who is not Arian.
+> But what Hitler does is to make Jew hatred the the very centerpiece of everything that he thinks about the world.
 
-All of these kinds of things took place, and there is a vast literature on this stuff, but it's all your right to say that this is fundamentally a paranoid conspiracy theory, that the Nazis didn't view the Jews simply as "untimension," as subhumans.
+> And so it's the lens through which he understands everything.
 
-They also, and I'm talking about a small stratum now of the leading, of the Nazi leadership, they understood the Jews also as the wire pullers behind world events.
+> And eventually becomes a kind of philosophy of history.
 
-So they were dangerous, they were a threat to the Arian race, in a way, let's say, that the disabled or Romanese were not.
+> That's to say that Hitler and the leading Nazis understand the the essence of world history as the as the struggle between good and evil, which means Aryan versus non-Aryan, which means essentially the Aryan or German people against the Jews.
 
-These were people that were unaesthetic, that were physically threatening to the health of the race, but they didn't, in a way, undermine the very existence of the Arian race by virtue of their machinations.
+> And so whether you look at school textbooks or debates in Nazi technology societies, um, or explicitly racist, um, fields like biology or anthropology, this viewpoint becomes the centerpiece through which the whole world is understood.
 
-Whereas the Jew, particularly the international Jew, as Hitler put it, was behind Churchill and Roosevelt and Stalin, and all of the great events of world history were somehow driven by this hidden cabal of Jewish interests.
+> That, I think, is what distinguishes Nazism from what's gone before in the history of anti-Semitism and what distinguishes it from, uh, most of the, uh, countries and institutions that are allied to the Nazis during World War Two.
 
-In that sense, it's absolutely correct, I think, to talk about Nazism as a conspiracy theory.
+Dan Carlin:
+> When you read Mein Kampf[^3] or when you read some of the, you know, Julius Streicher type stuff, it seems like these are crazy conspiracy theorists, right?
 
-Well then, let's talk about the lead conspiracist for a minute.
+> It's as though crazy conspiracy theorists got a hold of a country and then built an ideology around their crazy conspiracy.
 
-I read one historian who said that this is a conversation about the use of bureaucratic measures to enforce magical beliefs, and the magical beliefs are Hitler.
+> It's, you know, if you compare it to the to the people on the opposite side of the extreme political spectrum, the communists and the Bolsheviks, they had reams and reams of philosophies and papers and arguments over the historical dialectic and the dictatorship of the proletariat.
 
-You look at this and wonder, no Hitler, no Holocaust, no Hitler, no Nazism.
+> And they're bashing it out.
 
-If Hitler dies, or one of those assassination attempts midway through the war are successful, how do you think, and I realize we're off in fantasy land now, but this is partly trying to determine the old line about whether you get any of this without a Hitler.
+> And the Nazis don't seem to have any of that at all.
 
-If Hitler dies midway through the war, do you think this changes how this whole thing plays out in terms of the number of Jews who end up dying at the end of the war, or any of those sorts of things?
+> Can you can you kind of explain to me how we have an almost anti-intellectual conspiracy movement going on here, that one of the most intellectual, culturally oriented countries in Europe buys into.
 
-That's a very hard question.
+Dan Stone:
+> It's also very complicated.
 
-I think in the early stages of the rise of the Nazi movement, without the coming to prominence of Hitler, you would have had a small movement driven by crazy theorists like Anton Drexler and Julius Streicher and Himmler, I suppose, in his early stages.
+> The you're right.
 
-These were people who were on the extreme fringes of German politics, and probably the National Socialist Workers Party would have remained on those fringes.
+> Obviously the history of communism is is one from an from a history of ideas perspective is one of, uh, minute debates about the negation of the negation and dialectical materialism and all of those things that we know about, um, and struggles between different, uh, sects of communists within the Nazi ideology that what the first thing to say, I think, is that the Third Reich existed for 12 years, Nazi ideology for, let's say, another 15 years before 1933 or so.
 
-When it comes to halfway through the war, that's very difficult to say, because once the final solution to the Jewish question was in place as a continent-wide crime, let's say by the spring of 1942, it was then functioning, and it had its own bureaucracy and offices in the Gestapo and the SS and so on who were carrying out this program.
+> Um, and yet the amount of material, written material that the, the Nazis and their ideologues produced was absolutely vast.
 
-Had Hitler been killed, of course I'm guessing now, but I would guess that the number of Jews killed would have been smaller, that the number of people willing to speak out and say, "This is not going to end well for us," would have been higher.
+> And so was in in a way, we're still discovering it.
 
-Nevertheless, the program was in train, and it wouldn't have come immediately crashing to a halt.
+> So it's it's not true to say that there was nothing written.
 
-It would have taken some time, I think.
+> But the difference is that, uh, where communism claimed at least to be evidence based, you know, the history of Marxism based on statistics and economics and readings of the of the working class and its working conditions and so on, and who owned the means of production and all of those things.
 
-I've read a lot about this, and I still was being shocked by some of the things that I read in your book in terms of them being novel ideas that I had.
+> Nazism was before any evidence came into the debate.
 
-One was that you said, "In March 1942, 75 to 80 percent of Holocaust victims were still alive.
+> Nazism was based on a belief system, which is as as I've described, this notion that race, first of all, existed, that race was the essence through which world history should be understood, and that the enemy of the the German race was the Jews, and everything else followed from that.
 
-Eleven months later, 80 percent of the victims of the Holocaust were dead."
+> So then you have all sorts of anthropological debates, let's say, about the constitution of the of the German race.
 
-That is an incredible statistic.
+> What percentage of, uh, of the, of the, of the German race is made up of Nordics, Alpines, Dinaric, uh, Mediterraneans, etc., etc.
 
-What should we think about a statistic like that?
+> these kinds of arcane, uh, intellectual debates, debates about whether whether it's necessary to go out into the field and measure people through taking physical measurements to determine who is and who is not Aryan.
 
-I should say first of all that that comes from Christopher Browning.
+> All of these kinds of things, uh, took place, and there is a vast literature on, on this stuff, but it's all you're right to say that this is fundamentally a paranoid conspiracy theory, that the the Nazis didn't view the Jews simply as, uh, untermenschen, as subhumans.
 
-He actually uses that statistic in the preface, I think, to ordinary men.
+> They also and I'm talking about a small stratum now of the leading, uh, of the Nazi leadership.
 
-I borrowed that from him, but it's still, I think, a startling statistic.
+> They understood the Jews also as, uh, the wire pullers behind world events.
 
-It tells us that we think about however you define the Holocaust, so we can think about it as being purely the killing process, 1941 to 1945, or there are historians who define the Holocaust as the whole Nazi period, 1933 to 1945, to take into account the years of the persecution before the war.
+> So they were dangerous.
 
-What it tells us is that 1942 is the absolute height of the killing process.
+> They were a threat to the to the Aryan race, in a way.
 
-Within 1942, actually, there's a three-month period in the summer, which is probably the fastest killing rate of any genocide in history, so that the Operation Reinhard death camps are working in full swing.
+> Let's say that the disabled or Romanies were not.
 
-That's Belzec, Sobibor, and Treblinka.
+> These were people that were anesthetic, that were physically threatening to the health of the race, but they didn't, in a way, undermine the very existence of the Aryan race by virtue of their machinations.
 
-The gas chambers in Auschwitz have just started to operate, and the Holocaust by bullets, the murders, the face-to-face shooting by the Einsatzgruppen and their helpers in Eastern Europe are also not yet finished.
+> Whereas the Jew, particularly the international Jew, as Hitler put it, um, was behind, uh, Churchill and Roosevelt and Stalin and all of the great events of, of world history were somehow driven by this hidden cabal of Jewish interests.
 
-So you have this coming together of a number of different ways of killing Jews across Europe that is really at its height in the summer of 1942.
+> And in that sense, it's absolutely correct, I think, to talk about Nazism as a as a conspiracy theory.
 
-That's no coincidence, because that's also the point at which the Nazi Empire is at its height, where, with the exception of Hungary, which comes later, the Germans have access to huge numbers of Jews that they haven't had access to before.
+Dan Carlin:
+> Well, then let's talk about the lead conspiracist for a minute.
 
-They're still in this stage of thinking that they will win the war, and winning the war also from a military perspective even means eradicating the Jews, because the murder of the Jews is one of the key war aims of the Germans.
+> Um, I read one historian who said that this is a conversation about the use of bureaucratic measures to enforce magical beliefs.
 
-I had a Polish listener take me to task once, because I used the word constantly Nazis when I was talking about the Germans in the Second World War, and he said, "Don't call them Nazis."
+> Right.
 
-He said, "Call them Germans.
+> And the magical beliefs are the part are Hitler and and you look at this and wonder, no Hitler, no Holocaust, no Hitler, no Nazism.
 
-You're excusing the German people."
+> Uh, if if Hitler dies or one of those assassination attempts midway through the war are successful, how do you think?
 
-But it occurs to me, after reading your book, that all these people in Europe had anti-Semitic backgrounds in their histories, and that these things were harnessed by the Nazis in their endeavor.
+> And I realize we're off in fantasy land now, but this is partly trying to determine the old line about whether you get any of this without a Hitler.
 
-I think that's one of the main takeaways from your book, too.
+> If Hitler dies midway through the war, do you think this changes how this whole thing plays out in terms of the number of Jews who end up dying at the end of the war, or any of those sorts of things?
 
-Can you talk a little about the fact that six million or however many Jews probably don't die in this whole thing without a bunch of willing collaborators in other countries with long histories of antipathy towards that particular minority group?
+Dan Stone:
+> It's a very hard question.
 
-I think that's correct.
+> Um, I think at the early in the early stages of the rise of the Nazi movement, without the coming to prominence of Hitler, you would have had a small movement driven by crazy theorists like Anton Drexler and Julius Streicher and Himmler, I suppose, in his early stages.
 
-I would say, however, that it still is worth differentiating between Germans and Nazis, because I do think that really the impetus for the Holocaust comes from quite a small stratum of the Nazi leadership.
+> Uh, these were people who were on the extreme fringes of German politics, and probably the National Socialist Workers Party would have remained on those fringes.
 
-Everybody else that's involved, whether it's the kind of regular membership of the Nazi Party down to Ukrainian peasants looting their Jewish neighbors' stuff after they've been murdered, was involved for one reason or another.
+> Um, when it comes to halfway through the war, that's very difficult to say, because once the final solution to the Jewish question was in place as a continent wide crime, let's say by the spring of 1942, it was it was then functioning and it had its own bureaucracy and, and offices in the Gestapo and the SS and so on, who were carrying out this program, had Hitler been killed?
 
-It's not always clear-cut that they were involved because they were radical anti-Semites.
+> I mean, I'm, of course, I'm guessing now, but I, I would I would guess that the number of Jews killed would have been smaller, that the number of people willing to speak out and say, this is not going to end well for us would have been higher.
 
-Most people involved in the killing process did not need to believe in this notion of the metaphysical philosophy of history of the Jews threatening the Aryan race in order to take part in the Holocaust.
+> Uh, nevertheless, the program was in train and it wouldn't have come immediately crashing to a halt.
 
-There were, of course, plenty of Germans who kept their heads down during the Nazi regime, who didn't like what was happening around them.
+> It would have taken some time, I think.
 
-We may think that they, by virtue of not doing anything, that they in a sense facilitated the regime, but they nevertheless were not active supporters.
+Dan Carlin:
+> I was, um, you know, and I've read a lot about this, and I still was being shocked by some of the things that I read in your book, in terms of them being novel ideas that I hadn't heard.
 
-There were plenty of Germans in exile who, of course, were anti-Nazis.
+> One was that, uh, you said, quote, in March 1942, 75 to 80% of Holocaust victims were still alive.
 
-I don't think it's entirely fair to say that German equals Nazi at this period.
+> 11 months later.
 
-That's also true whichever country we look at.
+> 80% of the victims of the Holocaust were dead.
 
-If we look at countries that were allied to the Germans, so Vichy France, or Norway under Quisling, or Croatia under Pavlice, Slovakia under Tiso, in each case you will find constituencies in those countries who did not support the regime that was in power and certainly did not necessarily support the murder of the Jews.
+> That is an incredible statistic.
 
-But it's also true that there were enough people in every country that the Nazis occupied, including Poland, where the only country that was not invited to form an SS regiment, where there were people who were willing to take part in the murder of the Jews, or who understood what was happening across Europe as an opportunity to fulfill a long-standing nationalist dream of creating an ethnically homogeneous nation-state, as for example in Hungary or Romania, where there were some radical anti-Semites in power, but for many of those close to the regime, what was happening with the alliance with the Third Reich was an opportunity.
+> What should we think about a statistic like that?
 
-They didn't necessarily have to buy into the idea, again, of the international Jew as this kind of great metaphysical threat.
+Dan Stone:
+> I should I should say, first of all, that that comes from Christopher Browning.
 
-What they had to do was say, okay, now we have the opportunity presented to us to do some of the things that we've long wanted to do.
+> Oh, okay.
 
-And by that I mean since the late 19th, early 20th century, and then from the creation of the modern nation-states after the treaties of World War I.
+> All right.
 
-So in the Hungarian case, to eliminate not just Jews, but Romanese and others, in let's say in the Croatian case, to get rid of Serbs and Romanese as well as Jews.
+> He he actually uses that statistic in the, uh, preface, I think, to Ordinary Men.
 
-The Croats killed far more Serbs than they did Jews, because this was a general aspiration to create an ethnically pure state.
+> So I borrowed that from him.
 
-And so killing Jews in those places was simply one aspect of creating this phenomenon.
+> But it's it's still I think, a startling statistic.
 
-And in Romania, for example, the Antonescu regime was responsible for the merger of huge numbers of Jews and a smaller number of Romanese.
+> I mean, it tells us that we think about, however you define the Holocaust so we can think about it as being purely the killing process, 1941 to 1945.
 
-But it's also the case that after the summer autumn of 1942, the Romanians stopped killing Jews because they could see which way the wind was blowing in terms of the war and decided that it would be safer for them.
+> Or there are historians who define the Holocaust as the whole Nazi period, 1933 to 1945, to take into account the years of the persecution, um, before the war.
 
-And the outcome in terms of saving the Romanian state would be better if they were to stop killing Jews.
+> What it tells us is that 1942 is the absolute height of the killing process.
 
-And so you have a kind of a radical attack on the Jews at one point and then a stop after a certain point.
+> And within 1942, actually, there's a three month period in the summer, which is probably the fastest killing rate of any genocide in history, so that the the Operation Reinhard death camps are working in full swing.
 
-Whereas for the diehard Nazis, that would be impossible.
+> That's Belgique, Sobibor and Treblinka.
 
-And even at the very end of the war, the Nazis are still killing Jews, because for them this was the war effort.
+> Uh, the gas chambers in Auschwitz have just started to operate.
 
-Whereas for the Nazis' allies, it was something that they bought into insofar as it was expedient for them.
+> And the the Holocaust by bullets, the murders, the face to face shooting by the Einsatzgruppen and their, uh, helpers in Eastern Europe are also not yet finished.
 
-And when it no longer was expedient, they stopped doing it.
+> So you have this, uh, coming together of a number of different ways of killing Jews across Europe that is really at its height in the summer of 1942.
 
-So help me out with the dichotomy here.
+> And that's no coincidence, because that's also the point at which the Nazi empire is at its height, where, uh, with the exception of Hungary, which comes later, the the Germans have access to huge numbers of Jews that they haven't had access to before.
 
-The dichotomy is the Nazi regime being open about their anti-Semitic feelings and yet trying very hard, it seems like, and correct me if I'm wrong, trying very hard, it seems like, to keep a lot of this stuff secret.
+> They're still in this stage of thinking that they will win the war and winning the war.
 
-The actual killings.
+> Also, uh, from a military perspective, even means eradicating the Jews, because this, the murder of the Jews is, uh, one of the key war aims of of of the Germans.
 
-I was reading one account that was talking about how one person at Auschwitz told another one that he was showing around that this is the really super secret thing and we'll all be shot if any of this comes out.
+Dan Carlin:
+> I had a Polish listener take me to task once because I used the word constantly Nazis.
 
-If I'm having a hard time figuring out where the openness on one side, Hitler's saying if we're plunged into another World War by the Jews, it'll be it.
+> When I was talking about the Germans in the Second World War.
 
-So that's very open.
+> And he said, don't, don't call them Nazis.
 
-But with the hiding then of the ramifications of playing that idea out to its logical conclusion, how should we see this?
+> He said, call them Germans.
 
-It's also a complex question because you can see both things going on at the same time.
+> You're you're excusing, uh, the German people.
 
-It's often the case with Nazi Germany that there's a kind of public statement and then there's a reality.
+> But it occurs to me, after reading your book, that all these people in Europe had anti-Semitic backgrounds in their histories and that these things were harnessed by the Nazis in their endeavor.
 
-And in the Third Reich, you just cited Hitler's famous Reichstag speech from January 1939.
+> I think that's one of the main takeaways from your book.
 
-And throughout the war, if you read Geoffrey Herff's work on the Nazi propaganda during the war, actually those words continue to be used over and over again throughout the war.
+> Two, can you talk a little about the fact that 6 million, or however many Jews probably don't die in this whole thing without a bunch of willing collaborators in other countries with long histories of antipathy towards that particular minority group.
 
-And towards the end of the war, when the vast majority of the Jews have been already murdered, actually in some ways the anti-Semitic rhetoric is ramped up because there's now the threat of retribution from the international Jew.
+Dan Stone:
+> I think that's correct.
 
-And so this anti-Semitic language continues to be extremely shrill even towards the end of the war.
+> I would say, however, that it still is worth differentiating between Germans and Nazis, because I do think that the really the impetus for the Holocaust comes from a quite a small strata, um, of the Nazi leadership.
 
-At the same time, there is a kind of secrecy, but I think that secrecy is more designed to prevent the Jews being targeted from understanding what's going to happen to them than it is from a fear of advertising to the rest of the world, what's going on.
+> Everybody else that's involved, um, whether it's the kind of, um, regular membership of the Nazi Party down to Ukrainian peasants looting their Jewish neighbors, uh, stuff after they've been murdered was involved for one reason or another.
 
-For example, it's forbidden for German soldiers to take photographs of massacres or to take photographs in the camps.
+> And it's not always clear cut that they were involved because they were radical anti-Semites, that most people involved in the killing process did not need to believe in this notion of, uh, the the kind of metaphysical philosophy of history of the Jews threatening the Aryan race in order to take part in the Holocaust.
 
-And yet we know from the Wehrmacht exhibition from the 1990s that German soldiers took these photos.
+> Um, and there were, of course, plenty of Germans who kept their heads down during the Nazi regime who didn't like what was happening around them.
 
-But in the millions, actually, I mean, at least hundreds of thousands of photographs taken of these massacres.
+> Um, we may think that they, by virtue of not doing anything that they, in a sense, facilitated the regime, but they nevertheless were not active supporters.
 
-And if you think of Wendy Lauer's book, The Ravine[^13], and her detailed reconstruction of trying to show what happened in the lead up to the one photograph that she has on the cover of the book and to find out who is in the photograph, where it was and so on.
+> And there were plenty of Germans in exile, uh, who, of course, were anti-nazis.
 
-It's just one example of a photograph that shouldn't exist because those photos were forbidden, but in reality did exist and were shown around.
+> And so I don't think it's entirely fair to to say that German equals Nazi at this period.
 
-And that when German soldiers went on leave, they would show them to their family members.
+> And that's also true whichever country we look at.
 
-And of course, what the Wehrmacht exhibition showed was that even by the 1990s, people who had their fathers or grandfathers' uniforms hanging in the attic often had photographs in the pockets and that these could be shown around.
+> So if we look at, um, countries where there were, uh, that were allied to the Germans, so Vichy France or Norway under Quisling or Croatia under Pavelic, um, Slovakia under Tiso, in each case, you will find constituencies in those countries who did not support, uh, the regime that was in power and certainly did not necessarily support the murder of the Jews.
 
-So there was on the one hand this use of euphemistic language.
+> But it's also true that there were enough people in every country that the Nazis occupied, um, including Poland, where, uh, the only country that was not invited to form an SS regiment, where there were people who were willing to take part in the murder of the Jews, or who understood what was happening across Europe as an opportunity to fulfill a long standing nationalist dream of of creating an ethnically homogeneous nation state, as, for example, in Hungary or Romania, where there were some radical anti-Semites in power.
 
-We talk about it without talking about it.
+> But for many of those close to the regime, this what was happening with the alliance with the Third Reich was an opportunity they didn't necessarily have to buy into the idea again, of the international Jew as this kind of great metaphysical threat.
 
-And at the same time, an open display of what was going on, which is very important because it creates, of course, a shared complicity, not just in the direct perpetrators, but across the whole of German society and beyond.
+> What they had to do was say, okay, now we have the opportunity presented to us to do some of the things that we've long wanted to do.
 
-And of course, one can't help but contrast the photographic technology of the time with what we have today and how some of these massacres shot in high definition color on an iPhone with audio might impact the way we see these kinds of things.
+> And by that I mean since the late 19th, early 20th century.
 
-Help me now with the difference between the genocide by bullets versus the genocide by gas idea.
+> And then from the creation of the modern nation states after, uh, the treaties of, of World War One.
 
-A lot of people don't understand that for a lot of the Holocaust, this was about shooting people into pits and then bringing more people to shoot them into pits and then having them fall on the stacked like sardine bodies below them.
+> So in the Hungarian case, uh, to eliminate not just Jews, but Romanies, uh, and, and others in, let's say, in the Croatian case to get rid of Serbs and Romanies as well as Jews.
 
-Talk a little about this Einsatzgruppen genocide by bullets, part of the genocide.
+> The the Croats killed far more Serbs than they did Jews, because this was a general aspiration to create an ethnically pure state.
 
-Sure.
+> And so killing Jews in those places was simply one aspect of, um, creating this, this phenomenon.
 
-I mean, I think what's important here is that this phase of the Holocaust, we're talking now about the period immediately after the invasion of the Soviet Union.
+> And in Romania, for example, the, uh, the Antonescu regime was responsible for the murder of huge numbers of Jews and a smaller number of Romanies.
 
-So from the end of June 1941 through to the spring of 1942.
+> But it's also the case that after the summer, autumn of 1942, the Romanians stopped killing Jews because they could see which way the wind was blowing in terms of the war, and decided that it would be safer for them, and the outcome in terms of saving the Romanian state would be better if they were to stop killing Jews.
 
-Excuse me.
+> And so you have a kind of a radical attack on the Jews at one point, and then a stop after a certain point, whereas for the for the diehard Nazis, that would be impossible.
 
-In other words, before the final solution was framed as a European wide project, you see this phase in which the Nazis decide that as they as the Wehrmacht goes into the Soviet Union, the Einsatzgruppen, which is this group of about 3000 men chosen from within the SS and SD will follow behind and murder Jewish groups as they find them.
+> Um, and even at the very end of the war, the Nazis are still killing Jews, because for them, this was this was the war effort.
 
-And so those 3000 men on their own are not responsible for the murder of about one and a half million Jews.
+> Whereas for the Nazis allies, it was something.
 
-They had considerable assistance, first of all, from the order police.
+> That they bought into insofar as it was expedient for them, and when it no longer was expedient, they stopped doing it.
 
-That's to say, the regular police and their battalions, the people that Chris Browning wrote about in ordinary men, for example.
+Dan Carlin:
+> So help me out with the dichotomy here.
 
-But they also had lots of assistance from local auxiliaries, particularly in Ukraine and across that swathe of borderlands up to through Belarus and up to the Baltic States.
+> The dichotomy is the the Nazi regime being open about their anti-Semitic feelings and yet trying very hard.
 
-And again, Wendy Lau's book shows that because some of the people in her, the photograph that she describes are Ukrainians.
+> It seems like, and correct me if I'm wrong.
 
-And the same is true in Romania, in Transnistria, where they carry out massacres.
+> Uh, trying very hard.
 
-It's also with the assistance of local Volksdeutscher.
+> It seems like to keep a lot of this stuff secret, right?
 
-That's to say, ethnic Germans living in that region and of ethnic Ukrainian auxiliaries who also did much of the shooting.
+> The actual killings.
 
-But what we're talking about here is the so-called war of annihilation in the Soviet Union.
+> Um, I was reading one account, uh, that was talking about how one, uh, person at Auschwitz told another one that he was showing around that this is the really super secret thing, and we'll all be shot if any of this comes out.
 
-So that when, because for Hitler, Bolshevism is not just a hated ideology, it's an ideology that is driven by the Jews.
+> Um, if I'm having a hard time figuring out where where the openness on one side, you know, Hitler saying, if the if we're plunged into another world war by the Jews, you know, that'll be it.
 
-So when we think about the Soviet Union through a Nazi lens, we shouldn't necessarily think about Bolshevism.
+> So that's very open.
 
-We should think about Judeo-Bolshevism.
+> But with the hiding, then, of the ramifications of playing that idea out to its logical conclusion, uh, how should we see this?
 
-This is how the Nazis think that Bolshevism is a Jewish system.
+Dan Stone:
+> That's also a complex question, because you can see both things going on at the same time.
 
-And therefore, to eradicate it, you have to kill the Jews in the Soviet Union.
+> It's often the case with Nazi Germany that there's a kind of public statement, um, and then there's a reality.
 
-This will be the only way to do away with Bolshevism as a system.
+> And in the Third Reich, I mean, you just cited Hitler's famous Reichstag speech from January 1939.
 
-So you have this period where beginning immediately after the Wehrmacht enters into the Soviet Union for about six weeks where only men of fighting age are targeted, but within a very short period that's extended to include everyone, women, children, the elderly.
+> Um, and throughout the war, if you read Jeffrey Hersh's work on, um, the Nazi propaganda during the war, actually, the.
 
-And so exactly as you say, in these small towns and also larger cities, the most famous being in Kiev, the shooting at Babaya, the Jews were often identified by their neighbors where it wasn't obvious to the Germans whether they were Jews or not, taken to pits outside of the town and shot into them.
+> Those words continue to be used over and over again throughout the war and towards the end of the war, when the vast majority of the Jews have been already murdered.
 
-And so for this phase of the Holocaust, we're talking essentially about a huge scale, effectively something like a colonial massacre writ large.
+> Actually, in some ways, the the anti-Semitic rhetoric is ramped up because there's now the threat of retribution from the international Jew.
 
-This is by no means what we often think of as the Holocaust as this kind of technologically sophisticated industrial genocide.
+> And so this anti-Semitic language continues to be extremely shrill even towards the end of the war.
 
-It was still genocide on a huge scale, but it was done by face-to-face shooting.
+> At the same time, there is a kind of secrecy, but I think that secrecy is more designed to prevent the Jews being targeted from understanding what's being, what's going to happen to them, than it is from a fear of advertising to the rest of the world.
 
-It's extraordinarily brutal, but was extremely efficient nevertheless.
+> What's what's going on?
 
-Think of the tens of thousands killed at Babaya or in some of the massacres in Transnistria, huge numbers of people shot into pits there.
+> For example, um, it's forbidden for German soldiers to take photographs of, of massacres or to take photographs in the camps.
 
-I was reading in some of these accounts, and I think when you read a lot of this stuff, and I can't imagine how you do your job because you read this stuff all the time, but when you read this stuff, there's this tendency to think of the Nazis and the ones who carry out these brutal murders, to quote some of the Nuremberg Justifications as just following orders and all that kind of stuff.
+> And yet we know from the Wehrmacht exhibition from the 1990s that German soldiers took these photos.
 
-What really knocks you down sometimes is the fact that sometimes people were curious enough to just want to do this for the experience.
+> Yeah.
 
-I'm moved in a bad way by that story of the police unit entertainers, the musicians and actors who wanted the opportunity one day to just shoot Jews to just see what it was like and how this was portrayed in one of the books I was reading.
+> In, in, in their millions, actually.
 
-It might have been yours.
+> I mean, at least hundreds of thousands of photographs taken of these massacres.
 
-I get them conflated sometimes as almost a psychological chance to commit an inhuman act without any sort of ramifications to be paid for it.
+> And if you think of Wendy Lauer's book The Ravine and her detailed reconstruction of of trying to show what happened in the lead up to the one photograph that she has on the cover of the book, and to find out who is in the photograph, where it was, and so on.
 
-Is there some sort of difference between, and maybe that's not the right way to phrase the question, but I'm having a harder time for some reason with that than I am maybe with an idea that I've become comfortable with over the 58 years of my lifetime of this Nazi state and regime and the political orders from Himmler on down.
+> It's just one example of a photograph that shouldn't exist, because those photos were forbidden, but in reality did exist and were shown around, and that when German soldiers went on leave, they would show them to their family members.
 
-What do we make of …
+> And of course, what the what the Wehrmacht exhibition showed was that even by the 1990s, um, people who had their fathers or grandfathers uniforms hanging in the attic often had photographs in the pockets, and that these could be, uh, shown around.
 
-Or like the guy with the crowbar in Conas, Lithuania, right?
+> So there there was, on the one hand, this use of euphemistic language, uh, we talk about it without talking about it, and at the same time, um, an open display of what was going on, which is very important because it creates, of course, a shared complicity, not just in the direct perpetrators, but across the whole of, uh, of German society and beyond.
 
-And the crowd cheering, or the crowd's cheering at some of these mass shootings.
+Dan Carlin:
+> And, of course, one can't help but contrast the photographic technology of the time with what we have today and how some of these massacres shot in high definition color on an iPhone with audio might impact the way we see these kinds of things.
 
-I don't know what to make of the average people enjoying this so much as opposed to some attempt to wipe out this enemy of Judeo-Bolshevism.
+> Um, I help me now with the difference between the genocide by bullets versus the genocide by gas idea.
 
-It's also a difficult question.
+> A lot of people don't understand that.
 
-It's a very uncomfortable one, I think.
+> For a lot of the Holocaust, this was about shooting people into pits and then bringing more people to shoot them into pits, and then having them fall on the stacked like sardine bodies below them.
 
-And again, there's a kind of spectrum that you can see.
+> Uh, talk a little about this Einsatzgruppe and, uh, genocide by bullets.
 
-In research by the German historian, Michel Wilt, you can see photographs of Jews being deported from the German provinces.
+> Part of the genocide.
 
-So they're not being murdered there.
+> Sure.
 
-They're simply being rounded up and deported.
+Dan Stone:
+> I mean, I think what's important here is that the this this phase of, of the Holocaust, um, we're talking now about the the period immediately after the invasion of the Soviet Union.
 
-But you can see the crowds laughing and jeering at the Jews as they're being rounded up and taken away through to, exactly as you described, the so-called death dealer of Conas, or these volunteers, if you like, who turn up and want to have a go at shooting.
+> So from the end of June 1941 through to the spring of 1942.
 
-A little bit reluctant to say, "This takes us back to some of the Stanford prison experiments," or Milgram and so on.
+> Excuse me, in other words, before the Final Solution was framed as a European wide project.
 
-Milgram, yeah.
+> You see this phase in which the Nazis decide that as they, as the Wehrmacht, uh, goes into the Soviet Union, the Einsatzgruppen, which is this group of about 3000 men chosen from within the SS and SD, uh, will follow behind and murder Jewish groups as they find them.
 
-There's an argument in all of us and so on.
+> And so those 3000 men on their own are not responsible for the murder of about 1.5 million Jews.
 
-But I do think that, at least formally, what you see in Eastern, particularly in Eastern Europe, where the killings take place, is that the Nazis create, and their allies also, that the Romanians in Transnistria do the same, they create effectively a lawless zone where there's a state of exception, the regular law of the land no longer applies, the Jews are fair game.
+> They had considerable assistance, first of all, from the Order Police, that's to say, the regular police and their battalions, the people that, um, Chris Browning wrote about in Ordinary Men, for example.
 
-Anyone can do anything to them with no comeback.
+> Uh, but they also had lots of assistance from local auxiliaries, particularly in Ukraine and across that swathe of borderlands, up to through Belarus and up to the Baltic states.
 
-And so in a sense, I've written elsewhere, I wrote an article some years ago called "Jurassic and Genocide as Transgression."
+> And again, Wendy Lauer's book shows that because some of the people in her the photograph that she describes are Ukrainians.
 
-And what I tried to argue there was that the Holocaust presented an opportunity to people to fulfill their wildest fantasies with no comeback.
+> And the same is true in in Romania, in Transnistria, uh, where they carry out massacres.
 
-And afterwards, I think that for some of the perpetrators, at least, they probably looked back on what they'd done and couldn't quite believe it when they were back in regular society where normal law applied and so on, and probably couldn't even fathom what they had done themselves.
+> It's also with the assistance of local Volksdeutsche, that's to say, ethnic Germans living in that region and of um, ethnic Ukrainian, uh, auxiliaries who also did much of the shooting.
 
-And yet there was this state of exception created that allowed this madness, if you will, to take place.
+> But what we're talking about here is, uh, the so-called war of annihilation in the Soviet Union, so that when because for Hitler, uh, Bolshevism is not not just a hated ideology, it's an ideology that is driven by the Jews.
 
-And it's uncomfortable because it makes you think, well, perhaps that's what human beings are, that people kill other people because they can.
+> So we should when we think about the Soviet Union through a Nazi lens, we shouldn't necessarily think about Bolshevism.
 
-When the opportunity arises, that's what happens.
+> We should think about judeo-bolshevism.
 
-Nevertheless, it's more than just a pogrom.
+> This is what how the Nazis think that Bolshevism is a Jewish system.
 
-This was a state sanctioned state of affairs, which is why we see the genocide on the scale that we do.
+> And therefore, uh, to eradicate it, you have to kill the Jews in.
 
-I was interested, and maybe this is part of how one at the ground level rationalizes what they're doing, was this equating the Jews in the East to partisans, especially.
+> The Soviet Union.
 
-And when you read these accounts by German soldiers often, they'll talk about either how the partisans were Jews or how the partisans were working with the Jews, and that then when you reply by killing Jews, you are in effect killing partisans, and this is okay because they were just shooting at your buddies.
+> This will be the only way to to do away with Bolshevism as as a system.
 
-What do you make of this?
+> So you have this period where beginning immediately after, um, the Wehrmacht enters into the Soviet Union for about six weeks, where only men of fighting age are targeted, but within a very short period that that's extended to include everyone, uh, women, children, the elderly.
 
-And listen, I guess Hitler himself had said at one point, just call them all partisans.
+> And so as exactly as you say, uh, in these small towns and also larger cities, the most famous being in Kiev, the shooting at Babi Yar, the Jews were often identified by their neighbors, where it wasn't obvious to the to the Germans whether they were Jews or not, uh, taken to pits outside of the town, uh, and and shot into them.
 
-This became a wonderful blanket, and obviously this obscures the number …
+> And so for this phase of the Holocaust, we're talking essentially about a huge scale, effectively something like a colonial massacre writ large.
 
-When people talk about how many deaths in the Holocaust, it must be impossible to untease Jews from partisans at this, because oftentimes that's what they'll say.
+> Uh, this is by no means what we often think of as the Holocaust, as this kind of technologically sophisticated industrial genocide.
 
-What do we make about this partisan rationale?
+> It was still genocide on a huge scale, but it was done by, uh, face to face shooting.
 
-I think exactly as you say, it provides a means of self-justification.
+> It's extraordinarily brutal, but was extremely efficient nevertheless.
 
-But it only goes so far, because when the Einsatzgruppen or members of the Wehrmacht or the Order Police are shooting elderly men and women or children, of course this partisan argument falls away immediately.
+> And we think of the, uh, the tens of thousands killed at Babi Yar or in some of the, some of the massacres in, in Transnistria, huge numbers of people shot into, into pits there.
 
-And then you have to say, "Well, then what are they thinking?"
+Dan Carlin:
+> You know, I was reading in some of these accounts and, and I think, you know, when you read a lot of this stuff and I can't imagine how you do your job because you read this stuff all the time.
 
-So I think the partisan arguments worked well at first in the early stages of the war in the Soviet Union as a kind of psychological buffer.
+> But when you read this stuff, there's this tendency to think of the Nazis and, and the ones who carry out these brutal murders, you know, to quote some of the Nuremberg justifications as just following orders and all that kind of stuff.
 
-But I think once the killing squads got used to what they were doing, they no longer knew they needed it.
+> What really knocks you down sometimes is the fact that sometimes people were curious enough to just want to do this for the experience.
 
-They continued to use that language to some extent.
+> I'm moved in a bad way by that story of the of the police unit, uh, entertainers, the musicians and and actors who, uh, wanted the opportunity one day to just shoot Jews, to just see what it was like and how this was, uh, portrayed in one of the books I was reading.
 
-If you look at the Einsatzgruppen reports, they are often couched in this euphemistic language, but the killings themselves, I don't think they could possibly have believed it when they were shooting whole population groups.
+> It might have been yours.
 
-Okay, this idea of psychological installations interesting to me, because so often …
+> I get them conflated sometimes as almost a psychological chance to commit an inhuman act without any sort of ramifications to be paid for it.
 
-And please, again, correct me if I've misunderstood or if the sources have changed or the attitudes and assessments have changed.
+> Is there some sort of difference between.
 
-But it's interesting when you read …
+> And maybe that's not the right way to phrase the question, but but I'm having a harder time for some reason with that than I am.
 
-Because the Nazis were paying close attention to how these shootings were going, how they could make it more efficient, what could be done differently.
+> Maybe with an idea that I've become comfortable with over the 58 years of my lifetime of this Nazi state and regime, and the political orders from Himmler on down, uh, what do we make of or like the guy with the crowbar in Kaunas, Lithuania, right in the crowd cheering and or the crowds cheering at some of these mass shootings?
 
-And they never show a whole lot of sympathy, obviously, for the victims, but they sometimes show sympathy or at least concern over what the perpetrators are experiencing, having to shoot all these people all the time.
+> You know, I don't know what to make of the average people enjoying this so much as opposed to some attempt to wipe out, you know, this enemy of Judeo-bolshevism.
 
-And when I was growing up, and again, correct me if this has changed, this was always one factor that went into the idea of something like creating annihilation camps, where you don't have to hold a Tommy gun and spend the whole afternoon shooting women and children.
+Dan Stone:
+> It's also it's a difficult question and it's a very uncomfortable one, I think.
 
-It just becomes a process where there's, as you suggested, more of a psychological insulation.
+> And again, there's a kind of spectrum that you can see in research by the German historical historian Michel Wilt.
 
-Maybe talk to me a little bit about …
+> You can see photographs of Jews being deported from the German provinces.
 
-Because I'm interested in the human angle.
+> So not they're not being murdered.
 
-I always talk about people who are caught in the gears of history.
+> They're they're simply being rounded up and deported.
 
-If you find yourself tasked with having to be at Bobby Yar and being one of the gunman there, it's almost heartening for me that there's enough people bothered by this that you have to find another way.
+> But you can see the crowds laughing and, and jeering at the Jews as they're being rounded up and taken away through to exactly as you described, the so-called Death Dealer of Kaunas or, um, these volunteers, if you like, who turn up and want to have a go at shooting.
 
-Can you talk to me, and it's a good transition to go from the genocide of bullets to the genocide of gas, but talk to me a little about this, the effect it has on the killers.
+> I a little bit reluctant to say, uh, this takes us back to some of the sort of, you know, Stanford prison experiments or Milgram and so on.
 
-It's a good question because I think, again, the evidence is mixed.
+> Milgram.
 
-There's I think a small number of killers who enjoy the process, and then there's a larger majority who get used to it, and then who write letters back to their families who are saying things like, "Oh, it takes nerves of steel to do what we're doing here, but we have to do it for the sake of our children and grandchildren."
+> Yeah.
 
-Then there's a very small minority of those who won't do it, or who have to be persuaded, who eventually do it thanks to being plied with alcohol, or because they don't want to look bad in front of their comrades and so on.
+> You know, there's a there's an Eichmann in all of us and so on.
 
-I think one of the things that has changed is that I think we now understand that this did have psychological ramifications for the killers, and nobody needs to feel sorry for them, but probably many of those who were not prosecuted after the war probably did suffer from PTSD from what they'd experienced and what they'd done.
+> Um, but I do think that, at least formally, what what you see in, in eastern, particularly in Eastern Europe, where the killings take place, is that the Nazis create and their allies, also the Romanians in Transnistria, do the same.
 
-Again, which does not mean we need to… it's not an apology for them, but they certainly did experience psychological effects from what they'd done.
+> They create effectively a lawless zone where the there's a state of exception, the regular law of the land no longer applies.
 
-Not all of them, but many did, I think.
+> The Jews are fair game.
 
-But you're right to say, I think, that one of the reasons for the transition from the Holocaust by bullets to the creation of gas chambers was a notion that this would involve fewer people in direct face-to-face killings, that the process would be less traumatic for the perpetrators.
+> Um, anyone can do anything to them with no comeback.
 
-There was no regard…
+> And so in a sense, it's an I've written elsewhere.
 
-I think there has been a certain amount of apologetics trying to say this was less barbaric for the victims as well, but that's clearly nonsense.
+> I wrote an article some years ago called Genocide as Transgression.
 
-When you read the description…
+> Uh, and it's what I tried to argue there was that the.
 
-One of the things I wanted to do in the book actually was to say that when you look at the death camps, they're not this clean industrial process of murder sites that they're sometimes thought of.
+> The Holocaust presented an opportunity to people to fulfill their wildest fantasies with no comeback.
 
-They were extremely brutal, violent and nasty, and that way of killing people is also horrendous and by no means efficient and clean.
+> And afterwards, I think that for some, some of the perpetrators at least, they probably looked back on what they'd done and couldn't quite believe it when they were back in regular society where normal law applied and so on, and probably couldn't, couldn't even fathom what they'd done themselves.
 
-Nevertheless, from the perpetrator's point of view, it took far fewer people.
+> And yet there was this state of exception created that allowed this, this, this madness, if you will, to to take place.
 
-When you look at the places like the Reinhard camps, a very small corps of SS and local helpers could kill thousands and thousands of victims very quickly.
+> And it's uncomfortable because it makes you think, well, perhaps that's what human beings are, that people kill other people because they can when the opportunity arises, that's what happens.
 
-But again, that transition…
+> Uh, nevertheless, it's it's more than just a pogrom.
 
-I don't think it was only driven by psychological needs.
+> You know, this was a state sanctioned.
 
-It was also contingent, that's to say, that the idea for the gas chamber came from the so-called euthanasia program beforehand, so that the T4 project to kill the disabled, not primarily Jews, but members of the Aryan race in Germany who were considered to be deficient and disabled and should be done away with.
+> State of affairs.
 
-It was there that gas chambers were first created.
+> Uh, which is why we see, uh, the, the genocide on the scale that we do.
 
-As that program was being wound up, many of the leaders of it were transferred then to the Reinhard camps because they suggested that this would be a more appropriate way of killing Jews than simply shooting them.
+Dan Carlin:
+> I was interested, and maybe this is part of how one at the ground level rationalizes what they're being, uh, what they're doing was this equating the Jews in the East to partizans especially.
 
-The psychological explanation is, I think, a correct one, but it also has to be understood as emerging out of other things that were happening in the first mass murder projects being carried out by Nazi Germany.
+> Right.
 
-That's to say, the euthanasia program.
+> And the.
 
-Maybe some of it also goes to the idea of hiding this sort of stuff.
+> And when you read these accounts by German soldiers, often they'll talk about either how the Partizans were Jews or how the Partizans were working with the Jews, and that then when you reply, by killing Jews, you are in effect killing Partizans.
 
-I was shocked to read an account from early 1942 talking about the Babi Yar area where the mass grave was, and that when things started to unfreeze, that there were minor explosions created by the gas from the bodies buried in the pit.
+> And this is okay, because they were just shooting at your buddies.
 
-You think to yourself about crematoriums and whatnot, maybe solving that problem somewhat.
+> Um, what do you make of this?
 
-It seems to me that the reason maybe we focus so much on that, even if it wasn't this factory-line genocide as we've always thought, is because that's the great break from past history.
+> And listen, I guess I guess Hitler himself was had said at one point, just call them all partizans.
 
-Genghis Khan can kill a lot of people too, but he does it the same way the Einsatzgruppen did, essentially.
+> I mean, this became a wonderful blanket and obviously this obscures the number.
 
-It's almost a science fiction Star Trek episode to go in there and wipe people out.
+> You know, when people talk about how many deaths in the Holocaust, it must be impossible to, you know, to anti-s Jews from partizans at this because oftentimes that's what they'll say.
 
-Evan's book from the late 1960s has this rundown, and we're going to use it in the show, where they go from the announcement that the train is arriving all the way to pulling the bodies out of the gas chamber.
+> What do we make about this Partizan rationale?
 
-Efficiency is an interesting word.
+Dan Stone:
+> I think exactly as you say it, it provides, um, a means of self-justification.
 
-I was struck by the little things, like that there were geraniums planted along the way.
+> Uh, but it only goes so far because when the Einsatzgruppen or members of the Wehrmacht or the Order Police are shooting, um, elderly men and women or children.
 
-Little things that were …
+> Of course, this part is an argument falls away immediately.
 
-If you were making a horror movie, there's something worse about putting geraniums along the side than just making it like a bunch of cattle going to slaughter.
+> And then you have to say, well, then what are they thinking?
 
-There's no question there, but what does that make you think about?
+> So I think the the Partizan argument.
 
-I think you're right.
+> Uh, worked well at first in the early stages of of the war in the Soviet Union as a kind of psychological buffer.
 
-The reason I think why we're still morbidly fascinated with Auschwitz is precisely because it does mark this break that you described.
+> Uh, but I think once the, the killing squads got used to what they were doing, they no longer needed it.
 
-There's something about the modernist architecture, the Bauhaus-inspired architecture of the entrance gate to Birkenau, the railway age, the epitome of modernity being used, and the conscious design of this place as nothing more than a killing factory.
+> They continued to use that language to some extent.
 
-There is something that remains shocking about that.
+> If you if you look at the the Einsatzgruppen reports, they are often couched in this euphemistic language.
 
-I've said so in the book.
+> But the, the killings themselves, I don't think they could possibly have believed it when they were shooting whole, whole population groups.
 
-I refer to Auschwitz there as an abattoir of concentrated genocidal fantasy.
+Dan Carlin:
+> Okay.
 
-That's what it is.
+> This idea of psychological insulation is interesting to me because so often and please again, correct me if I've misunderstood or if the sources have changed or the attitudes and and assessments have changed.
 
-At the same time, I wanted to say that there's more to the Holocaust than Auschwitz and the death camps.
+> But it's interesting when you read, because the Nazis were paying close attention to how these shootings were going, how they could make it more efficient, what could be done differently.
 
-By saying that, I don't mean to detract from the significance of Auschwitz.
+> And they never show a whole lot of sympathy, obviously, for the victims, but they sometimes show sympathy or at least concern over what the perpetrators are experiencing.
 
-It is the peak points, if you like, of the Nazis' genocidal program.
+> Having to shoot all these people all the time.
 
-With respect to the geraniums and so on, again, it's become a well-worn cliché that we see the land of the poets and thinkers also being the land of murderers.
+> And when I was growing up, and again, correct me if this has changed.
 
-If you think about the piano-playing murderer in Schindler's List or the pianist or whatever, George Steiner wrote about this kind of thing in his essays in the 1960s.
+> This was always one factor that went into the idea of something like creating annihilation camps, where you don't have to hold a Tommy gun and spend the whole afternoon shooting women and children.
 
-It remains the case today that we're still shocked when we see these murderers, people we want to think of as crazy sadists and so on, sitting down to play a Bach sonata at the end of the film Conspiracy, which is the film about the Wannsee Conference, which is one of the few truly great docudramas about the Holocaust.
+> It just becomes a process where there's, as you suggested, more of a psychological insulation.
 
-At the end of that film, you see Heydrich and Eichmann settling down with a brandy listening to classical music.
+> Um.
 
-Again, Schubert maybe, I can't remember, but this is something that continues to shock us.
+Dan Stone:
+> Well, maybe talk to me.
 
-It shouldn't shock us anymore because we understand there's this dialectic of civilization and barbarism that characterizes the Third Reich.
+Dan Carlin:
+> A little bit about because I'm interested in the human angle.
 
-That goes all the way through from the individual perpetrators and their sensibilities through to the architecture of the death camps.
+> I always talk about people who are caught in the gears of history.
 
-I love the line, "The banality of evil."
+> I mean, if you find yourself tasked with having to be at Baba Yara and being one of the gunmen there, um, it's almost heartening for me that there's enough people bothered by this that you have to find another way.
 
-Let's bring that up a little bit because you mentioned shock.
+> Can you talk to me?
 
-I think that's an interesting word when we talk about events from 70-plus years ago now.
+> And it's a good transition to go from the genocide of bullets to the genocide of gas.
 
-One almost feels like it's good to be in shock about something like this, but shock wears off.
+> But talk to me a little about this, the effect it has on the killers.
 
-We still produce quite a few books on the Holocaust.
+Dan Stone:
+> Um, it's a good question because I think again the evidence is mixed.
 
-One gets the impression that the difference between the reaction of those who were either part of that generation or close to it is quite a bit different than what we see now.
+> There's a, I think a small number of.
 
-I was struck, you mentioned the exhibit in the 1990s that helped dispel the myth of the clean Wehrmacht and the books that came out of that.
+> Killers who enjoy the process.
 
-There was an interview in one of them at the end with a Green Party member, the Bundestag, who said that her father had the black uniform and the whole thing, but that he was this good guy.
+> And then there's a larger majority who get used to it, and then who write letters back to their families, who's saying things like, oh, it takes nerves of steel to do what we're doing here, but we have to do it for the sake of our children and grandchildren.
 
-She said all through the 1950s, he mandated that the window be closed and that he would have nightmares screaming about fire and children.
+> Um, and then there's a very small minority of, uh, of those who who won't do it or who have to be persuaded and who eventually do it.
 
-That impacts him, it impacts his wife, it impacts his children.
+> Um, thanks to being plied with alcohol or because they don't want to look bad in front of their comrades and so on.
 
-But now you get a generation farther or two generations farther.
+> Um.
 
-Does this stuff wear off?
+> I think one of the things that has changed is that I think we now understand that this did have psychological ramifications for the killers and, um, nobody needs to feel sorry for them.
 
-And then one also asked the question, considering the trauma involved or the fact that as we get farther away, we're getting farther away from the perpetrators here.
+> But probably many of those who, uh, were not, uh, prosecuted after the war probably did suffer from PTSD from, uh, from what they'd experienced and what and what they'd done.
 
-One might ask when the Germans can start thinking of themselves as innocent because they're three or four or five or six generations removed from this.
+> Um, again, which is not, um, does not mean we need to, you know, it's not an apology for them.
 
-How do we deal with something that is so overwhelmingly guilty and shocking with the fact that it's going to wear off at some point?
+> Uh, but they certainly did experience psychological effects from, uh, from what they'd done.
 
-And maybe when we're talking about guilt of people's, maybe in some respect there's a right for it to wear off.
+> Not all of them, but but many did, I think.
 
-Wow, what a question.
+> Um, but the you're right to say, I think that one of the reasons for the transition from the Holocaust by bullets to the creation of gas chambers was, uh, a notion that this would involve fewer people in, in direct, face to face killings, that the process would be less traumatic for the perpetrators.
 
-Well, I don't know myself actually.
+> Um, there was no regard.
 
-No, but I mean, there's a lot in there that you're asking.
+> I think there has been a certain amount of apologetics, uh, trying to say this, this was less barbaric for the victims as well.
 
-I think first of all, in terms of natural memory, three generations, right?
+> But that's clearly nonsense that the when you read the description, one of the things I wanted to do in the book, actually, was to say that when you look at the the death camps, they're not this, uh, clean industrial process of murder sites that they're sometimes thought of.
 
-A hundred years is about the span of natural memory.
+> They were extremely brutal, violent and and nasty.
 
-And so after that period of three generations, everything is history.
+> And that way of killing people is also, uh, horrendous and by no means efficient and clean.
 
-So there are no longer any, there's no longer anyone alive who remembers World War One.
+> Nevertheless, from the perpetrators point of view, it took far fewer people.
 
-In a couple of years, there will no longer be anyone alive who remembers World War Two.
+> Uh, and when you look at the places like the Reinhard camps, a very small, uh, core of SS and local helpers, uh, could, could kill thousands and thousands of victims very quickly.
 
-There will be for some years, yet a small number of people who we class as Holocaust survivors, but who were babies or children in 1944, 1945, right?
+> But again, that transition, I don't think it was only driven by psychological needs.
 
-There will be nobody left who can speak in terms of their personal experience about the Holocaust and World War Two.
+> It was also contingent, that's to say, uh, that the the idea for the gas chamber came from the so-called euthanasia program beforehand so that the or that the T4 project to kill the, the disabled, not necessarily not primarily Jews, but members of the Aryan race in Germany who were considered to be deficient and disabled and should be done away with.
 
-And I think that despite the fact that there are people who claim that the intergenerational transmission of trauma can reach three or four generations, I have my doubts about that to a large extent.
+> Um, it was there that gas chambers were first created.
 
-I think that there's a cultural memory that particularly within Jewish communities, that cultural memory is largely shaped by the Holocaust.
+> And as that program was being wound up, many of the leaders of it were transferred then to the Reinhard camps, because they'd suggested that this would be a more appropriate way of of killing Jews than simply shooting them.
 
-But I don't really believe that, let's say, the great grandchildren of Holocaust survivors are traumatized in a meaningful clinical sense by the Holocaust.
+> So the psychological, um, explanation is, I think, a correct one.
 
-I also think that the time is coming where for the moment we still have a large amount of cultural emphasis on the Holocaust.
+> But it also has to be understood as, as emerging out of other things that were happening in, in the first, uh, mass murder projects being carried out by Nazi Germany, that's to say the euthanasia program.
 
-New museums are still being built now in Amsterdam, in Bucharest and elsewhere.
+Dan Carlin:
+> Maybe some of it also goes to the idea of hiding this sort of stuff.
 
-A huge amount of Holocaust film, fiction and so on continues to be produced.
+> I was I was shocked to read an account from early 1942 talking about the Babi Yar area where the mass grave was, and that when things started to unfreeze, that there were like minor explosions created by the gas from the bodies buried in the in the pit.
 
-But I think that the current emphasis on commemoration, Holocaust Memorial Days and so on, that is going to change over the next generation or so.
+> And you think to yourself about crematoriums and whatnot, maybe solving that problem somewhat, but it is a you know, it seems to me that the reason maybe we focus so much on on that even if it wasn't as factory line genocide as we've always thought is, because that's the great break from past history, right?
 
-And I think you're right, in a sense, that there's no reason why it should be the case that five or six generations after the event, people should feel the same about it as they did five or 10 years after the event or even 50 years after the event.
+> Genghis Khan can kill a lot of people too, but he does it the same way the Einsatzgruppen did.
 
-That's natural.
+> Essentially the new, you know, it's almost a science fiction Star Trek episode to go in there and wipe people out.
 
-We can read about the Black Death and go, oh yeah, that was horrible.
+> I mean, I, um, Levin's book from the late 1960s has this rundown, and we're going to use it in the show where they go from like the train, you know, the announcement that the train is arriving all the way to pulling the bodies out of the out of the gas chamber and efficiency is an interesting word.
 
-But we're not upset by it in the same way that people, the children or grandchildren of those who were affected by it in the Middle Ages were.
+> I mean, I was struck by the little things like that.
 
-And so I think there will come a point where the history of the Holocaust remains, will always remain important.
+> There were geraniums planted along the way, little things that were it just if you were making a horror movie, there's something worse about putting geraniums along the side than just making it like a bunch of cattle going to slaughter.
 
-It's a major event in 20th century European history.
+> There's no question there.
 
-And I think we will continue to be fascinated by it.
+> But what does that make you think about?
 
-But the broader cultural emphasis on commemoration and memory, I think over time will, I don't think it will disappear, but I think it will dissipate and shift in ways that at the moment we can't really predict.
+Dan Stone:
+> Um, I mean, I think I think you're right.
 
-You brought up, and I hadn't been exposed to this thought in the books from the 60s and the 70s and the 80s, but I've been thinking a lot about it since I've been exposed to it.
+> There is the reason I think why we're still morbidly fascinated with Auschwitz is precisely because it does mark this break that you describe that there there's something about the modernist architecture, you know, the Bauhaus inspired architecture of the entrance gate to Birkenau, the, uh, the railway age, you know, the epitome of modernity, uh, being used.
 
-And your book does this quite a bit, equating what the Nazis were doing to something that's very interesting to a lot of people today, the question of colonialism.
+> The conscious design of this place as nothing more than a killing factory.
 
-And then I went back and started rereading things like Mein Kampf[^3] and some of those earlier books with Hitler's interest in, for example, how Native Americans were treated by the Americans or the colonial European powers in places like Africa.
+> That's there is something that remains shocking about that.
 
-Can you talk to me a little bit, I mean, seeing the Jews as being treated the same as the Belgians treated Africans in the Congo or the Americans treated the Cherokees at the Trail of Tears, it's a very fascinating new way to approach this subject.
+> And I've said so in the book.
 
-Can you talk about it a little bit?
+> You know, I refer to Auschwitz there as, um, an abattoir of concentrated genocidal fantasy.
 
-Yes, I think it works to a certain extent.
+> Uh, and that's that's what it is.
 
-So there's no doubt, for example, that the British Empire and the expansion of the US were things that fascinated Hitler.
+> At the same time, I also I wanted to say that there's more to the Holocaust than Auschwitz and the death camps, but by saying that, I don't mean to detract from the significance of Auschwitz.
 
-He talks at one point about how Russia will be our India, and that we've in the same way that the British rule several hundred million Indians with a couple of hundred thousand men, so we'll do the same in Russia.
+> It is the the peak point, if you like, of, uh, of the Nazis genocidal program.
 
-But I think he's much more fascinated by the American case.
+> I mean, with respect to the geraniums and so on.
 
-He sees the Westwood expansion of the US as really a model for the Eastwood expansion of Lebensraum, living space for Germany, because Poland is kind of an irrelevance that just has to be swept away.
+> Um, again, it's become a kind of well-worn cliché that we see, you know, the trope of, uh, yeah, this trope of the land of the poets and thinkers also being the land of murderers.
 
-Really what the Nazis are interested in is Ukraine and Western Russia up to the Urals.
+> If you think about, you know, the piano playing murderer in in Schindler's List or The Pianist or whatever.
 
-This is the real space that the Germans need to develop and grow.
+> I mean, George Steiner wrote about this kind of thing in in his essays in the 1960s, and it remains the case today that we're still kind of shocked when we see these, uh, murderers, people we like, we want to think of as crazy sadists and so on, sitting down to play a Bach sonata, uh, at the end of the film conspiracy, which is the film about the Wannsee Conference, um, which is one of the one of the few truly great docudramas about, uh, about the Holocaust at the end of that, that film, uh, you see, uh, you see Heydrich and Eichmann settling down with a brandy, listening to, uh, classical music again.
 
-So the Nazi project is, I think, inherently a colonial one in that sense.
+> Um, Schubert maybe I can't remember, but, uh, you know, this is something that continues to to shock us, and it shouldn't shock us anymore because we we understand there's this, this dialectic of civilization and barbarism that characterizes the Third Reich.
 
-When it comes to the Holocaust, it's a little bit harder to explain using that paradigm, because in the case of, let's say, the treatment of Native Americans in the US and in Canada and elsewhere, you immediately see that these are people who, from the settlers' point of view, have to be got rid of because they're the people who are on the land.
+> Uh, but that goes all the way through from the individual perpetrators and their sensibilities through to the architecture of, of the death camps.
 
-The difference with the Jews is that for the most part, they're not landowners.
+Dan Carlin:
+> I love the line, the banality of evil.
 
-They're a small minority who mostly are urban dwellers, small towns and cities across the whole region.
+> Um, so, so let's let's bring that up a little bit because you mentioned shock.
 
-If what you're interested in is the acquisition of territory, you don't need to kill the Jews to do that.
+> And I think that's an interesting word when we talk about events from 70 plus years ago now, uh, one almost feels like it's good to be in shock about something like this, but shock wears off.
 
-So the killing of the Jews is about more than simply acquiring territory.
+> Um, and yet we still produce quite a few books on the Holocaust.
 
-The real problem, I think, then comes, well, how do you explain the murder of the Jews of France?
+> One gets the impression that the difference between the reaction of those who were either part of that generation, or close to it, is quite a bit different than what we see now.
 
-Or why late in the war do the Nazis go to great lengths to deport the Jews of Corfu or Rhodes?
+> I was struck you mentioned the exhibit in the 1990s that helped dispel the myth of the clean Wehrmacht and the books that came out of that.
 
-Or to try and work out how they're going to get hold of the Jews of Albania, for example?
+> There was an interview in one of them at the end with a Green Party member of the Bundestag who said that her father had been, uh, you know, had the black uniform and the whole thing, but that he was this good guy.
 
-This makes no sense from a colonial point of view.
+> And she said all through the 1950s, he meant he he mandated that the window be closed and that he would have nightmares screaming about fire and children.
 
-But I think the only explanation is the idea of the security, the permanent security of the German people relying on the eradication of Jews everywhere.
+> Right.
 
-So the colonial paradigm works in the sense that the Nazis want to acquire territory and they want to get rid of the people who inhabit that territory.
+> So that that impacts him.
 
-That's why they have this plan, the so-called the hunger plan or the general plan East, which has nothing to do with Jews, but envisages the merger of between something like 30 to 50 million Slavs, eventually to make way for German settlers.
+> It impacts his wife, it impacts his children.
 
-But everywhere they go, the first people that the Nazis target are the Jews.
+> But now you get a generation father or two generations father, does this stuff wear off?
 
-And that's not because they're landowners, that's because they're perceived in this conspiracy theory that we already discussed as a threat to the safety and purity of the Aryan race.
+> And then one also sort of asks the question, considering the trauma involved or the fact that as we get farther away, we're getting farther away from the perpetrators here.
 
-This is going to be an uncomfortable question because it's an uncomfortable question for me.
+> And one might ask when the Germans can start thinking of themselves as innocent because they're 3 or 4 or 5 or 6 generations removed from this, how do we deal with something that is so overwhelmingly guilty and shocking, with the fact that it's going to wear off at some point?
 
-But when one talks about learning from the past, which is, this is the great trope of all time, the learning from history and our ability to do it.
+> And maybe when we're talking about guilt of peoples, maybe in some respect there's a right for it to wear off.
 
-But one thinks of the statement, "Never again," the idea that we're going to learn from this, we're never going to have another one of these.
+Dan Stone:
+> Wow, what a question.
 
-But then there will be a politician in a place of all places in Israel that will start using terms like the Amalekites to describe modern day people.
+> Um, well, I don't know.
 
-I don't even know how to get my mind around that or how something like that didn't prompt an immediate counter reaction that was nuclear almost in its nature.
+Dan Carlin:
+> I don't know myself, actually.
 
-But there's also something so human about the fact that those most affected by the Holocaust might have a politician somewhere who could use a phrase like that and have it work for them.
+Dan Stone:
+> I mean, there's there's a lot in there that you're that you're asking.
 
-Again, there is no question here, but your book brought up a few very uncomfortable points about using the Holocaust as a rationale or a motive.
+> I mean, I think, first of all, in terms of natural memory, three generations.
 
-I think anything that's going to be that large is going to be co-opted by human beings who have agendas.
+> Right?
 
-But what do we make of the word Amalekite coming into play at all?
+> A hundred years is about, um, the span of natural memory.
 
-It is uncomfortable, but I think that at least we can say that what's currently happening in Gaza shows that the subtitle of my book, The Holocaust is an Unfinished History, is clearer now than even when I wrote it.
+> And so after that period of three generations, everything is is history.
 
-Your example of Amalekite is just one example of many examples we can point to being used by far right Israeli ministers to describe the Palestinians in Gaza in similar terms, you know, as human animals and the Palestinians simply as Nazis.
+> So there are no longer any there's no longer anyone alive who remembers, uh, World War One.
 
-Look, I think that George Steiner's fear that his opposition to the creation of Israel was on the basis that it would simply become a state like any other is now in evidence that you can see that the Israelis are people like anybody else.
+> Within a couple of years, there will no longer be anyone alive who remembers World War Two.
 
-And so when I talk about the Israelis here in the same way that people talk about the Germans, I'm talking about the people who are currently in power.
+> There will be for some years.
 
-And the Israeli cabinet is dominated by far right politicians who if they were in power anywhere else in Europe, let's say, there would be there would be an outcry about such people being in power.
+> Yet a small number of people who we we class as Holocaust survivors, but who were babies or children in 1944, 1945.
 
-They're people who for the most part are not fit to hold office.
+> Right.
 
-So and they are people who are driven by conspiracy theories.
+> There will be nobody left who can speak in terms of their personal experience about the Holocaust and World War Two.
 
-Here I think you can see you can see a kind of Holocaust trauma in in evidence.
+> And I think that despite the fact that there are people who claim that the intergenerational transmission of trauma can reach 3 or 4 generations, I have my, um, doubts about that.
 
-One of the things that the survivor Ruth Kluge wrote in her memoir was in she relates a conversation that she had with some students when she went back to Germany in Göttingen and they start to say, oh, you know, how can the Israelis of all people who've experienced genocide treat the Palestinians so badly?
+> Uh, to, to a large extent, I think that, um, there's a cultural memory that particularly within Jewish communities, that cultural memory is largely shaped by the Holocaust.
 
-And she says Auschwitz was not a human rights laboratory.
+> But I don't really believe that.
 
-It was not it was not an instructional facility.
+> Let's say the great grandchildren of Holocaust survivors are traumatized in a meaningful clinical sense by, uh, by the Holocaust.
 
-You didn't learn anything there about human rights.
+> I also think that the time is coming, where for the moment, we still have, um, a large amount of cultural emphasis on the Holocaust.
 
-And so this idea that people who are the victims of genocide should behave impeccably.
+> New museums are still being built now in Amsterdam, in Bucharest and elsewhere.
 
-Actually the reverse is often the case.
+> A huge amount of Holocaust film, uh, fiction and so on continues to be produced.
 
-And we can point to other cases of genocide and show that those who are the victims often then will behave like perpetrators if the opportunity presents itself or that they have built into their psyche this notion that the only way to defend ourselves is through this all out response.
+> But I think that the the current emphasis on commemoration, Holocaust Memorial Days and so on, that is going to change over the next generation or so.
 
-Nothing else will do because otherwise these people are out to get us.
+> And I think you're right in a sense that there's no reason why it should be the case that 5 or 6 generations after the event, people should feel the same about it as they did 5 or 10 years after the event, or even 50 years after the event.
 
-And so again, I'm talking about I think here a small number of people who are in power currently in Israel.
+> That's natural.
 
-But the rhetoric that they're using is is quite scary, I would agree.
+> Uh, we can read about the Black Death and go, oh yeah, that was horrible, but we're not upset by it in the same way that people, the children or grandchildren of those who were affected by it in the Middle Ages, uh, were.
 
-Well and let's let's broaden it out from Israel to a lot of the world.
+> And so I think there will come a point where the history of the Holocaust remains.
 
-It almost seems like what's going on with that sort of problem with a very far right government in Israel is becoming a trend.
+> It will always remain important.
 
-I mean, that's almost like just keeping up with the Joneses in a lot of other countries where movements and rhetoric that we thought were long gone aren't just thriving again.
+> It's a major event in 20th century European history, and I think we will continue to be fascinated by it.
 
-But the attitudes and the pronouncements of those regimes or wannabe regimes are resonating with human beings on the ground again.
+> Um, but the the broader cultural emphasis on commemoration and, and memory, I think over time will I don't think it will disappear, but I think it will dissipate and shift in ways that at the moment we can't really predict.
 
-And your book mentions this quite a bit, but I mean there's a sense here that what we're seeing is a sort of revanchism, if you will, of ideas from the mid 20th century, which of course were ideas from the late 19th century.
+Dan Carlin:
+> You brought up.
 
-I mean, there's almost a cyclical nature to some of this stuff.
+> Um.
 
-I think one of the things that's so important about Nazism and here I'm understanding Nazism as if you like a variety of fascism, the most radical variety of fascism is and one reason why actually this period will continue to resonate for some while is that fascism somehow created a store of ideas as well as a kind of an aesthetic, a vocabulary that continues that I think it went beyond what was acceptable in terms of normal democratic politics and it appeals to people's deep psychology.
+> And I hadn't been exposed to this thought in the books from the 60s and the 70s and the 80s, but it's I've been thinking a lot about it since I, since I've been exposed to it.
 
-And there is something, you know, we continue to live in an age of nation states.
+> And your book does this quite a bit, equating what the Nazis were doing to something that's very interesting to a lot of people today, the question of colonialism.
 
-We think about nation states as the natural way that the world should be ordered.
+> And then I went back and started rereading things like Mein Kampf[^3] and some of those earlier books with with Hitler's interest in, for example, how Native Americans were treated by the Americans or the colonial, uh, European powers in places like Africa.
 
-And so when people in those states, whether rightly or wrongly, objectively or not, statistically, correctly or not, consider themselves to be under threat, this vocabulary, this style that was created by fascism in the mid 20th century comes back into play.
+> Can you talk to me a little bit?
 
-It is there now, you know, the cat's out of the bag and it can't be put back in again.
+> I mean, seeing the Jews as as as being treated the same as the Belgians treated Africans in the Congo or the Americans treated the Cherokees at the Trail of Tears.
 
-So it's that extreme reaction is something that people reach to when things are tough or are perceived to be tough.
+> Um, it's a very fascinating new way to approach this subject.
 
-What's interesting, I mean, we see fascism in power now in the Netherlands, in Italy, we seek like in Victor Orban's Hungary, the illiberal democracy and so on, the rise of the AFD in Germany, the right wing of the Republican Party in the US and so on, are all appealing to people's basest instincts in this respect.
+> Can you talk about it a little bit?
 
-And there is a fight back against it.
+Dan Stone:
+> Yes.
 
-But the, I think from a historian's point of view, at least you can see it's fascinating, let's say, that something that was created nearly 100 years ago, well, more than just over 100 years ago now if we think about Italian fascism, continues to shape the way that people think and behave today, even in the face of quite different circumstances.
+> I think it works to a certain extent.
 
-Or a lot of historical evidence.
+> So there's no doubt, for example, that, um, the British Empire and the expansion of the US were things that, uh, fascinated Hitler.
 
-Professor, is there anything that I didn't ask about that you feel like we should get into or talk about a little bit here?
+> He talks at one point about how, um, Russia will be our India and that with in the same way that the British rule, uh, several hundred million Indians with a couple of hundred thousand men.
 
-I'm still digesting some of the things you've said, but is there anything we haven't spoken about that needs to be said?
+> So we'll do the same in, in Russia.
 
-No, not really.
+> And but I think he's he's much more fascinated by the American case.
 
-I mean, I think there are themes in the book that we haven't touched on very much.
+> He sees the westward expansion of, of the US as really a model for the eastward expansion of, uh, of Lebensraum living space for, for Germany, because Poland is kind of an irrelevance that just has to be swept away.
 
-For example, the concentration camp system, the sub camps that I think people don't know.
+> Uh, really, what, uh, what the Nazis are interested in is, is Ukraine and western Russia up to the Urals.
 
-More than 1100, right?
+> This is the real, uh, space that the Germans need to to develop and grow.
 
-Something like that?
+> So the Nazi project is, I think, inherently a colonial one in that sense, when it comes to the Holocaust, it's a little bit harder to explain using that paradigm, because in the case of, let's say, the the treatment of Native Americans, uh, in the US and in Canada and elsewhere, you, you.
 
-More than 1100?
+> Immediately see that these are people who who, from the settlers point of view, have to be got rid of because they are the people who are on the land.
 
-Absolutely.
+> The difference with the Jews is that for the most part, they're not landowners.
 
-More than 1100 sub camps that attach just to the main concentration camps, as well as a whole world of other camps, labor camps and so on, across the whole of Europe.
+> They're a small minority who mostly are urban dwellers, small towns and cities across the whole region.
 
-Many camps also created by Axis regimes, the camps created by the Romanians in Transnistria or the Croats, Jasenovats and other camps.
+> If you're if what you're interested in is the acquisition of territory, you don't need to kill the Jews to do to do that.
 
-These are places that you sometimes come across in memoirs or testimonies by survivors, but that I think haven't really been appreciated as crucial to the history of the Holocaust in many of the mainstream narratives.
+> So the killing of the Jews is about more than simply acquiring territory.
 
-And I've tried to at least start to do some of that work in the book.
+> And the real problem, I think, then comes, well, how do you explain the murder of the Jews of France, or why, late in the war, do the Nazis, uh, go to great lengths to deport the Jews of Corfu or or, uh, Rhodes, or to try and work out how they're going to get hold of the Jews of Albania, for example.
 
-So there are themes like the concentration camp system, as well as, we touched a little bit on collaboration, but I go into a great detail, particularly in one chapter of the book, about what collaboration means, what the different regimes and institutions involved in collaborating with the Third Reich.
+> This this makes no sense if from a colonial point of view, they're I think the only explanation is the idea of, uh, the, the security, the permanent security of, of the German people relying on the eradication of Jews everywhere.
 
-So there are other things that we could talk about, but I think readers can discover those for themselves in the book.
+> So the colonial paradigm works in the sense that the Nazis want to acquire territory, and they want to get rid of the people who who inhabit that territory.
 
-Well, it's a fantastic book.
+> That's why they have this plan, the so-called the hunger plan or the General Plan East, which, uh, has nothing to do with Jews but envisages the murder of between something like 30 to 50 million Slavs eventually to make way for German settlers.
 
-I don't know how you do it, immersing yourself in the primary sources, as you do all the time and keeping your mind and head straight on, but it's fascinating.
+> Uh, but everywhere they go, the first people that the Nazis target are the Jews.
 
-I hope you continue to do this kind of work, and we'd love to talk about the next book when it's out.
+> And that's not because they're landowners.
 
-Thank you so much.
+> That's because they're perceived in this conspiracy theory that we already discussed as this, uh, as a threat to the safety and purity of the Aryan race.
 
-It's been a pleasure.
+Dan Carlin:
+> This is going to be an uncomfortable question because it's an uncomfortable question for me.
 
-Thank you.
+> Um, but when one talks about learning from the past, which is, you know, that this is the great trope of all time, right?
 
-I appreciate it.
+> The learning from history and our or our ability to do.
 
-Take care.
+> But one one thinks of the the statement never again.
 
-Cheers.
+> Right.
 
-Thank you.
+> The idea that, you know, we're going to learn from this, we're never going to have another one of these, but then there will be a politician in a place of all places in Israel that will start using terms like the Amalekites to describe modern day people.
 
-Bye-bye.
+> I don't even know how to get my mind around that, or how something like that didn't prompt an immediate counter-reaction that was nuclear almost in its, in its um, in its, in its nature.
 
-My thanks to Professor Dan Stone for coming on the program.
+> But there's also something so human about the fact that those most affected by the Holocaust might have a politician somewhere who could use a phrase like that and have it work for them.
 
-His latest work is out in paperback now, The Holocaust and Unfinished History[^1].
+> Again, there is no question here, but your book brought up a few very uncomfortable points about using the Holocaust as a rationale or a or a motive.
+
+> You know, I think I think anything that's going to be that large is going to be co-opted by human beings who have agendas.
+
+> But what do we make of the word amalekite coming into play at all?
+
+Dan Stone:
+> Uncomfortable.
+
+> Uh, but I think that the at least we can say that what's currently happening in, in Gaza, um, shows that the subtitle of my book that the Holocaust is An Unfinished History[^1], um, is clearer now than even than when I wrote it.
+
+> Um, your example of amalekite is just one example of many, uh, examples.
+
+> We can point to being used by Israeli far right Israeli ministers to describe the Palestinians in Gaza in similar terms, you know, as human animals and the Palestinians simply as Nazis.
+
+> Um, look, I think, um, George Steiner's fear that the, uh, his opposition to the creation of Israel was not, uh, was on the basis that it would it would simply become a state like any other.
+
+> Is is now in evidence, uh, that you can see that the, um, the Israelis are people like anybody else.
+
+> And so when I talk about the Israelis here, in the same way that people talk about the Germans, I'm talking about the people who are currently in power.
+
+> Uh, and the Israeli cabinet is dominated by far right politicians who, if they were in power, uh, anywhere else in Europe, let's say, um, there would be there would be an outcry, uh, about such people being in power there, people who, for the most part, are not fit to hold office.
+
+> Uh, so.
+
+> And they are people who are driven by conspiracy theories here, I think you can see, um, you can see a kind of Holocaust trauma in, in evidence.
+
+> Um, one of the things that, uh, the survivor, Ruth Klüger wrote in her memoir was, uh, in she relates a conversation that she had with some students when she went back to, to Germany in Göttingen.
+
+> And, uh, they start to, to say, oh, you know, how can the Israelis, of all people who've experienced genocide, uh, treat the Palestinians so badly?
+
+> And she says Auschwitz was not a human rights laboratory.
+
+> You know, it was not it was not an instructional facility.
+
+> Um, you didn't learn anything there about human rights.
+
+> And so this idea that people who are the victims of genocide should behave impeccably.
+
+> Um, actually, the reverse is often the case, and we can point to other cases of genocide and show that those who are the victims often then will behave like perpetrators if the opportunity presents itself or that they have built into their psyche this notion that, um, the only way to defend ourselves is through this all out response.
+
+> Nothing else will do, because otherwise these people are out to get us.
+
+> Uh, and so again, I'm talking about, I think here a small number of people who are in power currently in Israel, but the rhetoric that they're using is, um, is quite scary, I would agree.
+
+Dan Carlin:
+> Let's, let's broaden it out from Israel to a lot of the world, it almost seems like what's going on with that sort of problem with a very far right government in Israel is becoming a trend.
+
+> I mean, that's almost like just keeping up with the Joneses in a lot of other countries where movements and rhetoric that we thought were long gone aren't just thriving again, but the attitudes and the pronouncements of those regimes or wannabe regimes are resonating with human beings on the ground.
+
+> Again, what do we make?
+
+> And your book mentions this quite a bit.
+
+> But I mean, there's a sense here that what we're seeing is a sort of revanchism, if you will, of ideas from the mid 20th century, which, of course were ideas from the late 19th century.
+
+> I mean, there's almost a cyclical nature to some of this stuff.
+
+Dan Stone:
+> I think one of one of the things that's so.
+
+> Important about Nazism.
+
+> And here I'm understanding Nazism as if you like a variety of fascism.
+
+> The most radical variety of fascism is.
+
+> And one reason why actually this period will continue to resonate for for some while is that fascism.
+
+> Somehow it created a store of ideas as well as a kind of an esthetic, uh, a vocabulary that continue that, I think.
+
+> It went beyond what was acceptable in terms of normal Democratic politics, and it appeals to people's deep psychology.
+
+> And there is something, you know, we continue to live in an age of of nation states.
+
+> We think about nation states as the natural way that the world should be ordered.
+
+> And so when people in those states, whether rightly or wrongly, objectively or not, statistically, correctly or not, consider themselves to be under threat.
+
+> This vocabulary, this style that was created by fascism in the mid 20th century comes back into play.
+
+> It is there now, um, you know, the cat's out of the bag and it can't be, uh, put back in again.
+
+> So it's that extreme reaction is something that people reach to when, uh, when things are tough or are perceived to be tough.
+
+> What's interesting, I mean, we see fascism, um, in power now in, in the Netherlands, in Italy, um, we see, like in Viktor Orban's Hungary, the illiberal democracy and so on, uh, the rise of the AfD in Germany, uh, the, the right wing of the Republican Party in the US and so on, um, are all appealing to people's basest instincts in this respect, and there is a fight back against it.
+
+> But the.
+
+> I think from a historians point of view, at least, you can see it's it's fascinating.
+
+> Let's say that something that was created nearly a hundred years ago, uh, well, more than just over 100 years ago now, if we think about Italian fascism, uh, continues to shape the way that people think and and behave today, even in the face of quite different circumstances or a.
+
+Dan Carlin:
+> Lot of historical evidence.
+
+> Professor, is there anything that I didn't ask about that you feel like we should get into or talk about a little bit here?
+
+> I'm still digesting some of the things you've said, but is there anything we haven't spoken about that needs to be said?
+
+Dan Stone:
+> No, not really.
+
+> I mean, I think there are themes in the book that we haven't touched on very much.
+
+> Uh, for example, the the concentration camp system, the subcamps that I think people don't know.
+
+> More than.
+
+> 100.
+
+> Right.
+
+> Something like that.
+
+> More than 1100?
+
+Dan Carlin:
+> Absolutely.
+
+Dan Stone:
+> More than 1100 subcamps attached just to the the main concentration camps, as well as a whole world of other camps, labor camps and so on across the whole of Europe.
+
+> Uh, many, many camps also created by axis regimes.
+
+> Um, the, the camps created by the Romanians in Transnistria or the Croats, Jasenovac and other camps.
+
+> Uh, these are places that, uh, you sometimes come across in, in, uh, memoirs or testimonies by survivors, but that, I think, haven't really been appreciated as crucial to the history of the Holocaust in many of the mainstream narratives.
+
+> And I've tried to, um, at least start to do some of that work in, in the book.
+
+> So there are themes like the concentration camp system, uh, as well as, uh, we touched a little bit on collaboration, but I go into great of a great detail, particularly in one chapter of the book, about what collaboration means, what the different regimes and and institutions involved in collaborating with the Third Reich.
+
+> So there are other things that we could talk about, but I think readers can, uh, discover those for for themselves in the book.
+
+Dan Carlin:
+> Well, it's a fantastic book.
+
+> I don't know how you do it.
+
+> Immersing yourself in the primary sources as you do all the time and keeping your mind and head straight on.
+
+> But it's, uh, it's fascinating.
+
+> I hope you continue to do this kind of work, and we'd love to talk about the next book when it's out.
+
+Dan Stone:
+> Thank you so much.
+
+Dan Stone:
+> It's been a pleasure.
+
+Dan Carlin:
+> Thank you, I appreciate it.
+
+> Take care.
+
+Dan Stone:
+> Thank you.
+
+> Goodbye.
+
+Dan Carlin:
+> My thanks to Professor Dan Stone for coming on the program.
+
+> His latest work is out in paperback now, The Holocaust An Unfinished History[^1].
 
 [^1]: [The Holocaust: An Unfinished History by Dan Stone](https://www.goodreads.com/book/show/139506512-the-holocaust)
 [^2]: [The Gathering Storm by Winston S. Churchill](https://www.goodreads.com/book/show/360253.The_Gathering_Storm)
