@@ -1907,7 +1907,7 @@ You dove into the archives, you read the original stories, you catalog the numbe
 
 Think about how much fortitude one would have to have to do that.
 
-# Conversation with Dan Stone
+# Conversation with Dan Stone: Introducing the Guest Speaker and His Expertise
 
 Dan Carlin:
 > Today is Dan Stone, who's a professor of modern history and the director of the Holocaust Research Institute at Royal Holloway, University of London.
@@ -1938,6 +1938,7 @@ Dan Carlin:
 
 > Hmm.
 
+# Motivation for Writing a New Book on the Holocaust
 Dan Stone:
 > That's a very valid question.
 
@@ -1969,6 +1970,8 @@ Dan Carlin:
 > You've got to deal with people whose countries sometimes prohibit even talking about this in the way that that your book discusses some of this write a sort of a of a shared responsibility for some of these crimes against humanity.
 
 > How does that change what you have to do, and how did you address something like that, knowing that this is going to be read by people who are in countries that maybe deny that they had anything involved in this?
+
+# Transition from Shootings to Gas Chambers
 
 Dan Stone:
 > Mhm.
@@ -2114,6 +2117,9 @@ Dan Carlin:
 
 > If Hitler dies midway through the war, do you think this changes how this whole thing plays out in terms of the number of Jews who end up dying at the end of the war, or any of those sorts of things?
 
+
+# Writing for an International Audience
+
 Dan Stone:
 > It's a very hard question.
 
@@ -2128,6 +2134,8 @@ Dan Stone:
 > Uh, nevertheless, the program was in train and it wouldn't have come immediately crashing to a halt.
 
 > It would have taken some time, I think.
+
+# Majority of Victims Killed in 1942
 
 Dan Carlin:
 > I was, um, you know, and I've read a lot about this, and I still was being shocked by some of the things that I read in your book, in terms of them being novel ideas that I hadn't heard.
@@ -2316,6 +2324,8 @@ Dan Carlin:
 
 > Sure.
 
+# The Einsatzgruppen and the 'Holocaust by Bullets'
+
 Dan Stone:
 > I mean, I think what's important here is that the this this phase of, of the Holocaust, um, we're talking now about the the period immediately after the invasion of the Soviet Union.
 
@@ -2364,6 +2374,8 @@ Dan Stone:
 > It's extraordinarily brutal, but was extremely efficient nevertheless.
 
 > And we think of the, uh, the tens of thousands killed at Babi Yar or in some of the, some of the massacres in, in Transnistria, huge numbers of people shot into, into pits there.
+
+# Dehumanization of Victims and Voluntary Participation
 
 Dan Carlin:
 > You know, I was reading in some of these accounts and, and I think, you know, when you read a lot of this stuff and I can't imagine how you do your job because you read this stuff all the time.
@@ -2567,6 +2579,8 @@ Dan Stone:
 
 > But it also has to be understood as, as emerging out of other things that were happening in, in the first, uh, mass murder projects being carried out by Nazi Germany, that's to say the euthanasia program.
 
+# Hiding the Scale of the Killings
+
 Dan Carlin:
 > Maybe some of it also goes to the idea of hiding this sort of stuff.
 
@@ -2618,6 +2632,8 @@ Dan Stone:
 > Um, Schubert maybe I can't remember, but, uh, you know, this is something that continues to to shock us, and it shouldn't shock us anymore because we we understand there's this, this dialectic of civilization and barbarism that characterizes the Third Reich.
 
 > Uh, but that goes all the way through from the individual perpetrators and their sensibilities through to the architecture of, of the death camps.
+
+# Generational Reactions and Memory
 
 Dan Carlin:
 > I love the line, the banality of evil.
@@ -2730,6 +2746,8 @@ Dan Carlin:
 
 > Can you talk about it a little bit?
 
+# Linking the Holocaust to Colonialism
+
 Dan Stone:
 > Yes.
 
@@ -2774,6 +2792,8 @@ Dan Stone:
 > And that's not because they're landowners.
 
 > That's because they're perceived in this conspiracy theory that we already discussed as this, uh, as a threat to the safety and purity of the Aryan race.
+
+# Lessons and Warnings from the Holocaust 
 
 Dan Carlin:
 > This is going to be an uncomfortable question because it's an uncomfortable question for me.
@@ -2887,6 +2907,8 @@ Dan Stone:
 
 Dan Carlin:
 > Lot of historical evidence.
+
+# Conclusion
 
 > Professor, is there anything that I didn't ask about that you feel like we should get into or talk about a little bit here?
 
