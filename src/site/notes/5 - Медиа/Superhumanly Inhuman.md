@@ -2117,7 +2117,6 @@ Dan Carlin:
 
 > If Hitler dies midway through the war, do you think this changes how this whole thing plays out in terms of the number of Jews who end up dying at the end of the war, or any of those sorts of things?
 
-
 # Writing for an International Audience
 
 Dan Stone:
