@@ -23,6 +23,8 @@
 - [ ] Реализовать стилизацию в edit mode
 - [ ] Реализовать скрытие в read mode
 - [ ] Реализовать команду, которая может повеситься на шорткат
+- [ ] Реализовать панель настроек плагина
+	- [ ] Справочная информация для пользователя
 - [ ] Придумать как это интегрируется в Digital Garden
 - [ ] Проверить работу плагина на мобилке
 ```js
@@ -37,4 +39,5 @@ this.app.emulateMobile(!this.app.isMobile);
 # Думалось попутно
 - Прикольно было бы сделать публикацию документа из Obsidian в живом режиме: я пишу и это сразу обновляется у меня на сайте (если документ опубликован)
 
-
+# Обсуждение в Твиттере
+<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1761440817150132665?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
