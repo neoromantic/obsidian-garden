@@ -52,7 +52,6 @@ this.app.emulateMobile(!this.app.isMobile);
 
 # Думалось попутно
 - Прикольно было бы сделать публикацию документа из Obsidian в живом режиме: я пишу и это сразу обновляется у меня на сайте (если документ опубликован)
-	- Под это в Code Mirror будто бы есть пример:
 
 # Обсуждение в Твиттере
 <blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1761440817150132665?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
