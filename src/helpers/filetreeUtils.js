@@ -90,9 +90,9 @@ function getPermalinkMeta(note, key) {
 }
 
 function assignNested(obj, keyPath, value) {
-  lastKeyIndex = keyPath.length - 1;
+  const lastKeyIndex = keyPath.length - 1;
   for (var i = 0; i < lastKeyIndex; ++i) {
-    key = keyPath[i];
+    let key = keyPath[i];
     if (!(key in obj)) {
       obj[key] = { isFolder: true };
     }
@@ -101,7 +101,7 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
-function getFileTree(data) {
+export function getFileTree(data) {
   const tree = {};
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
@@ -111,4 +111,3 @@ function getFileTree(data) {
   return fileTree;
 }
 
-exports.getFileTree = getFileTree;

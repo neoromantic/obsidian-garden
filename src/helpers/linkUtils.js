@@ -1,11 +1,11 @@
-const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
-const internalLinkRegex = /href="\/(.*?)"/g;
+export const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
+export const internalLinkRegex = /href="\/(.*?)"/g;
 
 function caselessCompare(a, b) {
   return a.toLowerCase() === b.toLowerCase();
 }
 
-function extractLinks(content) {
+export function extractLinks(content) {
   return [
     ...(content.match(wikiLinkRegex) || []).map(
       (link) =>
@@ -30,7 +30,7 @@ function extractLinks(content) {
   ];
 }
 
-function getGraph(data) {
+export function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
@@ -93,8 +93,3 @@ function getGraph(data) {
     links,
   };
 }
-
-exports.wikiLinkRegex = wikiLinkRegex;
-exports.internalLinkRegex = internalLinkRegex;
-exports.extractLinks = extractLinks;
-exports.getGraph = getGraph;

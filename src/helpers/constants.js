@@ -1,4 +1,5 @@
-exports.ALL_NOTE_SETTINGS= [
+export default {
+  ALL_NOTE_SETTINGS: [
     "dgHomeLink",
     "dgPassFrontmatter",
     "dgShowBacklinks",
@@ -9,4 +10,5 @@ exports.ALL_NOTE_SETTINGS= [
     "dgShowToc",
     "dgLinkPreview",
     "dgShowTags"
-];
+  ]
+} 

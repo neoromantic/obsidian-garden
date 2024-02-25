@@ -1,20 +1,31 @@
-const slugify = require("@sindresorhus/slugify");
-const markdownIt = require("markdown-it");
-const fs = require("fs");
-const matter = require("gray-matter");
-const faviconsPlugin = require("eleventy-plugin-gen-favicons");
-const tocPlugin = require("eleventy-plugin-nesting-toc");
-const { parse } = require("node-html-parser");
-const htmlMinifier = require("html-minifier");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+import slugify from "@sindresorhus/slugify";
+import markdownIt from "markdown-it";
+import fs from "fs";
+import matter from "gray-matter";
+import faviconsPlugin from "eleventy-plugin-gen-favicons";
+import tocPlugin from "eleventy-plugin-nesting-toc";
+import {parse} from "node-html-parser";
+import htmlMinifier from "html-minifier";
+import pluginRss from "@11ty/eleventy-plugin-rss";
+import metagen from 'eleventy-plugin-metagen';
 
-const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
-const {
+import {headerToId, namedHeadingsFilter} from "./src/helpers/utils.js";
+import {
   userMarkdownSetup,
   userEleventySetup,
-} = require("./src/helpers/userSetup");
+} from "./src/helpers/userSetup.js";
 
-const Image = require("@11ty/eleventy-img");
+import Image from "@11ty/eleventy-img";
+
+import markdownItAnchor from "markdown-it-anchor";
+import markdownItMark from "markdown-it-mark";
+import markdownItFootnote from "markdown-it-footnote";
+import markdownItMathjax3 from "markdown-it-mathjax3";
+import markdownItAttrs from "markdown-it-attrs";
+import markdownItTaskCheckbox from "markdown-it-task-checkbox";
+import markdownItPlantuml from "markdown-it-plantuml";
+
+
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
@@ -93,7 +104,7 @@ function getAnchorAttributes(filePath, linkTitle) {
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
@@ -101,27 +112,26 @@ module.exports = function (eleventyConfig) {
     breaks: true,
     html: true,
     linkify: true,
-  })
-    .use(require("markdown-it-anchor"), {
+  }).use(markdownItAnchor, {
       slugify: headerToId,
     })
-    .use(require("markdown-it-mark"))
-    .use(require("markdown-it-footnote"))
+    .use(markdownItMark)
+    .use(markdownItFootnote)
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
       };
     })
-    .use(require("markdown-it-mathjax3"), {
+    .use(markdownItMathjax3, {
       tex: {
         inlineMath: [["$", "$"]],
       },
       options: {
-        skipHtmlTags: { "[-]": ["pre"] },
+        skipHtmlTags: {"[-]": ["pre"]},
       },
     })
-    .use(require("markdown-it-attrs"))
-    .use(require("markdown-it-task-checkbox"), {
+    .use(markdownItAttrs)
+    .use(markdownItTaskCheckbox, {
       disabled: true,
       divWrap: false,
       divClass: "checkbox",
@@ -129,7 +139,7 @@ module.exports = function (eleventyConfig) {
       ulClass: "task-list",
       liClass: "task-list-item",
     })
-    .use(require("markdown-it-plantuml"), {
+    .use(markdownItPlantuml, {
       openMarker: "```plantuml",
       closeMarker: "```",
     })
@@ -506,11 +516,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPlugin(faviconsPlugin, {outputDir: "dist"});
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
+
+  eleventyConfig.addPlugin(metagen);
 
 
   eleventyConfig.addFilter("dateToZulu", function (date) {
