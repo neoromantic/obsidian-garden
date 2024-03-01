@@ -31,3 +31,6 @@
 
 # Обсуждение
 <blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1759545318784598472?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+А 2 марта Vercel объявили о том что запускают такую штуку :)
+<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1763632791533850946?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
