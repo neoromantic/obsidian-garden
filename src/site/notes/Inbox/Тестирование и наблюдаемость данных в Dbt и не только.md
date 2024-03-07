@@ -26,6 +26,7 @@
 - [Bigeye](https://www.bigeye.com/) — Find and fix data issues before they break your business
 - [Metaplane](https://metaplane.dev) — Trust the data that powers your business
 	- интегрируется с dbt и <mark style="background: #ADCCFFA6;">metabase</mark> (для lineage)
+	- умеет в column-level lineage
 	- от $1500 в месяц (за пределами Free версии)
 	- слабые возможности по интеграции (slack, ms teams, jira, pagerduty)
 - [Datafold](https://www.datafold.com/) — Automated testing for data engineers
@@ -67,6 +68,12 @@
 	- Опенсурс проект [DataHub](https://datahubproject.io/)  и его [Managed-вариант](https://www.acryldata.io/observe) — решение для объединения метаданных разных хранилищ и систем и обеспечения observability 
 	- [Monte Carlo | Data Reliability Delivered](https://www.montecarlodata.com/) — система для мониторинга данных и управления инцидентами (закрытая)
 	- [GX: a proactive, collaborative data quality platform • Great Expectations](https://greatexpectations.io/)
+- [The Four Pillars of Data Observability | Metaplane](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability)
+	- Есть 4 столпа data observability 
+	- [Метрики](https://www.metaplane.dev/blog/data-quality-metrics-for-data-warehouses) — внутренние характеристики данных. Статистика, уникальность, точность и т.п.
+	- Метаданные — внешние характеристики. Объем, схема, свежесть, владелец.
+	- Наследственность (Lineage) — связи внутри данных. Что зависит от чего, что получилось из чего
+	- Логи — взаимодействия между машинами и между машиной и человеком. Запросы к warehouse, трансформации dbt, загрузка и выгрузка.
 - [7 dbt Testing Best Practices  | Datafold](https://www.datafold.com/blog/7-dbt-testing-best-practices)
 	- Есть singular тесты, простые .sql файлы с select statement, которые возвращают ошибочные rows (или ничего, если тест проходит)
 	- Есть generic тесты, которые можно применять к разным таблицам (типа not null у колонки)
@@ -139,16 +146,13 @@
 	- обязательно установить [store_failures](https://docs.getdbt.com/reference/resource-configs/store_failures) в true
 	- используют metadata-файл для тестов, который является [seed](https://docs.getdbt.com/docs/build/seeds). Там хранится название теста, владелец, важность теста, и другие дополнительные поля.
 	- далее, данные агрегируются средствами dbt, объединяя результаты запуска тестов с  метаданными. Из этой базовой таблицы строятся всевозможные views, которые предоставляют дешборды для owners, по severity и другим срезам
-- [The Four Pillars of Data Observability | Metaplane](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability)
 - [dbt Tests. A necessary assertion to ensure the… | by Jimmy Pang | Data Panda | Medium](https://medium.com/data-panda/dbt-tests-813f0aeacac8)
 	- В Elementary [есть дополнительные тесты](https://docs.elementary-data.com/data-tests/introduction) для моделей
 	- [Указание severity для тестов](https://docs.getdbt.com/reference/resource-configs/severity), в виде пороговых значений на количество ошибок
 	- Обязательно чтобы у всех моделей были primary keys + поставить тест на not_null & unique
 	- Генерировать суррогатные ключи, используя [макро из dbt-utils](https://github.com/dbt-labs/dbt-utils#generate_surrogate_key-source)
-- [Get deeper observability into your dbt pipelines  | Hightouch](https://hightouch.com/playbooks/dbt-pipeline-observability)
-- [Monitor dbt performance with Bigeye](https://docs.bigeye.com/docs/how-to-implement-dbt-observability-with-bigeye)
-- [Reddit - Dive into anything](https://www.reddit.com/r/dataengineering/comments/vdp7wl/so_youre_using_dbt_testswhats_next_in_data_quality/)
 - [So you're using dbt tests—Validio is what's next in data quality validation for scalability and comprehensiveness](https://validio.io/blog/whats-next-in-data-quality)
+	- кроме warehouses (таблиц), есть и другие данные (object stores и streams), которые до warehouse могут и не доходить, а тестировать их тоже надо
 
 # Находки по пути
 Здесь то, что не относится к теме тестирования, к dbt и, может быть вообще к разработке, но попалось по пути.
