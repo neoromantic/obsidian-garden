@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/attica/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#History"]}
+
 ---
 
 # Attica (2021)
