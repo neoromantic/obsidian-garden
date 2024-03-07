@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/his-house/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Horror","#Thriller"]}
 ---
 
 # His House (2020)
