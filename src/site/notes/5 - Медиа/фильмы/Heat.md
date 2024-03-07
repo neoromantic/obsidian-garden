@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/heat/","contentClasses":"movie","tags":["to-watch","фильм","#Action","#Crime","#Drama"]}
 ---
 
 # Heat (1995)
