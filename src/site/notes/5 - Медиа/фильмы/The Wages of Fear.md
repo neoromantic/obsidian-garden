@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/the-wages-of-fear/","contentClasses":"movie","tags":["to-watch","фильм","#Adventure","#Drama","#Thriller"]}
+
 ---
 
 # The Wages of Fear (1953)
