@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/anatomy-of-a-murder/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Mystery"]}
+
 ---
 
 # Anatomy of a Murder (1959)
