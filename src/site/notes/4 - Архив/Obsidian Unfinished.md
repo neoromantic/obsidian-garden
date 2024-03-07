@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/4-arhiv/obsidian-unfinished/"}
 ---
 
 Плагин для Obsidian, который позволяет пометить части документа как "незаконченные". 
