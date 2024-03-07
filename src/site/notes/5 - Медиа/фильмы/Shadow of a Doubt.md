@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/shadow-of-a-doubt/","contentClasses":"movie","tags":["to-watch","фильм","#Film-Noir","#Thriller"]}
 ---
 
 # Shadow of a Doubt (1943)
