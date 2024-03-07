@@ -165,4 +165,6 @@
 - [dbt action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/dbt-action)
 
 # Обсуждение в Твиттере
+<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1765736017615863884?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1765258852306673714?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
