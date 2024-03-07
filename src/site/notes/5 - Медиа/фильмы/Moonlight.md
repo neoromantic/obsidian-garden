@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/moonlight/","contentClasses":"movie","tags":["to-watch","фильм","#Drama"]}
+
 ---
 
 # Moonlight (2016)
