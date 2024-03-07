@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing","permalink":"/data-observability-dbt-testing/"}
 ---
 
 # Premise
