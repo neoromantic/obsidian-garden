@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/the-decline-of-western-civilization/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#History","#Music"]}
 ---
 
 # The Decline of Western Civilization (1981)
