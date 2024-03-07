@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/in-the-heat-of-the-night/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Mystery","#Thriller"]}
+
 ---
 
 # In the Heat of the Night (1967)
