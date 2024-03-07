@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/the-congress/","contentClasses":"movie","tags":["to-watch","фильм","#Animation","#Drama","#Sci-Fi"]}
 ---
 
 # The Congress (2013)
