@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/summer-1993/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Family"]}
+
 ---
 
 # Summer 1993 (2017)
