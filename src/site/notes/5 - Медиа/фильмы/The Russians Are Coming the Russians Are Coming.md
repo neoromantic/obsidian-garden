@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/the-russians-are-coming-the-russians-are-coming/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy","#War"]}
 ---
 
 # The Russians Are Coming the Russians Are Coming (1966)
