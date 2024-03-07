@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/tampopo/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy"]}
 ---
 
 # Tampopo (1985)
