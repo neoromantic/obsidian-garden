@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/fantastic-voyage/","contentClasses":"movie","tags":["to-watch","фильм","#Adventure","#Sci-Fi"]}
+
 ---
 
 # Fantastic Voyage (1966)
