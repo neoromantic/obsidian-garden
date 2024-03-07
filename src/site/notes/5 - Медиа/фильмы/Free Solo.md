@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/free-solo/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Adventure","#Sport"]}
 ---
 
 # Free Solo (2018)
