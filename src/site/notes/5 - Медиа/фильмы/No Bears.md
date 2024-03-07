@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/no-bears/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Romance"]}
 ---
 
 # No Bears (2022)
