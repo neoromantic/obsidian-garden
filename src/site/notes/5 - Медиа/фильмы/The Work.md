@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/the-work/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary"]}
+
 ---
 
 # The Work (2017)
