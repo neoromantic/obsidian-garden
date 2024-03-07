@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/superhumanly-inhuman/","dgShowToc":true}
+
 ---
 
 This is a transcript of a podcast [Hardcore History: Addendum](https://www.dancarlin.com/addendum/) by [Dan Carlin](https://x.com/hardcorehistory), episode 28, about Holocaust, evil governments, and about people of various nature.
