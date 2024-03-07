@@ -117,8 +117,8 @@
 	- Описывают стандартные пакеты codegen, utils, expectations
 	- Описывают пакеты [dbt-labs/dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator), [dbt profiler](https://hub.getdbt.com/data-mie/dbt_profiler/latest/), [dbt_artifacts](https://github.com/brooklyn-data/dbt_artifacts) — см. [[Inbox/Тестирование и наблюдаемость данных в Dbt и не только#^u2p37h\|выше]]
 - [Data Observability on Steroids](https://hiflylabs.com/blog/2022/07/08/data-observability-on-steroids)
-	- [What is re_data?](https://docs.getre.io/master/docs/re_data/introduction/whatis_data) — генератор отчетов о dbt-проекте, включает lineage данных, их статистические характеристики и результаты выполнения тестов 
-	- [What is re\_cloud?](https://docs.getre.io/master/docs/re_cloud/whatis_cloud) — хостинг отчетов dbt, включая отчеты redata, dbt docs, elementary 
+	- [What is re_data?](https://docs.getre.io/master/docs/re_data/introduction/whatis_data) — генератор отчетов о dbt-проекте, включает lineage данных, их статистические характеристики и результаты выполнения тестов
+	- [What is re\_cloud?](https://docs.getre.io/master/docs/re_cloud/whatis_cloud) — хостинг отчетов dbt, включая отчеты redata, dbt docs, elementary
 	- [Data Observability Features Built for Today's Data Teams | Metaplane](https://www.metaplane.dev/platform-overview) — платформа для мониторинга данных, управления инцидентами и алертинга. Якобы умеет в автоматизированный поиск аномалий.
 - [Data quality dimensions for better decision-making | Datafold](https://www.datafold.com/blog/data-quality-dimensions)
 	- Есть семь измерений "качества данных"
