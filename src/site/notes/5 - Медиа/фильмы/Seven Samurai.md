@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/seven-samurai/","contentClasses":"movie","tags":["to-watch","фильм","#Action","#Drama"]}
+
 ---
 
 # Seven Samurai (1954)
