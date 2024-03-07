@@ -1,0 +1,158 @@
+---
+{"dg-publish":true,"permalink":"/inbox/testirovanie-i-nablyudaemost-dannyh-v-dbt-i-ne-tolko/"}
+---
+
+# Premise
+<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1765258852306673714?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# The Practice
+- [ ] Подключить [slidoapp/dbt-coverage: One-stop-shop for docs and test coverage of dbt projects.](https://github.com/slidoapp/dbt-coverage)
+- [ ] Подключить [dbt-labs/dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator)
+- [ ] Использовать пакет [Meta Testing](https://hub.getdbt.com/tnightengale/dbt_meta_testing/latest/) для установки требований к тестам
+- [ ] Имплементировать базовые generic тесты dbt-моделей
+- [ ] Имплементировать singular тесты dbt-моделей
+- [ ] Рассмотреть целесообразность миграции с dbt core на dbt cloud для PR-based тестирования, CI, алертов, Performance reports и т.п.
+
+# Сервисы и пакеты
+- [Elementary Data | dbt native data observability](https://www.elementary-data.com/)
+	- [GitHub - elementary-data/elementary: The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.](https://github.com/elementary-data/elementary)
+	- [GitHub - elementary-data/dbt-data-reliability: Data anomalies monitoring as dbt tests and dbt artifacts uploader.](https://github.com/elementary-data/dbt-data-reliability)
+- [Synq | Reliability Platform for business-critical data | Synq](https://www.synq.io/)
+- [Data Observability Platform for Modern Data Teams | Metaplane](https://metaplane.dev)
+	- интегрируется с dbt и <mark style="background: #ADCCFFA6;">metabase</mark> (для lineage)
+	- от $1500 в месяц (за пределами Free версии)
+	- слабые возможности по интеграции (slack, ms teams, jira, pagerduty)
+- [dbt Cloud | dbt Labs](https://www.getdbt.com/product/dbt-cloud)
+- [Datafold - Automated testing for data engineers](https://www.datafold.com/)
+	- [GitHub - datafold/data-diff: Compare tables within or across databases](https://github.com/datafold/data-diff)
+- [Soda Data Quality Platform](https://www.soda.io/)
+- [mjirv/dbt-datamocktool](https://github.com/mjirv/dbt-datamocktool) — юнит-тесты для dbt
+- [dbt_meta_testing](https://hub.getdbt.com/tnightengale/dbt_meta_testing/latest/) — пакет dbt, которым можно установить требования к тестам: что они есть, что они документированы
+- [EqualExperts/dbt-unit-testing](https://github.com/EqualExperts/dbt-unit-testing) — макросы для юнит-тестов dbt на основе SQL
+- [dbt-labs/dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator) — контроль качества dbt-проекта в целом, в смысле соответствия практикам dbt-labs 
+{ #u2p37h}
+
+- [dbt_artifacts](https://github.com/brooklyn-data/dbt_artifacts) — пакет, который выгружает в ваш warehouse информацию о самом dbt проекте  (модели, их запуски, тесты и т.п.) и генерируют витрины (marts) для их анализа. Это позволяет, например, иметь метрику затраченных ресурсов или свежести моделей.
+- [dbt profiler](https://hub.getdbt.com/data-mie/dbt_profiler/latest/) — набор макросов, генерирущих _профиль_ таблицы: статистические показатели, отношения (relations), типы. Этот пакет можно использовать для генерации документации.
+# Reading List
+- [Building a Data Platform in 2024. How to build a modern, scalable data…](https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef)
+	- [Fivetran | Automated data movement platform](https://fivetran.com/) и [Airbyte | Open-Source Data Integration Platform | ELT tool](https://airbyte.com/) — ведущие решения для batch выгрузки/загрузки данных 
+	- [Confluent | Apache Kafka Reinvented for the Cloud](https://www.confluent.io/) — ведущее решение для стриминга данных
+	- [Debezium](https://debezium.io/) — CDC-решение
+		- Change Data Capture это когда сами CRUD-команды базы данных используются как источник событий для синхронизации
+	- [About dbt Core and installation | dbt Developer Hub](https://docs.getdbt.com/docs/core/installation-overview) — незаменимый и ключевой элемент дата-платформы, в контексте слоя трансформации.
+	- [dbt mesh](https://docs.getdbt.com/best-practices/how-we-mesh/mesh-1-intro) — способ объединить несколько dbt-проектов и масштабировать систему трансформации
+	- [Apache Airflow](https://airflow.apache.org/) остается основным решением для оркестрации, вместе со своими managed-версиями:
+		- [What Is Amazon Managed Workflows for Apache Airflow? - Amazon Managed Workflows for Apache Airflow](https://docs.aws.amazon.com/mwaa/latest/userguide/what-is-mwaa.html)
+		- [Deliver Your Data On Time with Astronomer: The Best Place to Run Apache Airflow™](https://astronomer.io/)
+		- [Prefect | Modern Workflow Orchestration](https://www.prefect.io/) и [Dagster | Cloud-native orchestration of data pipelines](https://dagster.io/) — вдохновляющие альтернативы
+	- В визуализации продолжают доминировать традиционные решения: [Tableau](https://www.tableau.com/), [PowerBI](https://www.microsoft.com/en-us/power-platform/products/power-bi/), [Looker](https://lookerstudio.google.com/u/0/navigation/reporting), and [Qlik](https://www.qlik.com/us)
+	- Новые платформы [Sigma Computing. Business Intelligence and Analytics Solution](https://www.sigmacomputing.com/) и [Welcome | Superset](https://superset.apache.org/) интересны
+	- Интересен пакет [Streamlit • A faster way to build and share data apps](https://streamlit.io/), позволяющий быстро строить интерфейсы для работы с данными на питоне
+	- Reverse ETL — выгрузка данных из аналитики назад в оконечные приложения, и здесь безусловно лидирует [Hightouch | Composable CDP & Reverse ETL | Activate data | Hightouch](https://hightouch.com/)
+	- Опенсурс проект [DataHub](https://datahubproject.io/)  и его [Managed-вариант](https://www.acryldata.io/observe) — решение для объединения метаданных разных хранилищ и систем и обеспечения observability 
+	- [Monte Carlo | Data Reliability Delivered](https://www.montecarlodata.com/) — система для мониторинга данных и управления инцидентами (закрытая)
+	- [GX: a proactive, collaborative data quality platform • Great Expectations](https://greatexpectations.io/)
+- [7 dbt Testing Best Practices  | Datafold](https://www.datafold.com/blog/7-dbt-testing-best-practices)
+	- Есть singular тесты, простые .sql файлы с select statement, которые возвращают ошибочные rows (или ничего, если тест проходит)
+	- Есть generic тесты, которые можно применять к разным таблицам (типа not null у колонки)
+	- Начать стоит с generic тестов, проверяющих на not_null, unique, accepted_values, [relationships](https://docs.getdbt.com/reference/resource-properties/tests#relationships)
+	- Потом написать специфические singular тесты 
+	- Можно использовать [dbt-expectations](https://github.com/calogica/dbt-expectations) - библиотеку generic тестов на разные случаи жизни
+		- [GX: a proactive, collaborative data quality platform • Great Expectations](https://greatexpectations.io/) —  специальный отдельный сервис для работы с качеством данных
+		- Полезные тесты `expect_row_values_to_have_recent_data`, `expect_column_to_exist`
+	- Следует тестировать не только downstream модели, но и sources, включая CSV
+	- Для алертов можно использовать [dbt cloud](https://docs.getdbt.com/docs/dbt-cloud/using-dbt-cloud/cloud-notifications), или анализировать логи ([включить json-структурированные логи](https://docs.getdbt.com/reference/events-logging))
+	- Тесты надо [Accelerating dbt core CI/CD with GitHub actions: A step-by-step guide | Datafold](https://www.datafold.com/blog/accelerating-dbt-core-ci-cd-with-github-actions-a-step-by-step-guide)
+- [What the heck is data diffing?! | Datafold](https://www.datafold.com/blog/what-the-heck-is-data-diffing)
+	- [Datafold - Automated testing for data engineers](https://www.datafold.com/) — автоматизированные тесты для данных, проверяющие изменения данных в рамках CI, дающие доступ к column-level lineage
+	- (price model не открывают, исключительно через звонок с их инженером, то есть видимо дорого)
+	- есть [бесплатный CLI-инструмент](https://github.com/datafold/data-diff) для data diff
+	- Data Diff — это тестирование с помощью непосредственного сравнения данных в разных хранилищах (например: новая версия vs текущий продакшен)
+	- dbt тесты не позволяют увидеть "неожиданные изменения в данных" — они по определению следят только за "ожидаемыми"
+	- диффы стоит проверять при разработке, чтобы видеть как именно ваш код меняет данные
+	- при деплойменте: в качестве проверки в рамках CI чтобы не зарелизить поломанное
+	- **во время миграций данных** — для непосредственной проверки качества миграции
+	- при репликациях — для контроля качества репликации
+- [A Simple (Yet Effective) Approach to Implementing Unit Tests for dbt Models | by Mahdi Karabiben | Towards Data Science](https://towardsdatascience.com/a-simple-yet-effective-approach-to-implementing-unit-tests-for-dbt-models-da2583ea8e79)
+	- Кроме dbt тестов можно говорить также о dbt unit tests 
+	- Тестируемый unit — это как сами модели, так и CTE, из которых они состоят
+	- Структуру модели надо стандартизировать: import CTEs, Intermediate CTEs, Final CTE
+	- Тестировать надо intermediate CTEs и final CTE
+	- Первый компонент системы тестирования: mock inputs в виде [dbt seeds](https://docs.getdbt.com/docs/build/seeds)
+	- Второй компонент: expected outputs, в виде тех же CSV.
+	- Процесс тестирования это просто сравнение таблицы созданной из seed.input через трансформации dbt и таблицы expected outputs
+	- Для непосредственно сравнения можно использовать пакет [dbt_audit_helper](https://github.com/dbt-labs/dbt-audit-helper) или систему вроде [Soda Core](https://github.com/sodadata/soda-core)
+	- Описан общий процесс системы юнит-тестирования, но реализовать его (подмену референсов на таблицы моками и сравнение с expectation) нужно будет реализовать самим
+- [Unit Testing · dbt-labs/dbt-core · Discussion #8275 · GitHub](https://github.com/dbt-labs/dbt-core/discussions/8275)
+	- Подробное обсуждение предлагаемого процесса Unit-тестирования в dbt core, которое запланировано выпустить в версии 1.8
+- [Audit\_helper in dbt: Bringing data auditing to a higher level | dbt Developer Blog](https://docs.getdbt.com/blog/audit-helper-for-migration)
+	- пакет, который помогает провести аудит таблиц через сравнение данных (обычно для миграций или рефакторинга)
+	- предоставляет два основных макроса: `compare_queries` и `compare_column_values`
+	- `compare_queries` позволяет сравнить строки, исключив некоторые колонки, если нужно, и получить отчёт о совпадении данных 
+	- `compare_column_values` сравнивает значения в конкретной колонке для проверки её совместимости между хранилищами
+	  ![Pasted image 20240307153405.png|300](/img/user/files/Pasted%20image%2020240307153405.png)
+- [Data Observability dbt Packages | The Infinite Lambda Blog](https://infinitelambda.com/data-observability-dbt-packages/)
+	- Описывают стандартные пакеты codegen, utils, expectations
+	- Описывают пакеты [dbt-labs/dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator), [dbt profiler](https://hub.getdbt.com/data-mie/dbt_profiler/latest/), [dbt_artifacts](https://github.com/brooklyn-data/dbt_artifacts) — см. [[Inbox/Тестирование и наблюдаемость данных в Dbt и не только#^u2p37h\|выше]]
+- [Data Observability on Steroids](https://hiflylabs.com/blog/2022/07/08/data-observability-on-steroids)
+	- [What is re_data?](https://docs.getre.io/master/docs/re_data/introduction/whatis_data) — генератор отчетов о dbt-проекте, включает lineage данных, их статистические характеристики и результаты выполнения тестов 
+	- [What is re\_cloud?](https://docs.getre.io/master/docs/re_cloud/whatis_cloud) — хостинг отчетов dbt, включая отчеты redata, dbt docs, elementary 
+	- [Data Observability Features Built for Today's Data Teams | Metaplane](https://www.metaplane.dev/platform-overview) — платформа для мониторинга данных, управления инцидентами и алертинга. Якобы умеет в автоматизированный поиск аномалий.
+- [Data quality dimensions for better decision-making | Datafold](https://www.datafold.com/blog/data-quality-dimensions)
+	- Есть семь измерений "качества данных"
+	- Точность. Обычно меряют в процентах. Может падать из-за задержек, ошибок ввода, ошибок обработки
+	- Полнота. Например, "у нас есть адрес 95% клиентов"
+	- Консистентность. Единообразие в форматах (24.99USD vs $24.99), таймзонах. Измерять проще всего сравнивания одни и те же даные в разных отчетах.
+	- Надежность. Постоянство данных, отсутствие "мельканий", регулярность. То, насколько можно доверять отдельному измерению. Для проверки можно сравнивать с независимым источником или делать повторные измерения.
+	- Своевременность. Прогноз погоды на завтра будет не нужен через неделю. Если данные поступают медленно, невозможно делать качественные прогнозы. Метрика: задержка между сбором данных и моментом, когда они готовы к использованию. Можно иметь алерты по staleness.
+	- Уникальность. Отсутствие (ошибочно) дублирующихся данных. Другой пример: плохо организованная версионность — две таблицы типа `customers` и `customers_v1`
+	- Полезность. Субъективная характеристика того, насколько ваши модели кому-то реально полезны. Напоминает что не всегда надо строить сложные ML-модели, где можно обойтись пивот-таблицами
+- [dbt at Super Part 3: Observability | by Jonathan Talmi | Super.com | Medium](https://medium.com/super/dbt-at-super-part-3-observability-c8755109901f)
+	- Хранить результаты запусков и другие артефакты в warehouse и использовать BI (metabase) для анализа и алертов
+	- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+	- Добавлять в манифест модели (dbt meta) имя owner'а данных, чтобы в алертах можно было сразу тегать того, кто отвечает, например, за freshness
+	- OS Python Package, от Elementary, который умеет слать уведомления в Slack / MS Teams (note: есть ли способ использовать slack api чтобы получать сообщения в Discord?)
+	- Elementary позволяет исследовать время запуска моделей и их стоимость
+- [dbt: How We Improved Our Data Quality by Cutting 80% of Our Tests | by Noah Kennedy | Better Programming](https://betterprogramming.pub/dbt-how-we-improved-our-data-quality-by-cutting-80-of-our-tests-78fc35621e4e)
+	- главный блокер хорошей системы тестирования: наблюдаемость и actionability тестов (когда они падают). Мы всё улучшили, попутно убрав 80% тестов.
+	- трехшаговый процесс: детальные высококачественные тесты, агрегация результатов тестирования, построение вьюх для результатов тестов с разделением по владельцам и/или важности.
+	- тесты должны явно указывать свою серьезность (severity)
+	- каждый тест должен соответствовать установленным нормам [[Inbox/RACI-матрица\|RACI]] (кто будет чинить, кого надо информировать)
+	- два класса тестов: data integrity и context-driven. 
+	- data integrity тесты чинят программисты, context-driven предполагают участие людей из предметной области
+	- строгое название тестов (table_name__column_name__test_name) и [test aliasing](https://docs.getdbt.com/reference/resource-configs/alias)
+	- обязательно установить [store_failures](https://docs.getdbt.com/reference/resource-configs/store_failures) в true
+	- используют metadata-файл для тестов, который является [seed](https://docs.getdbt.com/docs/build/seeds). Там хранится название теста, владелец, важность теста, и другие дополнительные поля.
+	- далее, данные агрегируются средствами dbt, объединяя результаты запуска тестов с  метаданными. Из этой базовой таблицы строятся всевозможные views, которые предоставляют дешборды для owners, по severity и другим срезам
+- [The Four Pillars of Data Observability | Metaplane](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability)
+- [dbt Test Results as Data. Recently we were approached with a use… | by Daniel Walker | Medium](https://medium.com/@danielpdwalker/dbt-test-results-as-data-50e7bd92ba8e)
+- [dbt Tests. A necessary assertion to ensure the… | by Jimmy Pang | Data Panda | Medium](https://medium.com/data-panda/dbt-tests-813f0aeacac8)
+	- В Elementary [есть дополнительные тесты](https://docs.elementary-data.com/data-tests/introduction) для моделей
+	- [Указание severity для тестов](https://docs.getdbt.com/reference/resource-configs/severity), в виде пороговых значений на количество ошибок
+	- Обязательно чтобы у всех моделей были primary keys + поставить тест на not_null & unique
+	- Генерировать суррогатные ключи, используя [макро из dbt-utils](https://github.com/dbt-labs/dbt-utils#generate_surrogate_key-source)
+- [Get deeper observability into your dbt pipelines  | Hightouch](https://hightouch.com/playbooks/dbt-pipeline-observability)
+- [How to add observability to your dbt deployment - Show and Tell - dbt Community Forum](https://discourse.getdbt.com/t/how-to-add-observability-to-your-dbt-deployment/3451)
+- [Implementing Data Observability in Modern Data Warehouses using dbt | by Shankar Narayanan SGS | Snowflake | Medium](https://medium.com/snowflake/implementing-data-observability-in-modern-data-warehouses-using-dbt-5bd0165ae517)
+- [Leveling Up Your dbt Tests in 7 Steps | HackerNoon](https://hackernoon.com/leveling-up-your-dbt-tests-in-7-steps)
+- [Maayan Salom on LinkedIn: dbt observability 101: How to monitor dbt run and test results](https://www.linkedin.com/posts/maayansa_dbt-observability-101-how-to-monitor-dbt-activity-6963430382218141696-10I2/)
+- [Mastering Data Quality and Observability for Optimal Data Quality | Datafold](https://www.datafold.com/blog/data-observability-tools-vs-data-quality-tools)
+- [Monitor dbt performance with Bigeye](https://docs.bigeye.com/docs/how-to-implement-dbt-observability-with-bigeye)
+- [Observability within dbt](https://www.getdbt.com/coalesce-2021/observability-within-dbt)
+- [python - Can the results of dbt test be converted to report - Stack Overflow](https://stackoverflow.com/questions/61238395/can-the-results-of-dbt-test-be-converted-to-report)
+- [Reddit - Dive into anything](https://www.reddit.com/r/dataengineering/comments/vdp7wl/so_youre_using_dbt_testswhats_next_in_data_quality/)
+- [Sifflet | Full Data Stack Observability for Data Engineers and Data Consumers](https://www.siffletdata.com/)
+- [SQL cookbook for dbt: scheduling, orchestration and observability | by Hugo Lu | Data Engineer Things](https://blog.det.life/sql-cookbook-for-dbt-scheduling-orchestration-and-observability-2a89cfd958de)
+- [State of Data Quality Monitoring in 2024](https://www.metaplane.dev/state-of-data-quality-monitoring-2024)
+- [The 5 essential data quality checks in analytics](https://www.getdbt.com/blog/data-quality-checks)
+- [Tracking dbt Test Success Rates Over Time](https://www.getdbt.com/blog/dbt-live-apac-tracking-dbt-test-success)
+
+# Находки по пути
+Здесь то, что не относится к теме тестирования, к dbt и, может быть вообще к разработке, но попалось по пути.
+
+- [Date dimension: How to Create a Practical and Useful Date Dimension in dbt | by Gabriel Campos | Indicium Engineering | Medium](https://medium.com/indiciumtech/date-dimension-how-to-create-a-practical-and-useful-date-dimension-in-dbt-5ee70a18f3bb)
+- [GitHub - mckaywrigley/chatbot-ui: AI chat for every model.](https://github.com/mckaywrigley/chatbot-ui)
+- [Deepnote: Analytics and data science notebook for teams.](https://deepnote.com/) — AI-supported блокноты для работы с данными
+- [Managing a dynamic dbt project at Whatnot | Whatnot Engineering](https://medium.com/whatnot-engineering/managing-a-dynamic-dbt-project-929db0a134fb)
+- Брошюра о тестировании в dbt от [Datafold](https://www.datafold.com/): [[Data Testing with dbt Practical Guide.pdf]]
