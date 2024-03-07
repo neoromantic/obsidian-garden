@@ -23,7 +23,7 @@ We're going to issue one of our rare pre-show warnings before the conversation w
 Now, obviously, when you have a show entitled hardcore history, nobody should be expecting much in the way of rainbows and unicorns.
 
 That is understood.
-
+``
 But sometimes the material gets even darker than normal, and today is going to be one of those times.
 
 I don't think it's as heavy duty or as intense as the painful attainment show we did on public executions and public violence and all that sort of stuff, but maybe not because the material is any lighter because it isn't, but perhaps because the show isn't quite as long and doesn't hammer you for quite as significant a duration, maybe you could say.
