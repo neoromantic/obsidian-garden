@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-kontent/idei/plagin-dlya-obsidian-vstavlyayushhij-ssylki-na-sajty-iz-gugl/"}
+
 ---
 
 Когда пишешь статью, часто нужно вставить много ссылок на сайт какого-то продукта (ну типа [Obsidian](https://obsidian.md/)), может быть на какие-то более частные типы контента тоже.
