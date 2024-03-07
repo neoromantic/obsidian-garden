@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/the-thing/","contentClasses":"movie","tags":["to-watch","фильм","#Horror","#Mystery","#Sci-Fi"]}
+
 ---
 
 # The Thing (1982)
