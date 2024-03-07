@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/the-philadelphia-story/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy","#Romance"]}
 ---
 
 # The Philadelphia Story (1940)
