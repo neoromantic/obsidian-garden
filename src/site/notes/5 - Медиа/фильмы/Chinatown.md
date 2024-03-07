@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/chinatown/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Mystery","#Thriller"]}
+
 ---
 
 # Chinatown (1974)
