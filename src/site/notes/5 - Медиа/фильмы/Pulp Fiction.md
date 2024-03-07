@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/pulp-fiction/","contentClasses":"movie","tags":["фильм","#Crime","#Drama"]}
+
 ---
 
 # Pulp Fiction (1994)
