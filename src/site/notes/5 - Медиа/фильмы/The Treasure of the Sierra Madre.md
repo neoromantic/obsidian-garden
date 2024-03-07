@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/the-treasure-of-the-sierra-madre/","contentClasses":"movie","tags":["to-watch","фильм","#Adventure","#Drama","#Western"]}
 ---
 
 # The Treasure of the Sierra Madre (1948)
