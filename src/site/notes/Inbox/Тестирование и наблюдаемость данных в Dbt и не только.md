@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing","permalink":"/data-observability-dbt-testing/"}
+
 ---
 
 # Premise
@@ -11,9 +11,9 @@
 - [ ] Имплементировать базовые generic тесты dbt-моделей
 - [ ] Имплементировать singular тесты dbt-моделей
 - [ ] Рассмотреть целесообразность миграции с dbt core на dbt cloud для PR-based тестирования, CI, алертов, Performance reports и т.п.
-- [ ] Описать внешних потребителей в виде [exposures](https://docs.getdbt.com/docs/build/exposures), интегрировать dbt и metabase{dbt-metabase|gray}
-- [ ] Интегрировать re_data{redata|gray}
-- [ ] Реализовать хостинг документации дата-платформы (dbt docs в 1ю очередь), возможно, с re_cloud {recloud|gray|10}
+- [ ] Описать внешних потребителей в виде [exposures](https://docs.getdbt.com/docs/build/exposures), интегрировать dbt и metabase
+- [ ] Интегрировать re_data
+- [ ] Реализовать хостинг документации дата-платформы (dbt docs в 1ю очередь), возможно, с re_cloud 
 - [ ] Реализовать загрузку результатов тестов в warehouse
 	- [ ] Добавить дешборд про [test success rate over time](https://www.getdbt.com/blog/dbt-live-apac-tracking-dbt-test-success)
 
@@ -45,7 +45,7 @@
 - [dbt_artifacts](https://github.com/brooklyn-data/dbt_artifacts) — пакет, который выгружает в ваш warehouse информацию о самом dbt проекте  (модели, их запуски, тесты и т.п.) и генерируют витрины (marts) для их анализа. Это позволяет, например, иметь метрику затраченных ресурсов или свежести моделей.
 - [dbt profiler](https://hub.getdbt.com/data-mie/dbt_profiler/latest/) — набор макросов, генерирущих _профиль_ таблицы: статистические показатели, отношения (relations), типы. Этот пакет можно использовать для генерации документации.
 - [dbt_meta_testing](https://hub.getdbt.com/tnightengale/dbt_meta_testing/latest/) — пакет dbt, которым можно установить требования к тестам: что они есть, что они документированы
-- [gouline/dbt-metabase](https://github.com/gouline/dbt-metabase) — интеграция dbt и Metabase {dbt-metabase}
+- [gouline/dbt-metabase](https://github.com/gouline/dbt-metabase) — интеграция dbt и Metabase 
 
 # Reading List
 - [State of Data Quality Monitoring in 2024](https://www.metaplane.dev/state-of-data-quality-monitoring-2024)
@@ -117,8 +117,8 @@
 	- Описывают стандартные пакеты codegen, utils, expectations
 	- Описывают пакеты [dbt-labs/dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator), [dbt profiler](https://hub.getdbt.com/data-mie/dbt_profiler/latest/), [dbt_artifacts](https://github.com/brooklyn-data/dbt_artifacts) — см. [[Inbox/Тестирование и наблюдаемость данных в Dbt и не только#^u2p37h\|выше]]
 - [Data Observability on Steroids](https://hiflylabs.com/blog/2022/07/08/data-observability-on-steroids)
-	- [What is re_data?](https://docs.getre.io/master/docs/re_data/introduction/whatis_data) — генератор отчетов о dbt-проекте, включает lineage данных, их статистические характеристики и результаты выполнения тестов{redata} 
-	- [What is re\_cloud?](https://docs.getre.io/master/docs/re_cloud/whatis_cloud) — хостинг отчетов dbt, включая отчеты redata, dbt docs, elementary {recloud}
+	- [What is re_data?](https://docs.getre.io/master/docs/re_data/introduction/whatis_data) — генератор отчетов о dbt-проекте, включает lineage данных, их статистические характеристики и результаты выполнения тестов 
+	- [What is re\_cloud?](https://docs.getre.io/master/docs/re_cloud/whatis_cloud) — хостинг отчетов dbt, включая отчеты redata, dbt docs, elementary 
 	- [Data Observability Features Built for Today's Data Teams | Metaplane](https://www.metaplane.dev/platform-overview) — платформа для мониторинга данных, управления инцидентами и алертинга. Якобы умеет в автоматизированный поиск аномалий.
 - [Data quality dimensions for better decision-making | Datafold](https://www.datafold.com/blog/data-quality-dimensions)
 	- Есть семь измерений "качества данных"
