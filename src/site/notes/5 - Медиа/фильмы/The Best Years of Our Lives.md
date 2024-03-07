@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/the-best-years-of-our-lives/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Romance","#War"]}
 ---
 
 # The Best Years of Our Lives (1946)
