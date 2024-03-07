@@ -1,5 +1,5 @@
 ---
-
+{"dg-publish":true,"permalink":"/5-media/filmy/we-were-here/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Biography","#History"]}
 ---
 
 # We Were Here (2011)
