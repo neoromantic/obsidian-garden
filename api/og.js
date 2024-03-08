@@ -25,9 +25,11 @@ export default async function handler(req, res) {
     const titleMatch = webHtml.match(/<meta name="title" content="([^"]*)"/i);
     const authorMatch = webHtml.match(/<meta name="author" content="([^"]*)"/i);
     const descriptionMatch = webHtml.match(/<meta name="description" content="([^"]*)"/i);
+    const updatedMatch = webHtml.match(/<meta property="article:modified_time" content="([^"]*)"/i);
     const title = titleMatch ? titleMatch[1] : 'Blog Title';
-    const author = authorMatch ? authorMatch[1] : null;
+    const author = authorMatch ? authorMatch[1] : 'Sergey Petrov';
     const description = descriptionMatch ? descriptionMatch[1] : null;
+    const updated = updatedMatch ? updatedMatch[1] : null;
     function formatViews(views) {
   if (views > 1000) {
     return `${Math.round(views / 1000)}K`;
@@ -99,7 +101,7 @@ const html = {
         },
       },
       // Date of Publication
-      {
+      ...(updated ? [{
         type: 'div',
         props: {
           style: { position: 'absolute', right: '3rem', bottom: '1rem', display: 'flex' },
@@ -112,12 +114,12 @@ const html = {
                   color: '#a8a8a8', // More neutral color
                   fontSize: '3rem',
                 },
-                children: 'October 23, 2024',
+                children: new Date(updated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
               },
             },
           ],
         },
-      },
+      }] : [])
     ],
     style: {
       display: 'flex',
