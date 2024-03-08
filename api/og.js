@@ -3,33 +3,57 @@ import fs from 'fs'
 import path from 'path'
 import { unstable_createNodejsStream } from '@vercel/og'
 
+const loadFont = (fontFilename) => {
+  return fs.readFileSync(path.resolve(`./assets/${fontFilename}.ttf`))
+  // return await fetch(
+  //     new URL(`../assets/${fontFilename}.ttf`, import.meta.url)
+  //   ).arrayBuffer();
+}
+
 export default async function handler(req, res) {
   try {
     const searchParams = new URL(req.url, `https://${req.headers.host}`).searchParams
 
     // this will look for the title query param as such ?title=<title>
-    const hasTitle = searchParams.has('title')
-    const title = hasTitle ? searchParams.get('title')?.slice(0, 100) : 'Blog Title'
+    const url = searchParams.get('url') || '/';
+    const response = await fetch(`https://sergeypetrov.ru/${url}`);
+    if (!response.ok) {
+      res.status(404).send('Page not found');
+      return;
+    }
+    const webHtml = await response.text();
+    const titleMatch = webHtml.match(/<meta name="title" content="([^"]*)"/i);
+    const authorMatch = webHtml.match(/<meta name="author" content="([^"]*)"/i);
+    const descriptionMatch = webHtml.match(/<meta name="description" content="([^"]*)"/i);
+    const title = titleMatch ? titleMatch[1] : 'Blog Title';
+    const author = authorMatch ? authorMatch[1] : null;
+    const description = descriptionMatch ? descriptionMatch[1] : null;
+    function formatViews(views) {
+  if (views > 1000) {
+    return `${Math.round(views / 1000)}K`;
+  }
+  return views.toString();
+}
 
-    // since we're using the Node.js runtime, we can read fonts using fs
-    // const fontBold = fs.readFileSync(path.resolve('./public/fonts/Font-Bold.ttf'))
-    // const fontRegular = fs.readFileSync(path.resolve('./public/fonts/Font-Regular.ttf'))
+const titleFontSize = title.length > 10 ? '5rem' : '8rem'; // Adjust font size based on title length
 
-  const html = {
+const html = {
   type: 'div',
   props: {
     children: [
+      // Article Title
       {
         type: 'div',
         props: {
-          tw: 'pl-10 shrink flex -mt-20',
+          style: { paddingLeft: '2.5rem', paddingTop: '2.5rem', display: 'flex' },
           children: [
             {
               type: 'div',
               props: {
-                tw: 'text-white text-8xl',
                 style: {
-                  fontFamily: 'Sans Bold',
+                  fontFamily: 'Alice Regular',
+                  color: '#efefefff', // Antiflash white
+                  fontSize: titleFontSize, // Dynamic font size
                 },
                 children: title,
               },
@@ -37,66 +61,95 @@ export default async function handler(req, res) {
           ],
         },
       },
+      // Avatar Styling
+      {
+        type: 'img',
+        props: {
+          style: {
+            position: 'absolute',
+            left: '0',
+            bottom: '0',
+            width: '10rem',
+            height: '10rem',
+            borderRadius: '0 4rem 0 0',
+            filter: 'grayscale(100%) opacity(70%)', // Blend with background
+          },
+          src: 'https://pbs.twimg.com/profile_images/1748686124527329280/XA3zKATV_400x400.jpg',
+        },
+      },
+      // Site Address
       {
         type: 'div',
         props: {
-          tw: 'absolute left-12 bottom-12 flex items-center pl-12',
+          style: { position: 'absolute', left: '12rem', bottom: '1rem', display: 'flex' },
           children: [
             {
               type: 'div',
               props: {
-                tw: 'text-white text-4xl',
                 style: {
-                  fontFamily: 'Sans Bold',
+                  fontFamily: 'Recoleta Alt Light',
+                  color: '#efefef', // Simplified color for better readability
+                  fontSize: '3rem',
+                  textDecoration: 'underline solid rgba(255,255,255,.3)'
                 },
-                children: 'Sergey Petrov',
+                children: 'sergeypetrov.ru',
               },
             },
+          ],
+        },
+      },
+      // Date of Publication
+      {
+        type: 'div',
+        props: {
+          style: { position: 'absolute', right: '3rem', bottom: '1rem', display: 'flex' },
+          children: [
             {
               type: 'div',
               props: {
-                tw: 'px-2 text-4xl text-white',
                 style: {
-                  fontSize: '30px',
+                  fontFamily: 'Recoleta Alt Light',
+                  color: '#a8a8a8', // More neutral color
+                  fontSize: '3rem',
                 },
-                children: '—',
-              },
-            },
-            {
-              type: 'div',
-              props: {
-                tw: 'text-4xl text-gray-200',
-                children: '@neoromantic',
+                children: 'October 23, 2024',
               },
             },
           ],
         },
       },
     ],
-    tw: 'w-full h-full flex items-center relative px-12 rounded-3xl',
     style: {
-      background: 'linear-gradient(230deg, #f0ecc1 0%, #f2787c 100%)',
-      fontFamily: 'Vulf Sans Regular',
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'space-between',
+      width: '100%',
+      height: '100%',
+      padding: '3rem',
+      borderRadius: '0.75rem',
+      background: 'linear-gradient(230deg, #084b83ff 0%, #5e503fff 100%)',
+      fontFamily: 'Recoleta Regular',
     },
   },
-}
+};
 
     // setup the stream. the `html` variable will be undefined so far
     const stream = await unstable_createNodejsStream(html, {
       width: 1200,
       height: 630,
-      // fonts: [
-      //   {
-      //     data: fontBold,
-      //     name: 'Sans Bold',
-      //     style: 'normal',
-      //   },
-      //   {
-      //     data: fontRegular,
-      //     name: 'Sans Regular',
-      //     style: 'normal',
-      //   },
-      // ],
+      emoji: 'twemoji',
+      fonts: [
+        {
+          data: loadFont("RecoletaAlt-Regular"),
+          name: 'Recoleta Alt Regular',
+          style: 'normal',
+        },
+        {
+          data: loadFont("Alice-Regular"),
+          name: 'Alice Regular',
+          style: 'normal',
+        },
+      ],
     })
     res.setHeader('Content-Type', 'image/png')
     res.setHeader('Cache-Control', 'public, max-age=31536000, immutable')
