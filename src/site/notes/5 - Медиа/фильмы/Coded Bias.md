@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/coded-bias/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/coded-bias/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary"],"created":"2024-01-20T05:36:45.384+07:00","updated":"2024-01-20T05:55:02.191+07:00"}
 ---
 
 # Coded Bias (2020)
