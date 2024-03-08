@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sergeypetrov-ru/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/sergeypetrov-ru/","tags":["gardenEntry"],"created":"2023-10-23T04:50:50.950+07:00","updated":"2024-03-08T11:54:45.863+07:00"}
 ---
 
 **Я ИТ-консультант и разработчик из Москвы.** Этой зимой-весной живу и работаю в Таиланде, преимущественно на острове [[3 - Ресурсы/гео/Панган\|Панган]].
