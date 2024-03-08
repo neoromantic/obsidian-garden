@@ -1,168 +1,81 @@
-// api/og.mjs
-import fs from 'fs'
-import path from 'path'
-import { unstable_createNodejsStream } from '@vercel/og'
+import OpenAI from 'openai';
+import { put, list } from '@vercel/blob';
+import crypto from 'crypto';
 
-const loadFont = (fontFilename) => {
-  return fs.readFileSync(path.resolve(`./assets/${fontFilename}.ttf`))
-  // return await fetch(
-  //     new URL(`../assets/${fontFilename}.ttf`, import.meta.url)
-  //   ).arrayBuffer();
-}
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY,
+});
 
-export default async function handler(req, res) {
-  try {
-    const searchParams = new URL(req.url, `https://${req.headers.host}`).searchParams
+export const maxDuration = 300;
 
-    // this will look for the title query param as such ?title=<title>
-    const url = searchParams.get('url') || '/';
-    const response = await fetch(`https://sergeypetrov.ru/${url}`);
-    if (!response.ok) {
-      res.status(404).send('Page not found');
-      return;
-    }
-    const webHtml = await response.text();
-    const titleMatch = webHtml.match(/<meta name="title" content="([^"]*)"/i);
-    const authorMatch = webHtml.match(/<meta name="author" content="([^"]*)"/i);
-    const descriptionMatch = webHtml.match(/<meta name="description" content="([^"]*)"/i);
-    const updatedMatch = webHtml.match(/<meta property="article:modified_time" content="([^"]*)"/i);
-    const title = titleMatch ? titleMatch[1] : 'Blog Title';
-    const author = authorMatch ? authorMatch[1] : 'Sergey Petrov';
-    const description = descriptionMatch ? descriptionMatch[1] : null;
-    const updated = updatedMatch ? updatedMatch[1] : null;
-    function formatViews(views) {
-  if (views > 1000) {
-    return `${Math.round(views / 1000)}K`;
-  }
-  return views.toString();
-}
+const BASE_URL = 'https://sergeypetrov.ru/';
 
-const titleFontSize = title.length > 10 ? '5rem' : '8rem'; // Adjust font size based on title length
-
-const html = {
-  type: 'div',
-  props: {
-    children: [
-      // Article Title
-      {
-        type: 'div',
-        props: {
-          style: { paddingLeft: '2.5rem', paddingTop: '2.5rem', display: 'flex' },
-          children: [
-            {
-              type: 'div',
-              props: {
-                style: {
-                  fontFamily: 'Alice Regular',
-                  color: '#efefefff', // Antiflash white
-                  fontSize: titleFontSize, // Dynamic font size
-                },
-                children: title,
-              },
-            },
-          ],
-        },
-      },
-      // Avatar Styling
-      {
-        type: 'img',
-        props: {
-          style: {
-            position: 'absolute',
-            left: '0',
-            bottom: '0',
-            width: '10rem',
-            height: '10rem',
-            borderRadius: '0 4rem 0 0',
-            filter: 'grayscale(100%) opacity(70%)', // Blend with background
-          },
-          src: 'https://pbs.twimg.com/profile_images/1748686124527329280/XA3zKATV_400x400.jpg',
-        },
-      },
-      // Site Address
-      {
-        type: 'div',
-        props: {
-          style: { position: 'absolute', left: '12rem', bottom: '1rem', display: 'flex' },
-          children: [
-            {
-              type: 'div',
-              props: {
-                style: {
-                  fontFamily: 'Recoleta Alt Light',
-                  color: '#efefef', // Simplified color for better readability
-                  fontSize: '3rem',
-                  textDecoration: 'underline solid rgba(255,255,255,.3)'
-                },
-                children: 'sergeypetrov.ru',
-              },
-            },
-          ],
-        },
-      },
-      // Date of Publication
-      ...(updated ? [{
-        type: 'div',
-        props: {
-          style: { position: 'absolute', right: '3rem', bottom: '1rem', display: 'flex' },
-          children: [
-            {
-              type: 'div',
-              props: {
-                style: {
-                  fontFamily: 'Recoleta Alt Light',
-                  color: '#a8a8a8', // More neutral color
-                  fontSize: '3rem',
-                },
-                children: new Date(updated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
-              },
-            },
-          ],
-        },
-      }] : [])
-    ],
-    style: {
-      display: 'flex',
-      flexDirection: 'column',
-      justifyContent: 'space-between',
-      width: '100%',
-      height: '100%',
-      padding: '3rem',
-      borderRadius: '0.75rem',
-      background: 'linear-gradient(230deg, #084b83ff 0%, #5e503fff 100%)',
-      fontFamily: 'Recoleta Regular',
-    },
-  },
+const fetchAndParseMetaData = async (url) => {
+  const cleanUrl = url.trim().replace(/^\/|\/$/g, '');
+  const response = await fetch(`${BASE_URL}${cleanUrl}`, { cache: "force-cache" });
+  if (!response.ok) return null;
+  
+  const webHtml = await response.text();
+  const extractMeta = (name) => (webHtml.match(new RegExp(`<meta name="${name}" content="([^"]*)"`,'i')) || [])[1];
+  
+  return {
+    url: `${BASE_URL}${cleanUrl}`,
+    hash: crypto.createHash('sha256').update(cleanUrl).digest('hex'),
+    title: extractMeta('title') || 'Blog Title',
+    author: extractMeta('author') || 'Sergey Petrov',
+    description: extractMeta('description'),
+    updated: extractMeta('article:modified_time'),
+  };
 };
 
-    // setup the stream. the `html` variable will be undefined so far
-    const stream = await unstable_createNodejsStream(html, {
-      width: 1200,
-      height: 630,
-      emoji: 'twemoji',
-      fonts: [
-        {
-          data: loadFont("RecoletaAlt-Regular"),
-          name: 'Recoleta Alt Regular',
-          style: 'normal',
-        },
-        {
-          data: loadFont("Alice-Regular"),
-          name: 'Alice Regular',
-          style: 'normal',
-        },
-      ],
-    })
-    res.setHeader('Content-Type', 'image/png')
-    res.setHeader('Cache-Control', 'public, max-age=31536000, immutable')
-    res.statusCode = 200
-    res.statusMessage = 'OK'
-    stream.pipe(res)
+const generateImage = async (meta) => {
+  const prompt = `I have an article titled '${meta.title}'. I want to generate illustration for cover image. It should NEVER include any text, labels, letters or characters. You should first rewrite this prompt extensively and come up with a good idea for illustration. It should be simple, non-abstract, with particular subjects & objects, a little funny, with some kind of scenario going on. It should be colorful. The idea should be interesting and smart, but bold.`;
+  const result = await openai.images.generate({
+    model: 'dall-e-3',
+    prompt,
+    n: 1,
+    size: "1024x1024"
+  });
+  return result.data[0]?.url;
+};
+
+export async function GET(req, res) {
+  try {
+    const host = req.headers.host;
+    const searchParams = new URL(req.url, `https://${host}`).searchParams
+    const url = searchParams.get('url') || '/';
+    const refresh = searchParams.get('refresh') ? true : false;
+    console.log(`Getting OG image for ${url}`);
+
+    const meta = await fetchAndParseMetaData(url);
+    if (!meta) return new Response('Page not found', { status: 404 });
+
+    let blobMetadata;
+    const blobUrl = `generatedImages/${meta.hash}`;
+    if (!refresh) {
+      let blobs = await list({ prefix: blobUrl });
+      blobMetadata = blobs.blobs.length ? blobs.blobs[blobs.blobs.length -1 ] : null;
+    }
+
+    if (!blobMetadata) {
+      console.log("No existing image found. Generating...");
+      const newImageUrl = await generateImage(meta);
+      const response = await fetch(newImageUrl);
+      const blob = await response.blob();
+      blobMetadata = await put(blobUrl, blob, { access: 'public', contentType: "image/png" });
+    }
+
+    console.log("Returning image: ", blobMetadata.url);
+    const blobData = await fetch(blobMetadata.url).then(res => res.arrayBuffer());
+    return new Response(blobData, {
+      status: 200,
+      headers: {
+        'Content-Type': 'image/png',
+        'Cache-Control': 'public, max-age=31536000',
+      }
+    });
   } catch (e) {
-    console.error(e)
-    console.log(`${e.message}`)
-    return new Response('Failed to generate the image', {
-      status: 500,
-    })
+    console.error(e);
+    return new Response('Failed to generate the image', { status: 500 });
   }
 }
