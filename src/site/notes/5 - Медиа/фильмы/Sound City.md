@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/sound-city/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Music"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/sound-city/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Music"],"created":"2024-01-20T05:38:54.031+07:00","updated":"2024-01-20T05:55:02.297+07:00"}
 ---
 
 # Sound City (2013)
