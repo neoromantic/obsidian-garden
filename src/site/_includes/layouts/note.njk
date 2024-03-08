@@ -75,7 +75,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
               <span class="human-date" data-date="{{ created }}"></span>
             </div>
           {%- endif -%}
-          {%- if meta.timestampSettings.showUpdated and updated -%}
+          {%- if meta.timestampSettings.showUpdated and updated and userComputed.updatedOnAnotherDay -%}
             <div>
               <i icon-name="calendar-clock"></i>
               <span class="human-date" data-date="{{ updated }}"></span>
