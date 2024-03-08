@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/we-were-here/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Biography","#History"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/we-were-here/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Biography","#History"],"created":"2024-01-20T05:39:04.973+07:00","updated":"2024-01-20T05:55:02.297+07:00"}
 ---
 
 # We Were Here (2011)
