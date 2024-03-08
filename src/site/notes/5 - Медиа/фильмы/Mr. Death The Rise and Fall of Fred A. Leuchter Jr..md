@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/mr-death-the-rise-and-fall-of-fred-a-leuchter-jr/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Biography"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/mr-death-the-rise-and-fall-of-fred-a-leuchter-jr/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Biography"],"created":"2024-01-20T05:37:24.204+07:00","updated":"2024-01-20T05:55:02.190+07:00"}
 ---
 
 # Mr. Death The Rise and Fall of Fred A. Leuchter Jr. (1999)
