@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/sideways/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy","#Drama","#Romance"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/sideways/","contentClasses":"movie","tags":["to-watch","фильм","#Comedy","#Drama","#Romance"],"created":"2024-01-20T05:38:54.031+07:00","updated":"2024-01-20T05:55:02.190+07:00"}
 ---
 
 # Sideways (2004)
