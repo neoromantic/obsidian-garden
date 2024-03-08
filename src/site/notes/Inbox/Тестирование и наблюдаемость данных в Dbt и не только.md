@@ -1,10 +1,20 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing","permalink":"/data-observability-dbt-testing/","created":"2024-03-06T13:14:00.187+07:00","updated":"2024-03-07T20:51:59.901+07:00"}
+{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing","permalink":"/data-observability-dbt-testing/","created":"2024-03-06T13:14:00.187+07:00","updated":"2024-03-09T00:49:07.542+07:00"}
 ---
 
+[[Inbox/Testing and Observability in dbt project — meta analysis\|Read in English]]
 # Premise
+Допустим, мы — компания, только что прошедшая первый уровень организации своих данных:
+- узнали что вообще-то это делают не склеивая изолентой и рандомно создавая таблицы в базах, спредшитах, и других источниках
+- узнали, что есть dbt и написали свой первый warehouse, размером в десятки-малые сотни моделей 
+- поняли, что раз такое чудо появилось, то надо его использовать в полный рост
+- знаете про пользу автоматического тестирования софта, но вот сейчас задумались про то что данные тоже полезно тестировать
+- узнали про dbt test, написали простые тесты на многие модели, увидели как это круто
+- начали смотреть на свои данные и искать в них недостатки, неполноту, нарушения
+- и хотите теперь понять — как этими данными управлять, тестировать их, отслеживать инфраструктуру вашего пайплайна
+- коротко говоря, хотите с первого уровня перейти на второй
 
-# The Practice
+# План второго уровня работы с dbt
 - [ ] Подключить [slidoapp/dbt-coverage: One-stop-shop for docs and test coverage of dbt projects.](https://github.com/slidoapp/dbt-coverage)
 - [ ] Подключить [dbt-labs/dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator)
 - [ ] Использовать пакет [Meta Testing](https://hub.getdbt.com/tnightengale/dbt_meta_testing/latest/) для установки требований к тестам
@@ -19,20 +29,63 @@
 
 # Сервисы Data Observability
 - [Elementary Data](https://www.elementary-data.com/) — dbt native data observability
+	- от 600 в месяц 
+	- довольно простой обзор результатов запуска тестов dbt
+	- column level lineage
+	- интеграция с BI для lineage
+	- дешборд про время затраченное на сбор моделей
+	- **есть бесплатная CLI-версия** для генерации отчетов и отправки алертов
 	- [GitHub - elementary-data/elementary: The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.](https://github.com/elementary-data/elementary)
 	- [GitHub - elementary-data/dbt-data-reliability: Data anomalies monitoring as dbt tests and dbt artifacts uploader.](https://github.com/elementary-data/dbt-data-reliability)
 - [Synq](https://www.synq.io/) — Reliability Platform for business-critical data
+	- в private beta
+	- довольно простая, в основном - трекинг инцидентов
+	- column-level lineage 
+	- анализ влияния на потребителей 
+	- система алертов с определением владельцев сломанных объектов
 - [Sifflet](https://www.siffletdata.com/) — Full Data Stack Observability for Data Engineers and Data Consumers
+	- Нет информации о цене и свободной регистрации 
+	- Все обычные интеграции 
+	- Поиск по всем вашим data assets
+	- Сбор метаданных и анализов со всех систем 
+	- Мониторинг с ML-возможностями
+	- Готовый каталог стратегий мониторинга 
 - [Bigeye](https://www.bigeye.com/) — Find and fix data issues before they break your business
+	- Нет свободной регистрации (только через демо)
+	- Автоматический мониторинг data quality 
+	- Lineage на уровне колонок
+	- Автоматическое определение аномалий 
+	- Анализ причины ошибок и управление инцидентами
+	- Анализ на уровне строк — запросы для дебага проблем, информация о затронутых проблемой данных
 - [Metaplane](https://metaplane.dev) — Trust the data that powers your business
-	- интегрируется с dbt и <mark style="background: #ADCCFFA6;">metabase</mark> (для lineage)
-	- умеет в column-level lineage
-	- от $1500 в месяц (за пределами Free версии)
-	- слабые возможности по интеграции (slack, ms teams, jira, pagerduty)
+	- интегрируется с dbt и <mark style="background: #ADCCFFA6;">metabase</mark>
+	- интеграцию с dbt нельзя наладить с macos (только linux)
+	- автодетект аномалий
+	- умеет в column-level lineage и в целом хорошо показывает lineage (в том числе на основе истории запросов)
+	- бесплатный план (10 таблиц, 3 кастомных монитора, один юзер)
+	- платный $1500 в месяц (100 таблиц, 5 юзеров, column lineage)
+	- есть система алертов
+	- следит за отваливающимися коннекторами
+	- сообщает на каких потребителей повлиял инцидент (exposures)
 - [Datafold](https://www.datafold.com/) — Automated testing for data engineers
-	- [GitHub - datafold/data-diff: Compare tables within or across databases](https://github.com/datafold/data-diff)
+	- главная фишка: сравнение непосредственно данных 
+	- показывает как каждое изменение кода влияет непосредственно на данные на уровне столбцов и колонок 
+	- показывает изменения на уровне значений ("выросло на 33%")
+	- запускается в CI и делает репорты в PR 
+	- анализ соответствия между хранилищами (сравнить два хранилища - что они синхронизированы верно) 
+	- есть OS-пакет, который можно использовать самостоятельно [GitHub - datafold/data-diff: Compare tables within or across databases](https://github.com/datafold/data-diff)
 - [Soda](https://www.soda.io/) — Data Quality Platform, Test and deliver data that everyone can trust
+	- Триал на 45 дней
+	- Своя система тестов на мощном человекочитаемом языке
+	- Простой но симпатичный дешборд по поводу всех чеков
+	- Интеграции с dbt, airflow и всеми usual suspects
+	- Система алертов (slack, email, pagerduty)
 - [dbt Cloud](https://www.getdbt.com/product/dbt-cloud) — интегрированное облачное решение для dbt
+	- самое главное: позволяет иметь PR-based разработку dbt (каждая ветка отдельно)
+	- может шедулить запуски сборки моделей и запускает тесты
+	- есть логирование и алерты, интеграции
+	- можно делать метрики, можно объединять dbt проекты в mesh
+	- $100 в месяц (есть бесплатный план тоже)
 
 # Важные dbt пакеты 
 - [dbt-labs/dbt-utils](https://github.com/dbt-labs/dbt-utils) — стандартный набор дополнительных функций от dbt-labs 
