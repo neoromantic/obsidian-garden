@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/cool-hand-luke/","contentClasses":"movie","tags":["to-watch","фильм","#Crime","#Drama"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/cool-hand-luke/","contentClasses":"movie","tags":["to-watch","фильм","#Crime","#Drama"],"created":"2024-01-20T05:36:45.384+07:00","updated":"2024-01-20T05:55:02.296+07:00"}
 ---
 
 # Cool Hand Luke (1967)
