@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"true-babylon-fish","permalink":"/true-babylon-fish/"}
+{"dg-publish":true,"dg-permalink":"true-babylon-fish","permalink":"/true-babylon-fish/","created":"2024-02-19T17:31:30.009+07:00","updated":"2024-03-02T02:27:22.134+07:00"}
 ---
 
 Библиотека или сервис для автоматического перевода (своего) сайта на любой язык с GPT4 (или в будущем OS моделями).
