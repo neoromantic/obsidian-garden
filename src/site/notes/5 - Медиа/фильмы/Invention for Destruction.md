@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/invention-for-destruction/","contentClasses":"movie","tags":["to-watch","фильм","#Adventure","#Fantasy","#Sci-Fi"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/invention-for-destruction/","contentClasses":"movie","tags":["to-watch","фильм","#Adventure","#Fantasy","#Sci-Fi"],"created":"2024-01-20T05:36:45.387+07:00","updated":"2024-01-20T05:55:02.308+07:00"}
 ---
 
 # Invention for Destruction (1958)
