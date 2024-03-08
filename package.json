@@ -23,7 +23,9 @@
     },
     "dependencies": {
         "@11ty/eleventy-img": "^4.0.2",
+        "@chrisburnell/svg-sparkline": "1.0.9",
         "@sindresorhus/slugify": "^2.2.1",
+        "@vercel/og": "0.6.2",
         "axios": "^1.6.7",
         "dotenv": "^16.4.5",
         "eleventy-plugin-gen-favicons": "^1.1.2",
