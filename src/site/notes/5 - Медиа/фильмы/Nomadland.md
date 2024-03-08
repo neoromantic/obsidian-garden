@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/nomadland/","contentClasses":"movie","tags":["to-watch","фильм","#Drama"]}
+{"dg-publish":true,"permalink":"/5-media/filmy/nomadland/","contentClasses":"movie","tags":["to-watch","фильм","#Drama"],"created":"2024-01-20T05:37:24.204+07:00","updated":"2024-01-20T05:55:02.190+07:00"}
 ---
 
 # Nomadland (2020)
