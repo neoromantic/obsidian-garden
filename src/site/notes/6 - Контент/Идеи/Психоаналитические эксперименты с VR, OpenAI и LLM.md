@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-kontent/idei/psihoanaliticheskie-eksperimenty-s-vr-open-ai-i-llm/"}
+{"dg-publish":true,"permalink":"/6-kontent/idei/psihoanaliticheskie-eksperimenty-s-vr-open-ai-i-llm/","created":"2024-01-02T13:10:20.038+07:00","updated":"2024-02-20T02:13:59.803+07:00"}
 ---
 
 Сошлись несколько событий:
