@@ -1,91 +1,129 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing/en","permalink":"/data-observability-dbt-testing/en/","created":"2024-03-09T00:46:31.642+07:00","updated":"2024-03-09T00:57:52.722+07:00"}
+{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing/en","permalink":"/data-observability-dbt-testing/en/","created":"2024-03-09T00:46:31.642+07:00","updated":"2024-03-11T19:14:31.806+07:00"}
 ---
 
 [[Inbox/Тестирование и наблюдаемость данных в Dbt и не только\|Читать на русском]]
 # Premise
-Suppose we are a company that has just passed the first level of organizing our data:
-- learned that it's actually not done by duct-taping things together and randomly creating tables in databases, spreadsheets, and other sources
-- discovered dbt and wrote our first warehouse, sized in dozens to a few hundred models
-- realized that since such a wonder has appeared, it should be used to its full extent
-- know about the benefits of automatic software testing, but now you're thinking about testing the data too
-- learned about dbt test, wrote simple tests for many models, saw how cool it is
-- started looking at your data and searching for flaws, incompleteness, violations
-- and now you want to understand — how to manage these data, test them, monitor the infrastructure of your pipeline
-- in short, you want to move from the first level to the second
+Let's assume we are a company that has just passed the first level of organizing our data:
+- We've learned that it's not done by duct-taping things together and randomly creating tables in databases, spreadsheets, and other sources
+- We've discovered dbt and written our first warehouse, sized in the tens to small hundreds of models
+- We've realized that since such a wonder has appeared, it should be used to its full extent
+- We know about the benefits of automatic software testing, but now we're thinking about the fact that data testing is also useful
+- We've learned about dbt test, wrote simple tests for many models, and saw how cool it is
+- We started looking at our data to find flaws, incompleteness, violations
+- And now we want to understand — how to manage these data, test them, and monitor the infrastructure of our pipeline
+- In short, we want to move from level one to level two
+- Money matters. We don't want to spend $1000+ a month
 
-# Plan for the second level of working with dbt
-- [ ] Connect [slidoapp/dbt-coverage: One-stop-shop for docs and test coverage of dbt projects.](https://github.com/slidoapp/dbt-coverage)
+# Road to Level 2
+## Short Path
+- [ ] Prepare a set of tests in dbt
+	- [ ] Use the [Meta Testing](https://hub.getdbt.com/tnightengale/dbt_meta_testing/latest/) package to set test requirements
+	- [ ] Connect [slidoapp/dbt-coverage: One-stop-shop for docs and test coverage of dbt projects.](https://github.com/slidoapp/dbt-coverage)
+	- [ ] Implement basic generic tests for dbt models
+	- [ ] Implement singular tests for dbt models
+- [ ] Add dbt build execution to CI
+- [ ] Connect dbt docs assembly in CI
+- [ ] Connect Elementary report generation
+	- [ ] First, set up a trial of the paid version (one month for free, then $600 per month)
+	- [GitHub - elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+	- [Install Elementary dbt package - Elementary](https://docs.elementary-data.com/oss/quickstart/quickstart-cli-package)
+	- [Elementary OSS - Elementary](https://docs.elementary-data.com/oss/oss-introduction)
+- [ ] Connect re_data report generation
+- [ ] Implement hosting for the data platform documentation (dbt docs, re_data, elementary) using [re_cloud?](https://docs.getre.io/master/docs/re_cloud/whatis_cloud/)
+- [ ] Add messages about failed tests to a Discord channel
+- [ ] Add a sensor in Dagster with alerts about freshness
+	- [Dagster Docs](https://docs.dagster.io/_apidocs/schedules-sensors#dagster.freshness_policy_sensor)
+## Additional Solutions
+- [ ] Ensure all models have primary keys, use surrogate keys using [macro from dbt-utils](https://github.com/dbt-labs/dbt-utils#generate_surrogate_key-source), have not_null&unique test on them
 - [ ] Connect [dbt-labs/dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator)
-- [ ] Use the [Meta Testing](https://hub.getdbt.com/tnightengale/dbt_meta_testing/latest/) package to set test requirements
-- [ ] Implement basic generic tests for dbt models
-- [ ] Implement singular tests for dbt models
-- [ ] Consider the feasibility of migrating from dbt core to dbt cloud for PR-based testing, CI, alerts, Performance reports, etc.
 - [ ] Describe external consumers in the form of [exposures](https://docs.getdbt.com/docs/build/exposures), integrate dbt and metabase
-- [ ] Integrate re_data
-- [ ] Implement hosting for the data platform documentation (primarily dbt docs), possibly with re_cloud 
-- [ ] Implement uploading test results to the warehouse
+	- [[GitHub - gouline/dbt-metabase: dbt + Metabase integration](https://github.com/gouline/dbt-metabase)
+- [ ] Implement loading test results into the warehouse
+	- [GitHub - brooklyn-data/dbt_artifacts: A dbt package for modeling dbt metadata](https://github.com/brooklyn-data/dbt_artifacts)
+	- [ ] set [store_failures](https://docs.getdbt.com/reference/resource-configs/store_failures) to true
+	- [ ] create a metadata file for tests, which is a [seed](https://docs.getdbt.com/docs/build/seeds). Store there the name of the test, owner, importance of the test, and other additional fields (see [[Inbox/Testing and Observability in dbt project — meta analysis#^dbt-article\|#^dbt-article]] )
+	- then, data is aggregated by dbt, combining test run results with metadata. From this basic table, various views are built that provide dashboards for owners, by severity, and other slices
 	- [ ] Add a dashboard about [test success rate over time](https://www.getdbt.com/blog/dbt-live-apac-tracking-dbt-test-success)
-
+	- [ ] Add custom dashboards in Metabase based on data exported from dbt
+- [ ] Try integration with Metaplane in CI (free tier)
+	- [dbt Core](https://docs.metaplane.dev/docs/dbt-core)
+- [ ] Connect data diff in the CI system
+	- [GitHub - datafold/data-diff: Compare tables within or across databases](https://github.com/datafold/data-diff)
+- [ ] Deploy Datahub and integrate it with all system elements
+	- [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
+	- [Integration of Dagster and Datahub](https://docs.dagster.io/_apidocs/libraries/dagster-datahub)
+	- [MariaDB | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/mariadb)
+	- [BigQuery | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/bigquery)
+	- [dbt | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/dbt)
+	- [Google Cloud Storage | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/gcs)
+	- [Metabase | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/metabase)
 # Data Observability Services
+- [DataHub](https://datahubproject.io) — A Metadata Platform for the Modern Data Stack
+	- An OS solution with a paid cloud option
+	- A catalog of your assets from various sources with lineage
+	- A centralized place for viewing metadata, owners, documentation, tests, etc.
+	- Looks promising, but young (version 0.13)
+	- Many integrations, good support
+	- Requires developer support for configuration and use (writing yaml configs for alerts, etc.)
 - [Elementary Data](https://www.elementary-data.com/) — dbt native data observability
-	- from $600 per month 
-	- quite a simple overview of dbt test run results
-	- column level lineage
-	- BI integration for lineage
-	- dashboard about the time spent on collecting models
-	- **there is a free CLI version** for generating reports and sending alerts
+	- From $600 per month 
+	- Quite simple overview of dbt test run results
+	- Column level lineage
+	- Integration with BI for lineage
+	- Dashboard about the time spent on assembling models
+	- **There is a free CLI version** for generating reports and sending alerts
 	- [GitHub - elementary-data/elementary: The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.](https://github.com/elementary-data/elementary)
 	- [GitHub - elementary-data/dbt-data-reliability: Data anomalies monitoring as dbt tests and dbt artifacts uploader.](https://github.com/elementary-data/dbt-data-reliability)
 - [Synq](https://www.synq.io/) — Reliability Platform for business-critical data
-	- in private beta
-	- quite simple, mainly - tracking incidents
-	- column-level lineage 
-	- impact analysis on consumers 
-	- alert system with determination of owners of broken objects
+	- In private beta
+	- Quite simple, mainly - incident tracking
+	- Column-level lineage 
+	- Impact analysis on consumers 
+	- Alert system with identification of owners of broken objects
 - [Sifflet](https://www.siffletdata.com/) — Full Data Stack Observability for Data Engineers and Data Consumers
-	- No information on price and free registration 
-	- All usual integrations 
+	- No information on pricing and open registration 
+	- All the usual integrations 
 	- Search across all your data assets
 	- Metadata collection and analysis from all systems 
 	- Monitoring with ML capabilities
-	- Ready-made catalog of monitoring strategies 
+	- Ready-to-use catalog of monitoring strategies 
 - [Bigeye](https://www.bigeye.com/) — Find and fix data issues before they break your business
-	- No free registration (demo only)
-	- Automatic data quality monitoring 
+	- No open registration (demo only)
+	- Automatic monitoring of data quality 
 	- Column-level lineage
 	- Automatic anomaly detection 
 	- Error cause analysis and incident management
 	- Row-level analysis — queries for debugging problems, information about data affected by the issue
 - [Metaplane](https://metaplane.dev) — Trust the data that powers your business
-	- integrates with dbt and <mark style="background: #ADCCFFA6;">metabase</mark>
-	- dbt integration cannot be set up with macos (only linux)
-	- auto-detect anomalies
-	- good at showing column-level lineage and overall lineage (including based on query history)
-	- free plan (10 tables, 3 custom monitors, one user)
-	- paid $1500 per month (100 tables, 5 users, column lineage)
-	- has an alert system
-	- monitors for failing connectors
-	- informs which consumers were affected by an incident (exposures)
+	- Integrates with dbt and <mark style="background: #ADCCFFA6;">metabase</mark>
+	- dbt integration cannot be set up with macOS (only Linux)
+	- Auto-detection of anomalies
+	- Capable of column-level lineage and generally shows lineage well (including based on query history)
+	- Free plan (10 tables, 3 custom monitors, one user)
+	- Paid $1500 per month (100 tables, 5 users, column lineage)
+	- Has an alert system
+	- Monitors for failing connectors
+	- Reports on which consumers are affected by an incident (exposures)
 - [Datafold](https://www.datafold.com/) — Automated testing for data engineers
-	- main feature: direct data comparison 
-	- shows how each code change directly affects the data at the column and row level 
-	- shows changes at the value level ("increased by 33%")
-	- runs in CI and makes reports in PR 
-	- compliance analysis between storages (compare two storages - that they are synchronized correctly) 
-	- has an OS package that can be used independently [GitHub - datafold/data-diff: Compare tables within or across databases](https://github.com/datafold/data-diff)
+	- Main feature: direct comparison of data 
+	- Shows how each code change directly affects the data at the column and row level 
+	- Shows changes at the value level ("increased by 33%")
+	- Runs in CI and makes reports in PR 
+	- Compliance analysis between stores (compare two stores - that they are correctly synchronized) 
+	- There is an OS package that can be used independently [GitHub - datafold/data-diff: Compare tables within or across databases](https://github.com/datafold/data-diff)
 - [Soda](https://www.soda.io/) — Data Quality Platform, Test and deliver data that everyone can trust
 	- 45-day trial
-	- Its own testing system on a powerful human-readable language
+	- Its own testing system in a powerful human-readable language
 	- Simple but nice dashboard about all checks
 	- Integrations with dbt, airflow, and all the usual suspects
 	- Alert system (slack, email, pagerduty)
-- [dbt Cloud](https://www.getdbt.com/product/dbt-cloud) — integrated cloud solution for dbt
-	- most importantly: allows PR-based dbt development (each branch separately)
-	- can schedule model build runs and tests
-	- has logging and alerts, integrations
-	- can do metrics, can combine dbt projects into mesh
-	- $100 per month (there's also a free plan)
+- [dbt Cloud](https://www.getdbt.com/product/dbt-cloud) — An integrated cloud solution for dbt
+	- Most importantly: allows for PR-based development of dbt (each branch separately)
+	- Can schedule model builds and runs tests
+	- Has logging and alerts, integrations
+	- Can do metrics, can combine dbt projects into a mesh
+	- $100 per month (there is also a free plan)
 
 # Important dbt packages 
 - [dbt-labs/dbt-utils](https://github.com/dbt-labs/dbt-utils) — a standard set of additional functions from dbt-labs 
