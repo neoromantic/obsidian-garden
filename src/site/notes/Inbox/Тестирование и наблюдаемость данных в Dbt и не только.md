@@ -1,33 +1,72 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing","permalink":"/data-observability-dbt-testing/","created":"2024-03-06T13:14:00.187+07:00","updated":"2024-03-09T00:49:07.542+07:00"}
+{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing","permalink":"/data-observability-dbt-testing/","created":"2024-03-06T13:14:00.187+07:00","updated":"2024-03-11T19:02:33.892+07:00"}
 ---
 
 [[Inbox/Testing and Observability in dbt project — meta analysis\|Read in English]]
 # Premise
 Допустим, мы — компания, только что прошедшая первый уровень организации своих данных:
 - узнали что вообще-то это делают не склеивая изолентой и рандомно создавая таблицы в базах, спредшитах, и других источниках
-- узнали, что есть dbt и написали свой первый warehouse, размером в десятки-малые сотни моделей 
+- узнали, что существует dbt и написали свой первый warehouse, размером в десятки-малые сотни моделей 
 - поняли, что раз такое чудо появилось, то надо его использовать в полный рост
 - знаете про пользу автоматического тестирования софта, но вот сейчас задумались про то что данные тоже полезно тестировать
 - узнали про dbt test, написали простые тесты на многие модели, увидели как это круто
 - начали смотреть на свои данные и искать в них недостатки, неполноту, нарушения
 - и хотите теперь понять — как этими данными управлять, тестировать их, отслеживать инфраструктуру вашего пайплайна
 - коротко говоря, хотите с первого уровня перейти на второй
+- деньги имеют значение. Тратить $1000+ в месяц вы не хотите
 
-# План второго уровня работы с dbt
-- [ ] Подключить [slidoapp/dbt-coverage: One-stop-shop for docs and test coverage of dbt projects.](https://github.com/slidoapp/dbt-coverage)
+# Road to Level 2
+## Короткий путь
+- [ ] Подготовить набор тестов в dbt
+	- [ ] Использовать пакет [Meta Testing](https://hub.getdbt.com/tnightengale/dbt_meta_testing/latest/) для установки требований к тестам
+	- [ ] Подключить [slidoapp/dbt-coverage: One-stop-shop for docs and test coverage of dbt projects.](https://github.com/slidoapp/dbt-coverage)
+	- [ ] Имплементировать базовые generic тесты dbt-моделей
+	- [ ] Имплементировать singular тесты dbt-моделей
+- [ ] Добавить запуск dbt build в CI
+- [ ] Подключить сборку dbt docs в CI
+- [ ] Подключить генерацию отчетов Elementary
+	- [ ] Сначала настроить триал платного варианта (месяц бесплатно, потом $600 в месяц)
+	- [GitHub - elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
+	- [Install Elementary dbt package - Elementary](https://docs.elementary-data.com/oss/quickstart/quickstart-cli-package)
+	- [Elementary OSS - Elementary](https://docs.elementary-data.com/oss/oss-introduction)
+- [ ] Подключить генерацию отчетов re_data
+- [ ] Реализовать хостинг документации дата-платформы (dbt docs, re_data, elementary) с помощью [re_cloud?](https://docs.getre.io/master/docs/re_cloud/whatis_cloud/)
+- [ ] Добавить сообщения о проваленных тестах в discord-канал
+- [ ] Добавить сенсор в Dagster с алертами о freshness
+	- [Dagster Docs](https://docs.dagster.io/_apidocs/schedules-sensors#dagster.freshness_policy_sensor)
+## Дополнительные решения
+- [ ] Убедиться что у всех моделей есть primary keys, использовать суррогатные ключи используя [макро из dbt-utils](https://github.com/dbt-labs/dbt-utils#generate_surrogate_key-source), иметь not_null&unique тест на них
 - [ ] Подключить [dbt-labs/dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator)
-- [ ] Использовать пакет [Meta Testing](https://hub.getdbt.com/tnightengale/dbt_meta_testing/latest/) для установки требований к тестам
-- [ ] Имплементировать базовые generic тесты dbt-моделей
-- [ ] Имплементировать singular тесты dbt-моделей
-- [ ] Рассмотреть целесообразность миграции с dbt core на dbt cloud для PR-based тестирования, CI, алертов, Performance reports и т.п.
 - [ ] Описать внешних потребителей в виде [exposures](https://docs.getdbt.com/docs/build/exposures), интегрировать dbt и metabase
-- [ ] Интегрировать re_data
-- [ ] Реализовать хостинг документации дата-платформы (dbt docs в 1ю очередь), возможно, с re_cloud 
+	- [[GitHub - gouline/dbt-metabase: dbt + Metabase integration](https://github.com/gouline/dbt-metabase)
 - [ ] Реализовать загрузку результатов тестов в warehouse
+	- [GitHub - brooklyn-data/dbt\_artifacts: A dbt package for modelling dbt metadata](https://github.com/brooklyn-data/dbt_artifacts)
+	- [ ] установить [store_failures](https://docs.getdbt.com/reference/resource-configs/store_failures) в true
+	- [ ] создать metadata-файл для тестов, который является [seed](https://docs.getdbt.com/docs/build/seeds). Хранить там название теста, владельца, важность теста, и другие дополнительные поля (см. [[Inbox/Тестирование и наблюдаемость данных в Dbt и не только#^dbt-article\|#^dbt-article]] )
+	- далее, данные агрегируются средствами dbt, объединяя результаты запуска тестов с  метаданными. Из этой базовой таблицы строятся всевозможные views, которые предоставляют дешборды для owners, по severity и другим срезам
 	- [ ] Добавить дешборд про [test success rate over time](https://www.getdbt.com/blog/dbt-live-apac-tracking-dbt-test-success)
+	- [ ] Добавить кастомные дешборды в Metabase на основе данных, экспортированных из dbt
+- [ ] Попробовать интеграцию с Metaplane в CI (бесплатный тариф)
+	- [dbt Core](https://docs.metaplane.dev/docs/dbt-core)
+- [ ] Подключить data diff в CI систему
+	- [GitHub - datafold/data-diff: Compare tables within or across databases](https://github.com/datafold/data-diff)
+- [ ] Развернуть Datahub  и интегрировать его со всеми элементами системы
+	- [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
+	- [Интеграция Dagster и Datahub](https://docs.dagster.io/_apidocs/libraries/dagster-datahub)
+	- [MariaDB | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/mariadb)
+	- [BigQuery | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/bigquery)
+	- [dbt | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/dbt)
+	- [Google Cloud Storage | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/gcs)
+	- [Metabase | DataHub](https://datahubproject.io/docs/generated/ingestion/sources/metabase)
 
 # Сервисы Data Observability
+- [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io)
+	- OS-решение с опцией cloud за деньги
+	- Каталог ваших ассетов из разных источников с lineage
+	- Централизированное место для просмотра метаданных, владельцев, документации, тестов и т.п.
+	- Выглядит promising, но молодой (версия 0.13)
+	- Множество интеграций, хорошая поддержка
+	- Требует поддержки разработчиков для конфигурации и использования (писать yaml конфиги для алертов и т.п.)
 - [Elementary Data](https://www.elementary-data.com/) — dbt native data observability
 	- от 600 в месяц 
 	- довольно простой обзор результатов запуска тестов dbt
@@ -186,9 +225,11 @@
 	- Хранить результаты запусков и другие артефакты в warehouse и использовать BI (metabase) для анализа и алертов
 	- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability)
 	- Добавлять в манифест модели (dbt meta) имя owner'а данных, чтобы в алертах можно было сразу тегать того, кто отвечает, например, за freshness
-	- OS Python Package, от Elementary, который умеет слать уведомления в Slack / MS Teams (note: есть ли способ использовать slack api чтобы получать сообщения в Discord?)
+	- OS Python Package, от Elementary, который умеет слать уведомления в Slack / MS Teams (note: вроде можно слать в [дискорд как будто в слек](https://discord.com/developers/docs/resources/webhook#execute-slackcompatible-webhook))
 	- Elementary позволяет исследовать время запуска моделей и их стоимость
 - [dbt: How We Improved Our Data Quality by Cutting 80% of Our Tests | by Noah Kennedy | Better Programming](https://betterprogramming.pub/dbt-how-we-improved-our-data-quality-by-cutting-80-of-our-tests-78fc35621e4e)
+{ #dbt-article}
+
 	- главный блокер хорошей системы тестирования: наблюдаемость и actionability тестов (когда они падают). Мы всё улучшили, попутно убрав 80% тестов.
 	- трехшаговый процесс: детальные высококачественные тесты, агрегация результатов тестирования, построение вьюх для результатов тестов с разделением по владельцам и/или важности.
 	- тесты должны явно указывать свою серьезность (severity)
@@ -209,7 +250,7 @@
 
 # Находки по пути
 Здесь то, что не относится к теме тестирования, к dbt и, может быть вообще к разработке, но попалось по пути.
-
+- [Modern Business Intelligence | Better data, better decisions](https://mode.com/)
 - [Date dimension: How to Create a Practical and Useful Date Dimension in dbt | by Gabriel Campos | Indicium Engineering | Medium](https://medium.com/indiciumtech/date-dimension-how-to-create-a-practical-and-useful-date-dimension-in-dbt-5ee70a18f3bb)
 - [GitHub - mckaywrigley/chatbot-ui: AI chat for every model.](https://github.com/mckaywrigley/chatbot-ui)
 - [Deepnote: Analytics and data science notebook for teams.](https://deepnote.com/) — AI-supported блокноты для работы с данными
