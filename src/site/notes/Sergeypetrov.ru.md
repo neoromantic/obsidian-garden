@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sergeypetrov-ru/","tags":["gardenEntry"],"created":"2023-10-23T04:50:50.950+07:00","updated":"2024-03-12T23:41:42.099+07:00"}
+{"dg-publish":true,"permalink":"/sergeypetrov-ru/","tags":["gardenEntry"],"created":"2023-10-23T04:50:50.950+07:00","updated":"2024-03-12T23:43:07.373+07:00"}
 ---
 
 **Я ИТ-консультант и разработчик из Москвы.** Этой зимой-весной живу и работаю в Таиланде, преимущественно на острове [[3 - Ресурсы/гео/Панган\|Панган]].
@@ -19,47 +19,6 @@
 - [GitHub](https://github.com/neoromantic)
 - [Nomad List](https://nomadlist.com/@neoromantic)
 ---
-```contributionGraph
-title: Активность
-graphType: default
-dateRangeValue: 180
-dateRangeType: LATEST_DAYS
-startOfWeek: "1"
-showCellRuleIndicators: true
-titleStyle:
-  textAlign: left
-  fontSize: 16px
-  fontWeight: normal
-dataSource:
-  type: PAGE
-  value: ""
-  dateField:
-    type: FILE_MTIME
-fillTheScreen: false
-enableMainContainerShadow: false
-mainContainerStyle:
-  boxShadow: rgba(0, 0, 0, 0.16) 0px 1px 4px
-cellStyle:
-  minWidth: 10px
-cellStyleRules:
-  - id: Ocean_a
-    color: "#8dd1e2"
-    min: 1
-    max: 2
-  - id: Ocean_b
-    color: "#63a1be"
-    min: 2
-    max: 3
-  - id: Ocean_c
-    color: "#376d93"
-    min: 3
-    max: 5
-  - id: Ocean_d
-    color: "#012f60"
-    min: 5
-    max: 9999
-
-```
 Новые заметки за последний месяц ([[Все заметки по дате создания\|Все заметки по дате создания]]):
 - 12/03: [[6 - Контент/Идеи/Сайт-каталог плагинов обсидиан\|Сайт-каталог плагинов обсидиан]]
 - 06/03: [[Inbox/Тестирование и наблюдаемость данных в Dbt и не только\|Тестирование и наблюдаемость данных в Dbt и не только]]
