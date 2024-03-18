@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "@11ty/eleventy-img": "^4.0.2",
-        "@chrisburnell/svg-sparkline": "1.0.9",
+        "@chrisburnell/svg-sparkline": "1.0.10",
         "@sindresorhus/slugify": "^2.2.1",
         "@vercel/blob": "0.22.1",
         "@vercel/og": "0.6.2",
