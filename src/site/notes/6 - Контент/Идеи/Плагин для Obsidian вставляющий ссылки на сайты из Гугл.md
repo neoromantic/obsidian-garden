@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-kontent/idei/plagin-dlya-obsidian-vstavlyayushhij-ssylki-na-sajty-iz-gugl/","created":"2024-02-29T04:57:48.499+07:00","updated":"2024-02-29T06:26:22.760+07:00"}
+{"dg-publish":true,"permalink":"/6-kontent/idei/plagin-dlya-obsidian-vstavlyayushhij-ssylki-na-sajty-iz-gugl/","created":"2024-02-29T04:57:48.499+07:00","updated":"2024-03-12T17:09:08.189+07:00"}
 ---
 
 Когда пишешь статью, часто нужно вставить много ссылок на сайт какого-то продукта (ну типа [Obsidian](https://obsidian.md/)), может быть на какие-то более частные типы контента тоже.
@@ -24,3 +24,4 @@
 	- Управление с клавиатуры
 	- Верстка результатов
 - [ ] Переименовать плагин и зарелизить все в github
+- [ ] Вставка картинок из AI / Google Images / Unsplash / Pinterest / …
