@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sergeypetrov-ru/","tags":["gardenEntry"],"created":"2023-10-23T04:50:50.950+07:00","updated":"2024-05-21T17:17:58.928+07:00"}
+{"dg-publish":true,"permalink":"/sergeypetrov-ru/","tags":["gardenEntry"],"created":"2023-10-23T04:50:50.950+07:00","updated":"2024-05-22T02:20:31.944+07:00"}
 ---
 
 
@@ -33,19 +33,6 @@
 - 22/04: [[1 - Проекты/Личный сайт\|Личный сайт]]
 
 { .block-language-dataview}
-~~~
-## Над чем я работаю сейчас 
-<div><ul class="dataview list-view-ul"><li><span data-tag-name="p" class="el-p">05 - CV</span></li><li><span data-tag-name="p" class="el-p">05 - Hosted Obsidian with Sharing</span></li><li><span data-tag-name="p" class="el-p">05 - Артур Консалтинг</span></li><li><span data-tag-name="p" class="el-p">05 - Биография</span></li><li><span data-tag-name="p" class="el-p">05 - Ремонт в Зеленограде</span></li><li><span data-tag-name="p" class="el-p">2024</span></li><li><span data-tag-name="p" class="el-p">Life-tracking</span></li><li><span data-tag-name="p" class="el-p">Untitled</span></li><li><span data-tag-name="p" class="el-p">Книга о Томасе</span></li><li><span data-tag-name="p" class="el-p">Личный сайт</span></li><li><span data-tag-name="p" class="el-p">Марафон Step By Step</span></li><li><span data-tag-name="p" class="el-p">Миграция на собственный движок</span></li></ul></div>
-- [[1 - Проекты/Новые/11 - Книга для Никиты\|11 - Книга для Никиты]]
-- [[Фотоальбом о Томасе\|Фотоальбом о Томасе]]
-- [[Ремонт в Зеленограде\|Ремонт в Зеленограде]]
-- [[6 - Контент/Идеи/Плагин для Obsidian вставляющий ссылки на сайты из Гугл\|Плагин для Obsidian вставляющий ссылки на сайты из Гугл]]
-- [[1 - Проекты/Миграция на собственный движок\|Миграция на собственный движок]]
-- [[RAG\|RAG]]
-	- Пайплайн для парсинга звонков (и подкастов?)
-- [[6 - Контент/Идеи/Перевод сайтов на лету\|Перевод сайтов на лету]]
-- Система документации рабочих проектов
-~~~
 ---
 - [[1 - Проекты/Личный сайт\|Этот сайт]] — зачем он, какие идеи и планы, что я делаю сейчас
 - [[Списки\|Списки]] — чужие продукты, которые я рекомендую
