@@ -1,6 +1,6 @@
-import slugify from "@sindresorhus/slugify";
+const slugify = require("@sindresorhus/slugify");
 
-export function headerToId(heading) {
+function headerToId(heading) {
     var slugifiedHeader = slugify(heading);
     if(!slugifiedHeader){
         return heading;
@@ -43,6 +43,9 @@ function setAttr(token, attr, value, options) {
     }
 }
 
-export const namedHeadingsFilter = function (md, options) {
+//https://github.com/rstacruz/markdown-it-named-headings/blob/master/index.js
+exports.namedHeadingsFilter = function (md, options) {
     md.core.ruler.push('named_headings', namedHeadings.bind(null, md));
 }
+
+exports.headerToId = headerToId;
