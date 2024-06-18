@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/his-house/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Horror","#Thriller"],"created":"2024-01-20T05:36:45.386+07:00","updated":"2024-01-20T05:55:02.190+07:00"}
+{"dg-publish":true,"permalink":"/5-media/filmy/his-house/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Horror","#Thriller"],"created":"2024-01-20T01:36:45.386+03:00","updated":"2024-01-20T01:55:02.190+03:00"}
 ---
 
 # His House (2020)

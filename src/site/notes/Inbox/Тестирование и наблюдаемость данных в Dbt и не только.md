@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing","permalink":"/data-observability-dbt-testing/","created":"2024-03-06T13:14:00.187+07:00","updated":"2024-03-11T19:14:43.152+07:00"}
+{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing","permalink":"/data-observability-dbt-testing/","created":"2024-03-06T09:14:00.187+03:00","updated":"2024-03-11T15:14:43.152+03:00"}
 ---
 
 [[Inbox/Testing and Observability in dbt project — meta analysis\|Read in English]]

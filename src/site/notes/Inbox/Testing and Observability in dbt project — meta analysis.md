@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing/en","permalink":"/data-observability-dbt-testing/en/","created":"2024-03-09T00:46:31.642+07:00","updated":"2024-03-11T19:14:31.806+07:00"}
+{"dg-publish":true,"dg-permalink":"data-observability-dbt-testing/en","permalink":"/data-observability-dbt-testing/en/","created":"2024-03-08T20:46:31.642+03:00","updated":"2024-03-11T15:14:31.806+03:00"}
 ---
 
 [[Inbox/Тестирование и наблюдаемость данных в Dbt и не только\|Читать на русском]]

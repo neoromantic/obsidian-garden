@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/raci-matricza/","created":"2023-10-15T02:14:51.639+07:00","updated":"2024-03-07T18:43:05.858+07:00"}
+{"dg-publish":true,"permalink":"/inbox/raci-matricza/","created":"2023-10-14T22:14:51.639+03:00","updated":"2024-03-07T14:43:05.858+03:00"}
 ---
 
 RACI - это аббревиатура от следующих английских терминов:

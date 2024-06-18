@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/the-last-picture-show/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Romance"],"created":"2024-01-20T05:39:04.971+07:00","updated":"2024-01-20T05:55:02.296+07:00"}
+{"dg-publish":true,"permalink":"/5-media/filmy/the-last-picture-show/","contentClasses":"movie","tags":["to-watch","фильм","#Drama","#Romance"],"created":"2024-01-20T01:39:04.971+03:00","updated":"2024-01-20T01:55:02.296+03:00"}
 ---
 
 # The Last Picture Show (1971)

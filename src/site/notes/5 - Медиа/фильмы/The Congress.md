@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/the-congress/","contentClasses":"movie","tags":["to-watch","фильм","#Animation","#Drama","#Sci-Fi"],"created":"2024-01-20T05:39:04.971+07:00","updated":"2024-01-20T05:55:02.236+07:00"}
+{"dg-publish":true,"permalink":"/5-media/filmy/the-congress/","contentClasses":"movie","tags":["to-watch","фильм","#Animation","#Drama","#Sci-Fi"],"created":"2024-01-20T01:39:04.971+03:00","updated":"2024-06-07T16:59:00.132+03:00"}
 ---
 
 # The Congress (2013)

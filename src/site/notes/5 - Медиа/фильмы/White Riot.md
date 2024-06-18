@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/white-riot/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Music"],"created":"2024-01-20T05:39:04.973+07:00","updated":"2024-01-20T05:55:02.296+07:00"}
+{"dg-publish":true,"permalink":"/5-media/filmy/white-riot/","contentClasses":"movie","tags":["to-watch","фильм","#Documentary","#Music"],"created":"2024-01-20T01:39:04.973+03:00","updated":"2024-01-20T01:55:02.296+03:00"}
 ---
 
 # White Riot (2019)

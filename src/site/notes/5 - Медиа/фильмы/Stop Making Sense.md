@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-media/filmy/stop-making-sense/","contentClasses":"movie","tags":["фильм","#Documentary","#Music"],"created":"2024-01-20T05:39:04.970+07:00","updated":"2024-01-20T19:10:01.194+07:00"}
+{"dg-publish":true,"permalink":"/5-media/filmy/stop-making-sense/","contentClasses":"movie","tags":["фильм","#Documentary","#Music"],"created":"2024-01-20T01:39:04.970+03:00","updated":"2024-01-20T15:10:01.194+03:00"}
 ---
 
 # Stop Making Sense (1984)
