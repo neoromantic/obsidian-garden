@@ -1,11 +1,9 @@
-import dotenv from "dotenv"
-dotenv.config();
-import settings from '../../helpers/constants.js';
-
+require("dotenv").config();
+const settings = require("../../helpers/constants");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
 
-export default {
+module.exports = {
   eleventyComputed: {
     layout: (data) => {
       if (data.tags.indexOf("gardenEntry") != -1) {

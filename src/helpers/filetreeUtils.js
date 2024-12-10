@@ -24,6 +24,17 @@ const sortTree = (unsorted) => {
         return -1;
       }
 
+      //Regular expression that extracts any initial decimal number
+      const aNum = parseFloat(a.match(/^\d+(\.\d+)?/));
+      const bNum = parseFloat(b.match(/^\d+(\.\d+)?/));
+
+      const a_is_num = !isNaN(aNum);
+      const b_is_num = !isNaN(bNum);
+
+      if (a_is_num && b_is_num && aNum != bNum) {
+        return aNum - bNum; //Fast comparison between numbers
+      }
+
       if (a.toLowerCase() > b.toLowerCase()) {
         return 1;
       }
@@ -90,9 +101,9 @@ function getPermalinkMeta(note, key) {
 }
 
 function assignNested(obj, keyPath, value) {
-  const lastKeyIndex = keyPath.length - 1;
+  lastKeyIndex = keyPath.length - 1;
   for (var i = 0; i < lastKeyIndex; ++i) {
-    let key = keyPath[i];
+    key = keyPath[i];
     if (!(key in obj)) {
       obj[key] = { isFolder: true };
     }
@@ -101,7 +112,7 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
-export function getFileTree(data) {
+function getFileTree(data) {
   const tree = {};
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
@@ -111,3 +122,4 @@ export function getFileTree(data) {
   return fileTree;
 }
 
+exports.getFileTree = getFileTree;

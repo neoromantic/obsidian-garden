@@ -1,31 +1,20 @@
-import slugify from "@sindresorhus/slugify";
-import markdownIt from "markdown-it";
-import fs from "fs";
-import matter from "gray-matter";
-import faviconsPlugin from "eleventy-plugin-gen-favicons";
-import tocPlugin from "eleventy-plugin-nesting-toc";
-import {parse} from "node-html-parser";
-import htmlMinifier from "html-minifier";
-import pluginRss from "@11ty/eleventy-plugin-rss";
-import metagen from 'eleventy-plugin-metagen';
+const slugify = require("@sindresorhus/slugify");
+const markdownIt = require("markdown-it");
+const fs = require("fs");
+const matter = require("gray-matter");
+const faviconsPlugin = require("eleventy-plugin-gen-favicons");
+const tocPlugin = require("eleventy-plugin-nesting-toc");
+const { parse } = require("node-html-parser");
+const htmlMinifier = require("html-minifier");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-import {headerToId, namedHeadingsFilter} from "./src/helpers/utils.js";
-import {
+const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const {
   userMarkdownSetup,
   userEleventySetup,
-} from "./src/helpers/userSetup.js";
+} = require("./src/helpers/userSetup");
 
-import Image from "@11ty/eleventy-img";
-
-import markdownItAnchor from "markdown-it-anchor";
-import markdownItMark from "markdown-it-mark";
-import markdownItFootnote from "markdown-it-footnote";
-import markdownItMathjax3 from "markdown-it-mathjax3";
-import markdownItAttrs from "markdown-it-attrs";
-import markdownItTaskCheckbox from "markdown-it-task-checkbox";
-import markdownItPlantuml from "markdown-it-plantuml";
-
-
+const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
@@ -104,7 +93,7 @@ function getAnchorAttributes(filePath, linkTitle) {
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
-export default function (eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
@@ -112,26 +101,27 @@ export default function (eleventyConfig) {
     breaks: true,
     html: true,
     linkify: true,
-  }).use(markdownItAnchor, {
+  })
+    .use(require("markdown-it-anchor"), {
       slugify: headerToId,
     })
-    .use(markdownItMark)
-    .use(markdownItFootnote)
+    .use(require("markdown-it-mark"))
+    .use(require("markdown-it-footnote"))
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
       };
     })
-    .use(markdownItMathjax3, {
+    .use(require("markdown-it-mathjax3"), {
       tex: {
         inlineMath: [["$", "$"]],
       },
       options: {
-        skipHtmlTags: {"[-]": ["pre"]},
+        skipHtmlTags: { "[-]": ["pre"] },
       },
     })
-    .use(markdownItAttrs)
-    .use(markdownItTaskCheckbox, {
+    .use(require("markdown-it-attrs"))
+    .use(require("markdown-it-task-checkbox"), {
       disabled: true,
       divWrap: false,
       divClass: "checkbox",
@@ -139,7 +129,7 @@ export default function (eleventyConfig) {
       ulClass: "task-list",
       liClass: "task-list-item",
     })
-    .use(markdownItPlantuml, {
+    .use(require("markdown-it-plantuml"), {
       openMarker: "```plantuml",
       closeMarker: "```",
     })
@@ -442,6 +432,9 @@ export default function (eleventyConfig) {
 
 
   eleventyConfig.addTransform("picture", function (str) {
+    if(process.env.USE_FULL_RESOLUTION_IMAGES === "true"){
+      return str;
+    }
     const parsed = parse(str);
     for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
       const src = imageTag.getAttribute("src");
@@ -497,7 +490,7 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
     if (
-      process.env.NODE_ENV === "production" &&
+      (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
       outputPath &&
       outputPath.endsWith(".html")
     ) {
@@ -505,6 +498,8 @@ export default function (eleventyConfig) {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true,
+        conservativeCollapse: true,
+        preserveLineBreaks: true,
         minifyCSS: true,
         minifyJS: true,
         keepClosingSlash: true,
@@ -516,19 +511,21 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPlugin(faviconsPlugin, {outputDir: "dist"});
+  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
 
-  eleventyConfig.addPlugin(metagen);
-
 
   eleventyConfig.addFilter("dateToZulu", function (date) {
-    if (!date) return "";
-    return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
+    try {
+      return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
+    } catch {
+      return "";
+    }
   });
+  
   eleventyConfig.addFilter("jsonify", function (variable) {
     return JSON.stringify(variable) || '""';
   });

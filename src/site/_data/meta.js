@@ -1,11 +1,7 @@
-import dotenv from "dotenv"
-dotenv.config();
-import axios from 'axios';
-import fs from 'fs';
-import crypto from 'crypto';
-import { globSync } from 'glob';
+require("dotenv").config();
+const { globSync } = require("glob");
 
-export default async (data) => {
+module.exports = async (data) => {
   let baseUrl = process.env.SITE_BASE_URL || "";
   if (baseUrl && !baseUrl.startsWith("http")) {
     baseUrl = "https://" + baseUrl;
